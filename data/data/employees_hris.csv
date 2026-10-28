@@ -1,0 +1,2664 @@
+employee_id,employee_name,team_id,gender,level,tenure_months_at_start,joined_month,exit_month,status
+NV10001,Arvind Shaikh,T001,Male,L1 Associate,44,2024-03,,Active
+NV10002,Varun Nair,T001,Male,L2 Senior Associate,26,2016-12,,Active
+NV10003,Deepa Subramanian,T001,Male,L1 Associate,34,2018-10,,Active
+NV10004,Ravi Mehta,T001,Male,L2 Senior Associate,48,2023-03,,Active
+NV10005,Rahul Mishra,T001,Female,L1 Associate,17,2018-06,2025-04,Exited
+NV10006,Nikhil Mehta,T001,Female,L2 Senior Associate,14,2010-01,,Active
+NV10007,Naveen Das,T001,Male,L2 Senior Associate,59,2022-06,,Active
+NV10008,Deepak Banerjee,T001,Male,L1 Associate,18,2023-11,2024-12,Exited
+NV10009,Ashwin Das,T001,Male,L1 Associate,71,2021-11,,Active
+NV10010,Manoj Deshmukh,T001,Male,L2 Senior Associate,16,2023-05,2026-04,Exited
+NV10011,Harini Sharma,T001,Female,L2 Senior Associate,17,2022-09,,Active
+NV10012,Ravi Reddy,T001,Male,L2 Senior Associate,17,2021-05,,Active
+NV10013,Pooja Rao,T001,Male,L2 Senior Associate,25,2020-11,2024-11,Exited
+NV10014,Lakshmi Deshmukh,T001,Female,L2 Senior Associate,8,2016-01,,Active
+NV10015,Priya Khan,T001,Male,L1 Associate,11,2022-06,2026-03,Exited
+NV10016,Suresh Khan,T001,Male,L1 Associate,34,2021-04,,Active
+NV10017,Gayathri Krishnan,T001,Female,L2 Senior Associate,2,2023-06,,Active
+NV10018,Bhavna Joshi,T001,Female,L1 Associate,51,2021-05,,Active
+NV10019,Abhishek Verma,T002,Female,L3 Lead,12,2018-03,2025-12,Exited
+NV10020,Prakash Shaikh,T002,Female,L3 Lead,12,2018-01,,Active
+NV10021,Siddharth Reddy,T002,Female,L2 Senior Associate,11,2022-08,2025-03,Exited
+NV10022,Naveen Kulkarni,T002,Male,L1 Associate,20,2021-04,2025-04,Exited
+NV10023,Meera Mehta,T002,Female,L1 Associate,57,2012-11,,Active
+NV10024,Sanjay Rao,T002,Male,L3 Lead,13,2021-08,2025-12,Exited
+NV10025,Swati Deshmukh,T002,Female,L2 Senior Associate,14,2018-07,2025-06,Exited
+NV10026,Nandini Naidu,T002,Male,L2 Senior Associate,64,2019-09,,Active
+NV10027,Mohammed Agarwal,T002,Male,L1 Associate,51,2022-03,,Active
+NV10028,Nikhil Rao,T002,Male,L2 Senior Associate,34,2024-04,,Active
+NV10029,Ananya Agarwal,T002,Male,L1 Associate,18,2021-07,,Active
+NV10030,Jyoti Singh,T002,Female,L1 Associate,36,2023-04,2025-02,Exited
+NV10031,Vikram Pillai,T002,Male,L2 Senior Associate,20,2020-05,2025-03,Exited
+NV10032,Meera Verma,T002,Male,L2 Senior Associate,31,2023-06,2026-05,Exited
+NV10033,Manoj Mehta,T002,Male,L1 Associate,6,2023-05,,Active
+NV10034,Arjun Shaikh,T003,Female,L3 Lead,10,2020-10,,Active
+NV10035,Abhishek Das,T003,Male,L2 Senior Associate,39,2022-08,,Active
+NV10036,Pranav Banerjee,T003,Male,L1 Associate,10,2015-04,2025-09,Exited
+NV10037,Bhavna Shaikh,T003,Male,L1 Associate,4,2020-11,2026-01,Exited
+NV10038,Ishita Pillai,T003,Female,L1 Associate,9,2022-05,,Active
+NV10039,Nikhil Banerjee,T003,Male,L1 Associate,42,2023-04,2026-06,Exited
+NV10040,Arvind Shaikh,T003,Male,L2 Senior Associate,65,2022-05,,Active
+NV10041,Abhishek Sharma,T003,Male,L2 Senior Associate,58,2022-04,2026-07,Exited
+NV10042,Nikhil Menon,T003,Male,L1 Associate,13,2023-07,,Active
+NV10043,Deepak Patil,T003,Male,L3 Lead,164,2021-11,,Active
+NV10044,Imran Khan,T004,Male,L2 Senior Associate,32,2023-05,2026-06,Exited
+NV10045,Lakshmi Agarwal,T004,Male,L3 Lead,19,2022-11,2025-12,Exited
+NV10046,Ravi Pillai,T004,Male,L1 Associate,83,2021-06,,Active
+NV10047,Rohit Patil,T004,Male,L1 Associate,20,2023-05,2026-07,Exited
+NV10048,Rohit Menon,T004,Male,L1 Associate,37,2021-06,2025-10,Exited
+NV10049,Pooja Naidu,T004,Male,L3 Lead,26,2019-11,,Active
+NV10050,Gaurav Deshmukh,T004,Female,L1 Associate,51,2021-11,,Active
+NV10051,Ajay Banerjee,T004,Female,L1 Associate,18,2021-11,,Active
+NV10052,Mohammed Mehta,T004,Female,L1 Associate,43,2023-08,2025-08,Exited
+NV10053,Ishita Mehta,T004,Female,L2 Senior Associate,96,2022-05,,Active
+NV10054,Bhavna Khan,T004,Male,L1 Associate,55,2023-11,,Active
+NV10055,Neha Mehta,T004,Female,L1 Associate,37,2022-11,,Active
+NV10056,Abhishek Naidu,T004,Male,L1 Associate,2,2018-05,,Active
+NV10057,Arvind Agarwal,T004,Male,L1 Associate,20,2023-10,,Active
+NV10058,Rohit Mishra,T004,Male,L1 Associate,47,2021-08,2026-04,Exited
+NV10059,Bhavna Pillai,T004,Female,L1 Associate,12,2022-08,,Active
+NV10060,Farah Rao,T004,Female,L1 Associate,20,2022-11,2025-06,Exited
+NV10061,Tanvi Sharma,T004,Female,L1 Associate,51,2018-05,,Active
+NV10062,Kavya Patil,T004,Male,L1 Associate,11,2024-01,,Active
+NV10063,Vikram Mishra,T005,Female,L1 Associate,17,2022-04,2025-08,Exited
+NV10064,Imran Banerjee,T005,Male,L2 Senior Associate,12,2019-03,,Active
+NV10065,Jyoti Krishnan,T005,Male,L3 Lead,26,2016-07,2025-06,Exited
+NV10066,Ishita Agarwal,T005,Female,L1 Associate,26,2022-01,,Active
+NV10067,Suresh Deshmukh,T005,Male,L1 Associate,62,2022-02,,Active
+NV10068,Arvind Das,T005,Male,L2 Senior Associate,41,2023-12,,Active
+NV10069,Suresh Mishra,T005,Male,L1 Associate,37,2024-01,,Active
+NV10070,Arjun Mehta,T005,Male,L1 Associate,15,2021-04,,Active
+NV10071,Harish Iyer,T005,Male,L1 Associate,41,2023-10,,Active
+NV10072,Vikram Mishra,T006,Male,L2 Senior Associate,46,2023-12,2026-07,Exited
+NV10073,Lakshmi Deshmukh,T006,Male,L2 Senior Associate,57,2017-09,,Active
+NV10074,Gaurav Agarwal,T006,Male,L1 Associate,8,2016-11,,Active
+NV10075,Kunal Shaikh,T006,Female,L1 Associate,4,2023-12,,Active
+NV10076,Ishita Deshmukh,T006,Female,L1 Associate,28,2023-03,2025-10,Exited
+NV10077,Shalini Pillai,T006,Male,L1 Associate,59,2020-01,,Active
+NV10078,Naveen Banerjee,T006,Male,L2 Senior Associate,4,2024-04,,Active
+NV10079,Divya Naidu,T006,Female,L1 Associate,17,2022-04,,Active
+NV10080,Tanvi Banerjee,T006,Male,L2 Senior Associate,32,2022-01,,Active
+NV10081,Jyoti Nair,T006,Male,L2 Senior Associate,66,2021-10,,Active
+NV10082,Farah Bhat,T006,Male,L1 Associate,41,2022-12,2026-02,Exited
+NV10083,Rahul Patil,T006,Male,L1 Associate,52,2023-01,,Active
+NV10084,Karthik Sharma,T006,Male,L2 Senior Associate,32,2020-02,,Active
+NV10085,Meera Sharma,T006,Male,L2 Senior Associate,65,2023-01,,Active
+NV10086,Karthik Chauhan,T006,Male,L2 Senior Associate,53,2023-03,,Active
+NV10087,Ravi Mishra,T007,Male,L1 Associate,47,2020-12,2025-03,Exited
+NV10088,Farah Menon,T007,Male,L2 Senior Associate,32,2023-05,,Active
+NV10089,Pooja Subramanian,T007,Male,L3 Lead,59,2023-01,2026-08,Exited
+NV10090,Kavya Das,T007,Male,L1 Associate,15,2019-12,,Active
+NV10091,Sanjay Joshi,T007,Female,L1 Associate,34,2022-10,,Active
+NV10092,Harish Das,T007,Male,L2 Senior Associate,7,2022-09,,Active
+NV10093,Nandini Sharma,T008,Male,L1 Associate,26,2024-06,,Active
+NV10094,Gayathri Khan,T008,Male,L1 Associate,71,2023-04,2025-02,Exited
+NV10095,Manoj Chauhan,T008,Male,L2 Senior Associate,38,2019-11,2025-07,Exited
+NV10096,Deepak Banerjee,T008,Female,L3 Lead,36,2022-09,2026-09,Exited
+NV10097,Gaurav Bhat,T008,Male,L1 Associate,99,2021-10,,Active
+NV10098,Aishwarya Mehta,T008,Male,L2 Senior Associate,45,2019-06,,Active
+NV10099,Deepa Banerjee,T008,Male,L2 Senior Associate,2,2023-04,,Active
+NV10100,Manoj Patil,T008,Male,L3 Lead,25,2015-03,2026-05,Exited
+NV10101,Pranav Agarwal,T008,Female,L2 Senior Associate,22,2023-09,2025-08,Exited
+NV10102,Arvind Rao,T008,Male,L2 Senior Associate,42,2024-02,2026-09,Exited
+NV10103,Meera Pillai,T008,Female,L2 Senior Associate,103,2022-07,2026-07,Exited
+NV10104,Harish Gupta,T008,Male,L1 Associate,31,2022-12,2025-02,Exited
+NV10105,Kunal Chauhan,T009,Male,L2 Senior Associate,37,2023-12,,Active
+NV10106,Neha Shaikh,T009,Female,L1 Associate,19,2019-07,,Active
+NV10107,Rahul Verma,T009,Male,L2 Senior Associate,28,2016-10,,Active
+NV10108,Abhishek Patil,T009,Male,L2 Senior Associate,44,2018-01,,Active
+NV10109,Imran Mishra,T009,Male,L2 Senior Associate,21,2020-04,,Active
+NV10110,Farah Verma,T009,Male,L1 Associate,31,2021-10,,Active
+NV10111,Priya Nair,T009,Female,L3 Lead,72,2022-11,,Active
+NV10112,Anjali Reddy,T009,Female,L2 Senior Associate,45,2022-08,,Active
+NV10113,Sneha Singh,T009,Male,L1 Associate,26,2023-02,,Active
+NV10114,Varun Singh,T009,Male,L1 Associate,26,2020-11,,Active
+NV10115,Deepak Sharma,T009,Female,L1 Associate,43,2019-04,,Active
+NV10116,Ananya Shaikh,T009,Male,L1 Associate,43,2024-10,,Active
+NV10117,Rohit Kulkarni,T009,Male,L2 Senior Associate,57,2022-09,2025-05,Exited
+NV10118,Ajay Rao,T009,Female,L2 Senior Associate,3,2021-07,,Active
+NV10119,Pooja Banerjee,T010,Male,L1 Associate,59,2016-10,,Active
+NV10120,Vikram Chauhan,T010,Male,L1 Associate,16,2019-01,,Active
+NV10121,Ravi Mishra,T010,Male,L3 Lead,67,2022-01,,Active
+NV10122,Ritika Patil,T010,Male,L1 Associate,88,2023-10,,Active
+NV10123,Manoj Shaikh,T010,Male,L1 Associate,129,2019-03,,Active
+NV10124,Ravi Kulkarni,T011,Male,L1 Associate,71,2023-07,,Active
+NV10125,Vikram Subramanian,T011,Female,L2 Senior Associate,74,2022-11,2025-07,Exited
+NV10126,Deepa Khan,T011,Male,L3 Lead,63,2023-03,,Active
+NV10127,Mohammed Reddy,T011,Female,L1 Associate,55,2022-10,,Active
+NV10128,Aditya Verma,T011,Female,L1 Associate,23,2014-01,,Active
+NV10129,Kavya Krishnan,T011,Male,L1 Associate,49,2023-09,,Active
+NV10130,Varun Gupta,T011,Male,L1 Associate,24,2023-07,,Active
+NV10131,Kavya Naidu,T011,Male,L1 Associate,23,2024-02,,Active
+NV10132,Sanjay Iyer,T011,Female,L2 Senior Associate,21,2023-02,,Active
+NV10133,Karthik Das,T011,Female,L2 Senior Associate,26,2020-12,,Active
+NV10134,Varun Krishnan,T011,Female,L3 Lead,18,2021-12,,Active
+NV10135,Rohit Agarwal,T011,Male,L1 Associate,32,2023-01,,Active
+NV10136,Aishwarya Naidu,T012,Female,L2 Senior Associate,22,2024-07,2026-03,Exited
+NV10137,Imran Krishnan,T012,Male,L1 Associate,7,2023-10,,Active
+NV10138,Kunal Shaikh,T012,Male,L1 Associate,41,2021-02,,Active
+NV10139,Aishwarya Gupta,T012,Male,L1 Associate,40,2021-07,2025-10,Exited
+NV10140,Harish Gupta,T012,Male,L2 Senior Associate,27,2018-12,2026-08,Exited
+NV10141,Anjali Joshi,T012,Female,L3 Lead,23,2024-06,,Active
+NV10142,Arjun Mehta,T012,Male,L1 Associate,41,2024-02,,Active
+NV10143,Rahul Reddy,T012,Male,L2 Senior Associate,80,2021-08,2025-12,Exited
+NV10144,Anjali Rao,T012,Male,L1 Associate,71,2020-04,,Active
+NV10145,Shalini Singh,T012,Male,L1 Associate,57,2024-01,2024-11,Exited
+NV10146,Shalini Joshi,T012,Female,L1 Associate,22,2019-12,2026-01,Exited
+NV10147,Vikram Banerjee,T012,Female,L1 Associate,63,2022-12,,Active
+NV10148,Deepak Pillai,T012,Male,L3 Lead,5,2021-10,,Active
+NV10149,Swati Deshmukh,T012,Female,L2 Senior Associate,77,2021-02,2026-08,Exited
+NV10150,Shalini Kulkarni,T012,Male,L1 Associate,29,2021-10,,Active
+NV10151,Karthik Nair,T013,Male,L1 Associate,7,2023-12,2025-04,Exited
+NV10152,Imran Mishra,T013,Male,L1 Associate,42,2024-01,,Active
+NV10153,Imran Mishra,T013,Male,L1 Associate,76,2021-05,,Active
+NV10154,Tanvi Nair,T013,Female,L3 Lead,28,2024-02,,Active
+NV10155,Sana Menon,T013,Male,L1 Associate,52,2019-11,2025-09,Exited
+NV10156,Priya Reddy,T013,Male,L3 Lead,59,2023-08,,Active
+NV10157,Vikram Naidu,T013,Female,L1 Associate,45,2023-04,2025-07,Exited
+NV10158,Revathi Pillai,T013,Female,L3 Lead,55,2024-01,2025-09,Exited
+NV10159,Sanjay Mishra,T013,Male,L2 Senior Associate,9,2021-02,,Active
+NV10160,Harish Gupta,T013,Male,L1 Associate,8,2022-04,2026-05,Exited
+NV10161,Ananya Singh,T013,Male,L1 Associate,11,2019-08,2025-11,Exited
+NV10162,Ritika Singh,T013,Male,L1 Associate,49,2023-05,,Active
+NV10163,Nikhil Mishra,T014,Male,L3 Lead,61,2020-04,,Active
+NV10164,Sanjay Krishnan,T014,Female,L1 Associate,38,2023-07,2025-06,Exited
+NV10165,Pooja Subramanian,T014,Male,L2 Senior Associate,39,2021-04,,Active
+NV10166,Mohammed Joshi,T014,Female,L2 Senior Associate,96,2016-06,,Active
+NV10167,Aditya Das,T014,Male,L1 Associate,43,2022-02,,Active
+NV10168,Nikhil Bhat,T014,Male,L2 Senior Associate,46,2017-12,,Active
+NV10169,Sana Chauhan,T014,Male,L1 Associate,1,2019-12,,Active
+NV10170,Swati Chauhan,T014,Female,L2 Senior Associate,23,2020-12,2025-07,Exited
+NV10171,Tanvi Khan,T014,Female,L1 Associate,36,2023-07,,Active
+NV10172,Aditya Patil,T014,Male,L1 Associate,77,2021-05,,Active
+NV10173,Ishita Nair,T015,Male,L1 Associate,10,2024-02,,Active
+NV10174,Arjun Gupta,T015,Female,L1 Associate,20,2020-12,,Active
+NV10175,Lakshmi Khan,T015,Female,L2 Senior Associate,35,2024-05,,Active
+NV10176,Sneha Das,T015,Male,L3 Lead,18,2009-11,,Active
+NV10177,Simran Bhat,T015,Male,L1 Associate,14,2015-05,2025-03,Exited
+NV10178,Abhishek Gupta,T015,Male,L2 Senior Associate,16,2024-03,,Active
+NV10179,Varun Naidu,T015,Female,L3 Lead,14,2020-01,,Active
+NV10180,Lakshmi Shaikh,T015,Female,L3 Lead,41,2021-12,,Active
+NV10181,Gayathri Joshi,T015,Male,L2 Senior Associate,25,2022-10,,Active
+NV10182,Manoj Reddy,T015,Female,L1 Associate,31,2023-07,,Active
+NV10183,Swati Kulkarni,T015,Male,L1 Associate,4,2021-08,2026-09,Exited
+NV10184,Ritika Joshi,T015,Male,L1 Associate,30,2017-02,2024-11,Exited
+NV10185,Priya Pillai,T016,Male,L1 Associate,13,2024-10,2025-04,Exited
+NV10186,Deepak Joshi,T016,Female,L1 Associate,21,2023-11,,Active
+NV10187,Rahul Sharma,T016,Male,L1 Associate,29,2022-12,,Active
+NV10188,Sneha Nair,T016,Female,L3 Lead,40,2023-05,,Active
+NV10189,Harini Sharma,T016,Male,L2 Senior Associate,41,2024-03,,Active
+NV10190,Neha Nair,T016,Female,L1 Associate,20,2023-07,,Active
+NV10191,Lakshmi Khan,T016,Male,L1 Associate,54,2023-10,,Active
+NV10192,Aditya Chauhan,T016,Female,L2 Senior Associate,37,2023-09,,Active
+NV10193,Simran Kulkarni,T016,Male,L1 Associate,7,2023-11,,Active
+NV10194,Deepak Deshmukh,T016,Male,L1 Associate,32,2022-08,,Active
+NV10195,Pranav Naidu,T016,Female,L1 Associate,8,2023-02,,Active
+NV10196,Varun Agarwal,T016,Female,L1 Associate,27,2022-03,,Active
+NV10197,Ravi Iyer,T016,Male,L3 Lead,49,2020-08,,Active
+NV10198,Bhavna Kulkarni,T016,Female,L1 Associate,53,2020-07,,Active
+NV10199,Pranav Krishnan,T016,Female,L2 Senior Associate,59,2021-12,,Active
+NV10200,Pranav Deshmukh,T016,Female,L1 Associate,10,2021-02,,Active
+NV10201,Arjun Khan,T016,Male,L1 Associate,22,2019-05,,Active
+NV10202,Pooja Khan,T016,Female,L1 Associate,29,2022-08,,Active
+NV10203,Jyoti Shaikh,T016,Female,L1 Associate,11,2023-10,,Active
+NV10204,Ajay Joshi,T016,Male,L2 Senior Associate,17,2019-12,,Active
+NV10205,Anjali Rao,T016,Male,L1 Associate,40,2023-08,,Active
+NV10206,Prakash Agarwal,T017,Female,L1 Associate,21,2020-09,,Active
+NV10207,Arjun Sharma,T017,Male,L2 Senior Associate,66,2022-07,,Active
+NV10208,Swati Agarwal,T017,Male,L3 Lead,7,2022-09,,Active
+NV10209,Revathi Rao,T017,Female,L1 Associate,31,2020-05,,Active
+NV10210,Abhishek Nair,T018,Female,L2 Senior Associate,28,2022-09,,Active
+NV10211,Neha Das,T018,Male,L1 Associate,32,2024-04,2026-03,Exited
+NV10212,Rahul Kulkarni,T018,Female,L2 Senior Associate,39,2024-05,,Active
+NV10213,Manoj Sharma,T018,Female,L2 Senior Associate,36,2023-07,,Active
+NV10214,Sanjay Kulkarni,T018,Male,L2 Senior Associate,31,2023-09,,Active
+NV10215,Farah Mehta,T018,Female,L1 Associate,59,2020-02,,Active
+NV10216,Sneha Bhat,T018,Male,L2 Senior Associate,16,2019-01,2025-10,Exited
+NV10217,Pooja Gupta,T018,Male,L2 Senior Associate,60,2020-08,2026-01,Exited
+NV10218,Ravi Nair,T018,Male,L1 Associate,30,2024-04,,Active
+NV10219,Pooja Iyer,T018,Male,L1 Associate,53,2019-05,2026-06,Exited
+NV10220,Aishwarya Shaikh,T018,Male,L3 Lead,32,2019-09,,Active
+NV10221,Simran Subramanian,T018,Female,L3 Lead,6,2020-08,,Active
+NV10222,Varun Naidu,T018,Male,L1 Associate,172,2023-08,,Active
+NV10223,Neha Sharma,T018,Male,L1 Associate,8,2023-05,,Active
+NV10224,Arjun Chauhan,T018,Male,L1 Associate,24,2023-10,2026-05,Exited
+NV10225,Rahul Verma,T019,Female,L1 Associate,28,2020-08,,Active
+NV10226,Anjali Menon,T019,Male,L1 Associate,11,2023-07,,Active
+NV10227,Deepak Pillai,T019,Male,L1 Associate,35,2023-07,,Active
+NV10228,Harish Menon,T019,Male,L3 Lead,21,2020-06,,Active
+NV10229,Deepak Patil,T019,Male,L1 Associate,11,2021-11,,Active
+NV10230,Shalini Mehta,T019,Female,L2 Senior Associate,12,2021-11,,Active
+NV10231,Ananya Khan,T019,Male,L1 Associate,15,2022-11,,Active
+NV10232,Ajay Mehta,T020,Male,L2 Senior Associate,7,2019-11,2026-09,Exited
+NV10233,Bhavna Joshi,T020,Female,L1 Associate,38,2021-10,,Active
+NV10234,Kunal Patil,T020,Male,L1 Associate,26,2021-02,,Active
+NV10235,Deepa Sharma,T020,Male,L3 Lead,30,2023-08,2026-09,Exited
+NV10236,Ananya Joshi,T020,Male,L2 Senior Associate,45,2024-01,,Active
+NV10237,Sanjay Banerjee,T020,Male,L1 Associate,10,2022-11,,Active
+NV10238,Rahul Joshi,T020,Male,L1 Associate,84,2021-11,,Active
+NV10239,Gayathri Patil,T020,Female,L1 Associate,13,2022-07,,Active
+NV10240,Siddharth Chauhan,T020,Male,L1 Associate,11,2022-03,,Active
+NV10241,Meera Gupta,T020,Female,L2 Senior Associate,7,2021-07,,Active
+NV10242,Aditya Iyer,T020,Female,L1 Associate,41,2024-10,,Active
+NV10243,Varun Shaikh,T020,Female,L2 Senior Associate,50,2022-02,,Active
+NV10244,Ishita Kulkarni,T020,Male,L1 Associate,69,2022-01,,Active
+NV10245,Siddharth Shaikh,T020,Male,L1 Associate,9,2022-07,,Active
+NV10246,Ashwin Bhat,T020,Female,L3 Lead,23,2019-06,,Active
+NV10247,Gayathri Iyer,T020,Male,L1 Associate,19,2023-10,,Active
+NV10248,Harish Sharma,T020,Female,L1 Associate,12,2023-12,,Active
+NV10249,Siddharth Menon,T020,Female,L1 Associate,19,2024-07,2025-05,Exited
+NV10250,Deepa Khan,T021,Male,L1 Associate,73,2020-06,,Active
+NV10251,Arvind Patil,T021,Male,L2 Senior Associate,2,2022-04,2026-04,Exited
+NV10252,Prakash Verma,T021,Male,L1 Associate,7,2021-01,,Active
+NV10253,Mohammed Singh,T021,Female,L2 Senior Associate,13,2019-11,2025-07,Exited
+NV10254,Kunal Menon,T021,Male,L1 Associate,31,2019-06,2025-07,Exited
+NV10255,Aditya Joshi,T021,Male,L1 Associate,12,2022-07,2025-06,Exited
+NV10256,Jyoti Singh,T022,Male,L2 Senior Associate,62,2024-03,,Active
+NV10257,Vikram Naidu,T022,Male,L2 Senior Associate,41,2022-08,2026-10,Exited
+NV10258,Vikram Mehta,T022,Male,L3 Lead,21,2023-11,,Active
+NV10259,Abhishek Banerjee,T022,Female,L1 Associate,93,2024-04,,Active
+NV10260,Manoj Rao,T023,Male,L1 Associate,19,2022-04,,Active
+NV10261,Farah Gupta,T023,Male,L1 Associate,34,2022-09,,Active
+NV10262,Siddharth Pillai,T023,Male,L2 Senior Associate,51,2019-11,,Active
+NV10263,Nandini Banerjee,T023,Male,L1 Associate,32,2024-03,,Active
+NV10264,Priya Singh,T023,Female,L1 Associate,56,2020-08,,Active
+NV10265,Imran Agarwal,T023,Male,L2 Senior Associate,16,2023-09,2026-07,Exited
+NV10266,Rahul Mishra,T023,Male,L3 Lead,89,2024-06,,Active
+NV10267,Kavya Naidu,T023,Male,L3 Lead,62,2021-09,,Active
+NV10268,Shalini Reddy,T023,Female,L2 Senior Associate,47,2020-08,,Active
+NV10269,Neha Singh,T023,Male,L2 Senior Associate,81,2023-09,,Active
+NV10270,Sanjay Bhat,T023,Male,L1 Associate,9,2023-06,,Active
+NV10271,Ishita Patil,T023,Male,L1 Associate,14,2022-11,,Active
+NV10272,Lakshmi Sharma,T024,Female,L2 Senior Associate,46,2022-12,,Active
+NV10273,Sanjay Krishnan,T024,Female,L1 Associate,22,2024-07,,Active
+NV10274,Gaurav Chauhan,T024,Female,L1 Associate,43,2022-04,,Active
+NV10275,Neha Chauhan,T024,Male,L2 Senior Associate,3,2024-01,2026-04,Exited
+NV10276,Kavya Verma,T024,Male,L1 Associate,20,2022-03,,Active
+NV10277,Anjali Mehta,T024,Male,L2 Senior Associate,19,2022-12,,Active
+NV10278,Imran Mishra,T024,Female,L3 Lead,49,2024-01,,Active
+NV10279,Varun Khan,T024,Female,L1 Associate,27,2016-10,2025-07,Exited
+NV10280,Ritika Shaikh,T024,Male,L3 Lead,35,2023-03,2025-07,Exited
+NV10281,Lakshmi Reddy,T024,Female,L2 Senior Associate,11,2017-01,2026-04,Exited
+NV10282,Nandini Bhat,T024,Male,L3 Lead,45,2022-10,,Active
+NV10283,Anjali Kulkarni,T024,Male,L1 Associate,64,2023-11,,Active
+NV10284,Neha Iyer,T025,Female,L1 Associate,26,2015-07,,Active
+NV10285,Prakash Chauhan,T025,Male,L3 Lead,38,2018-12,,Active
+NV10286,Harish Mishra,T025,Male,L3 Lead,26,2015-02,,Active
+NV10287,Farah Gupta,T025,Male,L1 Associate,27,2024-05,,Active
+NV10288,Swati Rao,T025,Male,L2 Senior Associate,66,2016-11,,Active
+NV10289,Sanjay Rao,T025,Male,L1 Associate,41,2022-01,,Active
+NV10290,Simran Patil,T025,Male,L3 Lead,34,2022-04,,Active
+NV10291,Anjali Krishnan,T025,Male,L1 Associate,27,2023-03,,Active
+NV10292,Prakash Naidu,T025,Female,L1 Associate,3,2017-03,2025-07,Exited
+NV10293,Priya Subramanian,T025,Female,L1 Associate,10,2023-03,,Active
+NV10294,Varun Banerjee,T025,Female,L1 Associate,48,2022-07,,Active
+NV10295,Arjun Singh,T025,Female,L2 Senior Associate,29,2017-06,,Active
+NV10296,Abhishek Das,T025,Male,L2 Senior Associate,33,2023-10,,Active
+NV10297,Deepak Mehta,T025,Female,L2 Senior Associate,23,2023-04,,Active
+NV10298,Ritika Bhat,T025,Male,L1 Associate,19,2023-10,,Active
+NV10299,Imran Sharma,T025,Male,L1 Associate,4,2023-04,2026-02,Exited
+NV10300,Shalini Kulkarni,T025,Male,L1 Associate,47,2023-04,,Active
+NV10301,Sanjay Patil,T025,Female,L3 Lead,14,2024-01,,Active
+NV10302,Ritika Sharma,T025,Male,L1 Associate,43,2018-07,,Active
+NV10303,Pooja Shaikh,T025,Female,L3 Lead,10,2023-06,,Active
+NV10304,Varun Das,T026,Female,L2 Senior Associate,2,2021-03,2025-10,Exited
+NV10305,Priya Singh,T026,Female,L2 Senior Associate,5,2018-01,,Active
+NV10306,Divya Singh,T026,Female,L3 Lead,8,2022-12,,Active
+NV10307,Neha Krishnan,T026,Male,L1 Associate,19,2023-04,,Active
+NV10308,Sanjay Patil,T026,Male,L2 Senior Associate,23,2024-06,,Active
+NV10309,Pranav Subramanian,T026,Female,L2 Senior Associate,146,2019-03,,Active
+NV10310,Harini Patil,T026,Male,L2 Senior Associate,29,2021-11,,Active
+NV10311,Lakshmi Kulkarni,T026,Male,L1 Associate,45,2024-02,,Active
+NV10312,Suresh Nair,T026,Male,L2 Senior Associate,38,2024-08,,Active
+NV10313,Naveen Reddy,T026,Male,L1 Associate,34,2023-07,2024-11,Exited
+NV10314,Anjali Joshi,T026,Female,L1 Associate,37,2023-05,,Active
+NV10315,Ravi Rao,T026,Female,L2 Senior Associate,39,2023-03,,Active
+NV10316,Varun Nair,T026,Male,L2 Senior Associate,25,2023-04,2025-06,Exited
+NV10317,Suresh Nair,T027,Male,L2 Senior Associate,25,2022-03,2025-04,Exited
+NV10318,Aditya Shaikh,T027,Male,L3 Lead,55,2023-02,2026-01,Exited
+NV10319,Harini Singh,T027,Male,L1 Associate,27,2022-09,,Active
+NV10320,Ajay Deshmukh,T027,Male,L1 Associate,9,2023-07,,Active
+NV10321,Manoj Singh,T027,Male,L2 Senior Associate,13,2023-07,2025-04,Exited
+NV10322,Deepak Reddy,T028,Male,L1 Associate,55,2023-07,,Active
+NV10323,Abhishek Banerjee,T028,Male,L3 Lead,29,2024-04,,Active
+NV10324,Deepak Rao,T028,Female,L3 Lead,41,2020-07,,Active
+NV10325,Ishita Das,T028,Female,L2 Senior Associate,9,2020-11,,Active
+NV10326,Harish Menon,T028,Male,L2 Senior Associate,4,2017-04,,Active
+NV10327,Ritika Kulkarni,T028,Female,L1 Associate,74,2023-01,,Active
+NV10328,Arjun Shaikh,T028,Male,L1 Associate,23,2024-04,,Active
+NV10329,Aditya Kulkarni,T028,Male,L1 Associate,12,2023-02,,Active
+NV10330,Harish Banerjee,T029,Female,L1 Associate,16,2022-10,,Active
+NV10331,Bhavna Kulkarni,T029,Female,L2 Senior Associate,131,2021-08,,Active
+NV10332,Shalini Krishnan,T029,Female,L2 Senior Associate,42,2020-11,2025-08,Exited
+NV10333,Abhishek Deshmukh,T029,Male,L1 Associate,39,2024-07,,Active
+NV10334,Deepa Agarwal,T029,Female,L1 Associate,52,2022-08,,Active
+NV10335,Simran Das,T029,Male,L2 Senior Associate,24,2021-05,,Active
+NV10336,Kunal Singh,T029,Female,L1 Associate,16,2021-02,,Active
+NV10337,Rahul Mishra,T029,Male,L1 Associate,25,2020-03,,Active
+NV10338,Manoj Verma,T029,Male,L2 Senior Associate,63,2021-04,,Active
+NV10339,Karthik Bhat,T030,Male,L2 Senior Associate,6,2020-02,2025-06,Exited
+NV10340,Nikhil Khan,T030,Male,L2 Senior Associate,79,2023-02,,Active
+NV10341,Prakash Patil,T030,Male,L1 Associate,23,2023-11,,Active
+NV10342,Arjun Joshi,T030,Male,L1 Associate,12,2021-04,,Active
+NV10343,Revathi Nair,T030,Male,L2 Senior Associate,51,2022-05,,Active
+NV10344,Gayathri Joshi,T030,Female,L1 Associate,4,2023-03,,Active
+NV10345,Karthik Joshi,T030,Female,L1 Associate,39,2021-07,,Active
+NV10346,Nandini Mehta,T030,Female,L2 Senior Associate,17,2022-08,,Active
+NV10347,Siddharth Joshi,T030,Female,L1 Associate,16,2023-08,,Active
+NV10348,Deepa Kulkarni,T030,Female,L2 Senior Associate,58,2021-07,,Active
+NV10349,Nandini Mehta,T030,Male,L1 Associate,9,2020-02,,Active
+NV10350,Deepak Nair,T030,Male,L2 Senior Associate,14,2023-08,,Active
+NV10351,Tanvi Rao,T030,Male,L1 Associate,12,2023-06,,Active
+NV10352,Siddharth Verma,T031,Male,L3 Lead,78,2021-05,,Active
+NV10353,Bhavna Sharma,T031,Male,L1 Associate,95,2023-04,,Active
+NV10354,Aditya Agarwal,T031,Male,L1 Associate,63,2021-12,,Active
+NV10355,Revathi Khan,T031,Male,L2 Senior Associate,13,2024-03,,Active
+NV10356,Rahul Kulkarni,T031,Male,L2 Senior Associate,48,2020-02,2025-11,Exited
+NV10357,Lakshmi Khan,T031,Male,L1 Associate,8,2023-05,2025-08,Exited
+NV10358,Deepak Banerjee,T031,Female,L3 Lead,44,2021-12,,Active
+NV10359,Ajay Naidu,T031,Male,L2 Senior Associate,60,2021-05,,Active
+NV10360,Harish Das,T031,Male,L3 Lead,6,2022-09,,Active
+NV10361,Sanjay Shaikh,T031,Male,L2 Senior Associate,7,2022-09,,Active
+NV10362,Sana Pillai,T031,Female,L1 Associate,52,2022-05,2026-04,Exited
+NV10363,Simran Naidu,T031,Male,L2 Senior Associate,18,2024-07,,Active
+NV10364,Revathi Iyer,T031,Female,L1 Associate,2,2019-08,2025-11,Exited
+NV10365,Bhavna Bhat,T031,Female,L1 Associate,45,2023-09,2026-06,Exited
+NV10366,Shalini Sharma,T031,Male,L3 Lead,122,2022-06,2025-04,Exited
+NV10367,Tanvi Mehta,T031,Male,L1 Associate,77,2023-10,,Active
+NV10368,Aishwarya Kulkarni,T032,Male,L2 Senior Associate,7,2021-01,,Active
+NV10369,Manoj Naidu,T032,Male,L2 Senior Associate,38,2022-10,,Active
+NV10370,Ravi Pillai,T032,Female,L1 Associate,38,2024-04,2026-06,Exited
+NV10371,Deepak Mishra,T032,Male,L2 Senior Associate,11,2021-09,2026-04,Exited
+NV10372,Rohit Banerjee,T032,Male,L1 Associate,39,2020-06,,Active
+NV10373,Revathi Sharma,T032,Male,L1 Associate,6,2021-05,,Active
+NV10374,Kavya Das,T032,Male,L1 Associate,8,2023-02,,Active
+NV10375,Deepa Naidu,T032,Female,L1 Associate,56,2023-12,,Active
+NV10376,Pooja Khan,T032,Female,L1 Associate,28,2023-04,,Active
+NV10377,Tanvi Kulkarni,T032,Male,L2 Senior Associate,84,2024-04,2025-07,Exited
+NV10378,Ananya Das,T032,Male,L1 Associate,22,2020-11,,Active
+NV10379,Sana Mishra,T032,Male,L3 Lead,52,2024-02,,Active
+NV10380,Vikram Shaikh,T032,Female,L1 Associate,16,2021-08,2026-05,Exited
+NV10381,Tanvi Subramanian,T032,Male,L1 Associate,81,2024-03,,Active
+NV10382,Siddharth Singh,T032,Male,L2 Senior Associate,14,2017-05,,Active
+NV10383,Gaurav Krishnan,T033,Female,L1 Associate,44,2022-08,,Active
+NV10384,Sanjay Das,T033,Female,L1 Associate,62,2024-09,,Active
+NV10385,Priya Nair,T033,Male,L1 Associate,59,2022-11,,Active
+NV10386,Nandini Kulkarni,T033,Male,L1 Associate,35,2019-02,2026-07,Exited
+NV10387,Deepa Deshmukh,T033,Female,L3 Lead,52,2021-05,2025-01,Exited
+NV10388,Sana Subramanian,T033,Female,L2 Senior Associate,54,2020-08,,Active
+NV10389,Ajay Gupta,T033,Female,L1 Associate,10,2019-05,2026-08,Exited
+NV10390,Mohammed Rao,T033,Female,L2 Senior Associate,11,2019-11,,Active
+NV10391,Rahul Agarwal,T034,Male,L1 Associate,78,2020-04,,Active
+NV10392,Imran Khan,T034,Male,L3 Lead,21,2024-03,,Active
+NV10393,Manoj Mehta,T034,Female,L2 Senior Associate,12,2014-01,,Active
+NV10394,Aishwarya Nair,T034,Female,L1 Associate,11,2023-12,2026-03,Exited
+NV10395,Ananya Joshi,T034,Male,L1 Associate,47,2024-04,,Active
+NV10396,Rahul Iyer,T034,Male,L3 Lead,69,2022-05,,Active
+NV10397,Shalini Mehta,T034,Female,L1 Associate,31,2024-07,2026-10,Exited
+NV10398,Naveen Shaikh,T034,Male,L1 Associate,34,2022-03,2025-11,Exited
+NV10399,Deepa Banerjee,T034,Female,L3 Lead,34,2017-10,2026-08,Exited
+NV10400,Harish Khan,T034,Male,L2 Senior Associate,31,2017-09,2025-02,Exited
+NV10401,Revathi Kulkarni,T034,Male,L1 Associate,34,2020-01,,Active
+NV10402,Simran Kulkarni,T034,Female,L2 Senior Associate,18,2022-11,,Active
+NV10403,Ishita Banerjee,T035,Female,L1 Associate,51,2022-02,,Active
+NV10404,Gayathri Joshi,T035,Male,L1 Associate,103,2019-11,,Active
+NV10405,Kavya Naidu,T035,Female,L3 Lead,31,2020-03,,Active
+NV10406,Suresh Patil,T035,Male,L2 Senior Associate,52,2023-07,,Active
+NV10407,Ananya Banerjee,T035,Male,L2 Senior Associate,11,2021-11,2025-01,Exited
+NV10408,Abhishek Singh,T035,Male,L3 Lead,18,2024-05,,Active
+NV10409,Ishita Das,T035,Male,L1 Associate,42,2022-07,,Active
+NV10410,Vikram Krishnan,T035,Male,L2 Senior Associate,22,2020-07,,Active
+NV10411,Jyoti Joshi,T035,Female,L3 Lead,10,2021-01,,Active
+NV10412,Arvind Bhat,T035,Male,L2 Senior Associate,28,2019-07,,Active
+NV10413,Bhavna Rao,T035,Female,L1 Associate,4,2023-06,,Active
+NV10414,Sana Chauhan,T035,Male,L1 Associate,1,2024-02,,Active
+NV10415,Sneha Pillai,T035,Male,L1 Associate,49,2022-07,,Active
+NV10416,Divya Bhat,T035,Female,L2 Senior Associate,30,2020-09,,Active
+NV10417,Naveen Naidu,T035,Male,L1 Associate,31,2024-01,2026-02,Exited
+NV10418,Harish Shaikh,T035,Male,L3 Lead,46,2022-12,2026-05,Exited
+NV10419,Ajay Mehta,T035,Female,L1 Associate,9,2023-09,2024-12,Exited
+NV10420,Deepak Rao,T035,Male,L2 Senior Associate,59,2023-08,,Active
+NV10421,Rohit Subramanian,T035,Male,L1 Associate,28,2023-06,2026-03,Exited
+NV10422,Meera Shaikh,T035,Male,L1 Associate,11,2021-03,,Active
+NV10423,Gayathri Banerjee,T036,Male,L1 Associate,27,2023-06,,Active
+NV10424,Gayathri Khan,T036,Female,L2 Senior Associate,28,2024-03,,Active
+NV10425,Revathi Singh,T036,Male,L1 Associate,68,2022-03,,Active
+NV10426,Shalini Reddy,T036,Male,L1 Associate,21,2023-08,,Active
+NV10427,Aditya Mishra,T036,Male,L1 Associate,35,2020-12,,Active
+NV10428,Shalini Das,T036,Male,L2 Senior Associate,23,2021-03,,Active
+NV10429,Ishita Shaikh,T036,Female,L1 Associate,32,2023-05,,Active
+NV10430,Imran Verma,T036,Male,L2 Senior Associate,54,2022-04,,Active
+NV10431,Siddharth Nair,T036,Male,L3 Lead,17,2019-08,,Active
+NV10432,Pranav Krishnan,T036,Female,L1 Associate,9,2018-08,,Active
+NV10433,Ananya Deshmukh,T036,Male,L1 Associate,26,2021-07,,Active
+NV10434,Harini Krishnan,T036,Male,L1 Associate,35,2020-12,,Active
+NV10435,Arjun Shaikh,T036,Male,L1 Associate,25,2023-03,,Active
+NV10436,Imran Patil,T036,Male,L2 Senior Associate,22,2022-07,,Active
+NV10437,Arvind Krishnan,T036,Male,L1 Associate,65,2022-02,,Active
+NV10438,Kunal Joshi,T036,Male,L1 Associate,62,2021-01,,Active
+NV10439,Deepak Agarwal,T036,Female,L1 Associate,5,2020-07,,Active
+NV10440,Suresh Patil,T036,Male,L1 Associate,31,2022-05,,Active
+NV10441,Gayathri Singh,T037,Male,L2 Senior Associate,96,2019-07,,Active
+NV10442,Varun Verma,T037,Female,L2 Senior Associate,2,2024-02,,Active
+NV10443,Sanjay Subramanian,T037,Male,L1 Associate,13,2020-12,2024-12,Exited
+NV10444,Naveen Mehta,T037,Male,L1 Associate,101,2021-11,2026-06,Exited
+NV10445,Farah Patil,T037,Male,L1 Associate,16,2022-02,2026-07,Exited
+NV10446,Pranav Mehta,T037,Female,L1 Associate,47,2022-10,,Active
+NV10447,Mohammed Patil,T037,Male,L1 Associate,4,2023-12,,Active
+NV10448,Naveen Patil,T037,Female,L2 Senior Associate,53,2023-08,,Active
+NV10449,Aishwarya Mishra,T037,Female,L3 Lead,28,2018-12,,Active
+NV10450,Abhishek Khan,T037,Male,L1 Associate,55,2023-08,2025-02,Exited
+NV10451,Nikhil Iyer,T037,Female,L2 Senior Associate,61,2024-05,,Active
+NV10452,Abhishek Khan,T037,Male,L1 Associate,103,2021-08,2026-07,Exited
+NV10453,Kavya Joshi,T037,Male,L1 Associate,35,2017-12,,Active
+NV10454,Kunal Rao,T037,Male,L3 Lead,55,2024-01,,Active
+NV10455,Shalini Patil,T037,Male,L2 Senior Associate,8,2024-09,,Active
+NV10456,Tanvi Mehta,T037,Male,L1 Associate,13,2023-06,,Active
+NV10457,Aishwarya Deshmukh,T038,Female,L1 Associate,13,2022-06,,Active
+NV10458,Ritika Gupta,T038,Male,L1 Associate,37,2022-09,,Active
+NV10459,Gaurav Iyer,T038,Male,L2 Senior Associate,48,2023-02,,Active
+NV10460,Ashwin Gupta,T038,Male,L1 Associate,37,2021-06,,Active
+NV10461,Ajay Patil,T038,Male,L1 Associate,127,2021-04,,Active
+NV10462,Rahul Naidu,T038,Female,L2 Senior Associate,49,2021-09,2025-06,Exited
+NV10463,Ravi Banerjee,T038,Male,L2 Senior Associate,27,2022-06,,Active
+NV10464,Sanjay Sharma,T038,Male,L2 Senior Associate,2,2024-03,2026-10,Exited
+NV10465,Neha Menon,T038,Male,L1 Associate,34,2023-12,,Active
+NV10466,Arvind Singh,T038,Female,L1 Associate,28,2020-10,,Active
+NV10467,Sanjay Reddy,T038,Female,L1 Associate,24,2022-12,,Active
+NV10468,Vikram Khan,T038,Male,L2 Senior Associate,42,2016-02,,Active
+NV10469,Prakash Pillai,T038,Female,L1 Associate,30,2022-03,,Active
+NV10470,Nandini Agarwal,T039,Male,L2 Senior Associate,6,2022-05,,Active
+NV10471,Arvind Iyer,T039,Male,L1 Associate,28,2023-06,,Active
+NV10472,Rohit Sharma,T039,Female,L2 Senior Associate,22,2023-07,2024-12,Exited
+NV10473,Sneha Nair,T039,Male,L3 Lead,16,2018-01,2026-05,Exited
+NV10474,Simran Chauhan,T039,Male,L2 Senior Associate,52,2021-07,2026-06,Exited
+NV10475,Mohammed Agarwal,T039,Female,L1 Associate,8,2023-06,2026-09,Exited
+NV10476,Ishita Kulkarni,T039,Female,L2 Senior Associate,50,2022-10,,Active
+NV10477,Ashwin Sharma,T039,Male,L1 Associate,14,2023-08,,Active
+NV10478,Ritika Shaikh,T039,Male,L1 Associate,26,2021-12,2026-05,Exited
+NV10479,Arjun Khan,T040,Male,L1 Associate,16,2024-05,,Active
+NV10480,Arjun Krishnan,T040,Male,L2 Senior Associate,53,2021-05,,Active
+NV10481,Ritika Menon,T040,Female,L1 Associate,93,2017-12,,Active
+NV10482,Deepa Khan,T040,Male,L1 Associate,45,2023-10,,Active
+NV10483,Suresh Krishnan,T040,Female,L3 Lead,16,2021-07,2026-05,Exited
+NV10484,Jyoti Gupta,T040,Male,L1 Associate,8,2019-05,,Active
+NV10485,Sanjay Pillai,T040,Female,L1 Associate,20,2020-10,,Active
+NV10486,Naveen Pillai,T040,Male,L2 Senior Associate,12,2023-11,,Active
+NV10487,Vikram Singh,T040,Male,L3 Lead,8,2022-08,,Active
+NV10488,Mohammed Krishnan,T040,Male,L2 Senior Associate,48,2023-06,,Active
+NV10489,Neha Naidu,T040,Female,L2 Senior Associate,25,2022-01,2025-07,Exited
+NV10490,Prakash Deshmukh,T040,Male,L3 Lead,58,2023-04,,Active
+NV10491,Aditya Subramanian,T040,Male,L3 Lead,17,2024-06,,Active
+NV10492,Sana Bhat,T041,Male,L1 Associate,65,2023-08,2026-10,Exited
+NV10493,Farah Nair,T041,Male,L1 Associate,40,2019-03,,Active
+NV10494,Ashwin Reddy,T041,Male,L2 Senior Associate,44,2022-05,2026-07,Exited
+NV10495,Simran Agarwal,T041,Female,L1 Associate,66,2017-05,,Active
+NV10496,Ajay Subramanian,T041,Male,L1 Associate,6,2021-09,2026-02,Exited
+NV10497,Gaurav Gupta,T041,Female,L2 Senior Associate,89,2022-06,,Active
+NV10498,Pooja Gupta,T041,Male,L2 Senior Associate,52,2024-08,2026-05,Exited
+NV10499,Sana Naidu,T041,Female,L2 Senior Associate,15,2023-05,2026-07,Exited
+NV10500,Arjun Krishnan,T041,Male,L2 Senior Associate,18,2019-05,2026-06,Exited
+NV10501,Arjun Sharma,T041,Female,L1 Associate,21,2023-02,,Active
+NV10502,Aditya Patil,T041,Male,L1 Associate,33,2020-06,2025-03,Exited
+NV10503,Varun Naidu,T041,Male,L1 Associate,42,2022-09,,Active
+NV10504,Swati Bhat,T042,Female,L2 Senior Associate,32,2016-05,2025-08,Exited
+NV10505,Jyoti Verma,T042,Male,L1 Associate,65,2024-07,,Active
+NV10506,Priya Banerjee,T042,Male,L2 Senior Associate,24,2023-02,2025-04,Exited
+NV10507,Imran Deshmukh,T042,Male,L1 Associate,16,2024-01,,Active
+NV10508,Tanvi Singh,T042,Male,L1 Associate,34,2023-01,,Active
+NV10509,Suresh Patil,T042,Male,L2 Senior Associate,57,2021-03,,Active
+NV10510,Lakshmi Mishra,T042,Female,L1 Associate,60,2019-07,,Active
+NV10511,Deepa Singh,T043,Female,L2 Senior Associate,40,2023-10,,Active
+NV10512,Vikram Verma,T043,Female,L3 Lead,23,2020-12,,Active
+NV10513,Pranav Naidu,T043,Male,L1 Associate,35,2024-07,,Active
+NV10514,Manoj Iyer,T043,Male,L2 Senior Associate,40,2022-04,,Active
+NV10515,Gaurav Khan,T043,Female,L1 Associate,49,2019-10,,Active
+NV10516,Aditya Kulkarni,T043,Male,L2 Senior Associate,32,2017-04,,Active
+NV10517,Ashwin Joshi,T043,Female,L1 Associate,14,2023-01,2025-09,Exited
+NV10518,Ajay Reddy,T043,Female,L2 Senior Associate,62,2022-09,,Active
+NV10519,Vikram Deshmukh,T043,Female,L2 Senior Associate,24,2022-12,,Active
+NV10520,Simran Mehta,T043,Male,L1 Associate,12,2018-08,2024-11,Exited
+NV10521,Imran Nair,T044,Female,L2 Senior Associate,26,2020-01,,Active
+NV10522,Tanvi Rao,T044,Male,L1 Associate,63,2013-02,,Active
+NV10523,Kavya Reddy,T044,Male,L2 Senior Associate,18,2023-05,,Active
+NV10524,Manoj Iyer,T044,Male,L2 Senior Associate,35,2021-12,,Active
+NV10525,Divya Shaikh,T044,Male,L2 Senior Associate,13,2019-01,,Active
+NV10526,Karthik Chauhan,T044,Female,L3 Lead,24,2019-10,,Active
+NV10527,Lakshmi Verma,T044,Female,L2 Senior Associate,16,2017-10,,Active
+NV10528,Abhishek Naidu,T044,Female,L1 Associate,57,2024-03,,Active
+NV10529,Abhishek Chauhan,T044,Female,L2 Senior Associate,20,2021-11,,Active
+NV10530,Vikram Subramanian,T044,Male,L1 Associate,13,2023-04,,Active
+NV10531,Rohit Mehta,T044,Female,L1 Associate,73,2022-12,,Active
+NV10532,Ananya Patil,T044,Female,L1 Associate,31,2023-01,2025-06,Exited
+NV10533,Gayathri Patil,T044,Male,L1 Associate,54,2022-11,2025-01,Exited
+NV10534,Bhavna Reddy,T045,Female,L2 Senior Associate,34,2024-01,,Active
+NV10535,Ritika Mehta,T045,Male,L1 Associate,19,2024-01,,Active
+NV10536,Ishita Sharma,T045,Female,L1 Associate,16,2024-01,2025-09,Exited
+NV10537,Kavya Bhat,T045,Female,L1 Associate,50,2021-10,,Active
+NV10538,Divya Das,T045,Female,L1 Associate,31,2021-09,,Active
+NV10539,Pranav Shaikh,T045,Male,L1 Associate,37,2019-04,,Active
+NV10540,Pooja Bhat,T045,Female,L2 Senior Associate,124,2024-01,2025-05,Exited
+NV10541,Nandini Rao,T046,Male,L1 Associate,30,2022-01,,Active
+NV10542,Rohit Menon,T046,Female,L1 Associate,30,2019-06,2025-06,Exited
+NV10543,Gayathri Agarwal,T046,Female,L2 Senior Associate,29,2022-08,,Active
+NV10544,Vikram Agarwal,T046,Male,L1 Associate,44,2022-04,,Active
+NV10545,Harini Verma,T046,Male,L2 Senior Associate,11,2020-03,2026-10,Exited
+NV10546,Harini Shaikh,T046,Male,L1 Associate,12,2024-01,2026-07,Exited
+NV10547,Gayathri Pillai,T046,Male,L2 Senior Associate,15,2020-10,2025-07,Exited
+NV10548,Kavya Banerjee,T046,Male,L2 Senior Associate,37,2021-08,2024-11,Exited
+NV10549,Harini Subramanian,T046,Male,L3 Lead,81,2023-07,,Active
+NV10550,Shalini Deshmukh,T046,Male,L1 Associate,62,2023-04,,Active
+NV10551,Farah Das,T046,Male,L2 Senior Associate,18,2019-10,,Active
+NV10552,Pooja Chauhan,T046,Female,L2 Senior Associate,5,2022-02,,Active
+NV10553,Anjali Banerjee,T047,Male,L1 Associate,9,2024-01,,Active
+NV10554,Imran Sharma,T047,Female,L3 Lead,15,2021-07,,Active
+NV10555,Suresh Krishnan,T047,Female,L1 Associate,46,2020-06,,Active
+NV10556,Anjali Bhat,T047,Male,L3 Lead,81,2020-11,2026-02,Exited
+NV10557,Kavya Shaikh,T047,Female,L2 Senior Associate,12,2023-06,,Active
+NV10558,Vikram Mishra,T047,Female,L2 Senior Associate,28,2022-07,,Active
+NV10559,Aishwarya Rao,T047,Female,L3 Lead,42,2024-06,,Active
+NV10560,Harini Shaikh,T047,Male,L1 Associate,49,2022-07,,Active
+NV10561,Gayathri Joshi,T047,Male,L1 Associate,43,2024-05,,Active
+NV10562,Prakash Chauhan,T048,Female,L2 Senior Associate,13,2024-05,,Active
+NV10563,Ananya Singh,T048,Female,L2 Senior Associate,21,2022-06,,Active
+NV10564,Pranav Shaikh,T048,Male,L2 Senior Associate,24,2023-01,,Active
+NV10565,Ritika Shaikh,T048,Male,L1 Associate,51,2022-05,,Active
+NV10566,Pooja Chauhan,T048,Male,L1 Associate,18,2017-06,,Active
+NV10567,Sana Chauhan,T049,Female,L1 Associate,28,2023-09,,Active
+NV10568,Divya Mehta,T049,Female,L1 Associate,26,2022-08,,Active
+NV10569,Ritika Deshmukh,T049,Male,L1 Associate,75,2021-06,,Active
+NV10570,Bhavna Mishra,T049,Male,L1 Associate,9,2022-01,,Active
+NV10571,Pooja Mishra,T049,Male,L1 Associate,14,2024-05,,Active
+NV10572,Lakshmi Mishra,T049,Male,L1 Associate,9,2021-01,2025-06,Exited
+NV10573,Rahul Verma,T049,Male,L1 Associate,35,2020-04,,Active
+NV10574,Priya Menon,T049,Female,L1 Associate,83,2017-02,,Active
+NV10575,Farah Iyer,T049,Male,L2 Senior Associate,12,2022-02,2025-06,Exited
+NV10576,Ishita Das,T049,Male,L2 Senior Associate,19,2022-12,,Active
+NV10577,Abhishek Gupta,T049,Female,L1 Associate,26,2023-02,2026-05,Exited
+NV10578,Imran Joshi,T049,Male,L2 Senior Associate,16,2021-03,,Active
+NV10579,Ishita Gupta,T050,Male,L1 Associate,12,2023-12,2026-08,Exited
+NV10580,Kavya Krishnan,T050,Female,L2 Senior Associate,24,2021-01,,Active
+NV10581,Mohammed Naidu,T050,Male,L1 Associate,5,2018-12,2026-07,Exited
+NV10582,Abhishek Agarwal,T050,Male,L1 Associate,5,2021-06,,Active
+NV10583,Aditya Nair,T050,Male,L1 Associate,46,2018-06,,Active
+NV10584,Karthik Mehta,T050,Female,L1 Associate,71,2020-08,2025-02,Exited
+NV10585,Harish Iyer,T050,Female,L1 Associate,84,2020-01,,Active
+NV10586,Simran Agarwal,T050,Female,L2 Senior Associate,36,2024-10,,Active
+NV10587,Vikram Shaikh,T050,Male,L2 Senior Associate,27,2021-12,,Active
+NV10588,Siddharth Iyer,T050,Male,L2 Senior Associate,45,2023-01,2025-01,Exited
+NV10589,Varun Banerjee,T051,Female,L1 Associate,38,2021-12,,Active
+NV10590,Sneha Rao,T051,Male,L3 Lead,9,2024-07,2024-11,Exited
+NV10591,Meera Gupta,T051,Male,L2 Senior Associate,37,2020-04,,Active
+NV10592,Varun Reddy,T051,Female,L1 Associate,35,2024-01,2026-06,Exited
+NV10593,Tanvi Krishnan,T051,Male,L3 Lead,69,2022-12,,Active
+NV10594,Priya Rao,T051,Female,L2 Senior Associate,52,2024-02,,Active
+NV10595,Ravi Naidu,T051,Male,L1 Associate,18,2023-03,,Active
+NV10596,Kavya Banerjee,T051,Female,L3 Lead,30,2018-07,2026-07,Exited
+NV10597,Ishita Reddy,T051,Male,L2 Senior Associate,4,2020-07,,Active
+NV10598,Gaurav Bhat,T051,Male,L1 Associate,14,2021-09,,Active
+NV10599,Sanjay Gupta,T051,Male,L1 Associate,8,2024-08,,Active
+NV10600,Aditya Naidu,T051,Male,L2 Senior Associate,28,2024-08,,Active
+NV10601,Imran Chauhan,T051,Male,L1 Associate,21,2021-09,,Active
+NV10602,Sanjay Menon,T051,Male,L1 Associate,17,2019-07,,Active
+NV10603,Suresh Iyer,T051,Male,L3 Lead,59,2022-01,,Active
+NV10604,Sanjay Singh,T051,Male,L2 Senior Associate,29,2021-01,,Active
+NV10605,Bhavna Deshmukh,T052,Male,L1 Associate,16,2024-09,,Active
+NV10606,Meera Menon,T052,Male,L2 Senior Associate,19,2023-08,2026-07,Exited
+NV10607,Kavya Sharma,T052,Female,L1 Associate,47,2016-05,,Active
+NV10608,Rahul Verma,T052,Male,L1 Associate,66,2023-12,,Active
+NV10609,Karthik Khan,T053,Male,L1 Associate,44,2019-08,,Active
+NV10610,Ravi Gupta,T053,Female,L2 Senior Associate,36,2021-10,,Active
+NV10611,Ritika Menon,T053,Male,L2 Senior Associate,29,2022-11,,Active
+NV10612,Ritika Mehta,T053,Male,L1 Associate,24,2023-10,,Active
+NV10613,Farah Shaikh,T053,Female,L3 Lead,49,2019-07,,Active
+NV10614,Ashwin Kulkarni,T053,Male,L1 Associate,24,2022-03,,Active
+NV10615,Bhavna Joshi,T053,Male,L2 Senior Associate,9,2023-06,,Active
+NV10616,Varun Naidu,T053,Male,L1 Associate,44,2021-10,,Active
+NV10617,Ritika Deshmukh,T053,Male,L2 Senior Associate,60,2022-10,,Active
+NV10618,Meera Sharma,T053,Male,L3 Lead,40,2022-02,,Active
+NV10619,Simran Reddy,T053,Female,L2 Senior Associate,39,2024-05,,Active
+NV10620,Aishwarya Chauhan,T054,Female,L1 Associate,66,2021-05,,Active
+NV10621,Imran Das,T054,Female,L1 Associate,95,2016-08,,Active
+NV10622,Harini Banerjee,T054,Male,L1 Associate,54,2021-11,,Active
+NV10623,Gaurav Patil,T054,Female,L1 Associate,60,2022-08,,Active
+NV10624,Ajay Mishra,T054,Female,L2 Senior Associate,53,2024-04,,Active
+NV10625,Gayathri Gupta,T054,Male,L3 Lead,78,2022-11,,Active
+NV10626,Suresh Mehta,T054,Male,L1 Associate,6,2023-05,2026-04,Exited
+NV10627,Pooja Patil,T054,Male,L1 Associate,17,2022-06,,Active
+NV10628,Priya Verma,T054,Male,L1 Associate,32,2024-10,,Active
+NV10629,Meera Agarwal,T054,Male,L2 Senior Associate,21,2020-03,2026-05,Exited
+NV10630,Suresh Naidu,T054,Female,L2 Senior Associate,52,2021-05,,Active
+NV10631,Nikhil Kulkarni,T055,Male,L1 Associate,21,2019-06,,Active
+NV10632,Arvind Singh,T055,Female,L3 Lead,20,2021-03,,Active
+NV10633,Meera Bhat,T055,Male,L1 Associate,16,2024-02,,Active
+NV10634,Ajay Chauhan,T055,Female,L2 Senior Associate,15,2021-08,,Active
+NV10635,Ananya Naidu,T055,Female,L1 Associate,13,2022-05,2025-12,Exited
+NV10636,Ishita Menon,T055,Female,L1 Associate,21,2023-10,2026-09,Exited
+NV10637,Pooja Verma,T055,Male,L2 Senior Associate,78,2017-01,,Active
+NV10638,Harini Rao,T055,Male,L2 Senior Associate,5,2022-01,,Active
+NV10639,Pranav Khan,T055,Male,L1 Associate,61,2023-02,,Active
+NV10640,Nikhil Gupta,T056,Male,L1 Associate,26,2023-06,2025-06,Exited
+NV10641,Neha Bhat,T056,Male,L1 Associate,58,2021-07,,Active
+NV10642,Sanjay Sharma,T056,Male,L1 Associate,18,2019-03,,Active
+NV10643,Ananya Kulkarni,T056,Male,L2 Senior Associate,48,2020-04,,Active
+NV10644,Prakash Gupta,T056,Male,L2 Senior Associate,29,2022-01,,Active
+NV10645,Mohammed Deshmukh,T056,Female,L1 Associate,15,2021-12,,Active
+NV10646,Manoj Nair,T056,Male,L2 Senior Associate,21,2021-10,,Active
+NV10647,Harini Khan,T056,Male,L1 Associate,44,2022-12,2026-01,Exited
+NV10648,Rohit Das,T056,Male,L1 Associate,58,2021-09,2025-06,Exited
+NV10649,Ritika Subramanian,T056,Female,L1 Associate,31,2019-12,,Active
+NV10650,Arvind Khan,T056,Male,L1 Associate,24,2019-04,2025-02,Exited
+NV10651,Rohit Nair,T056,Female,L2 Senior Associate,21,2017-11,2024-11,Exited
+NV10652,Divya Patil,T056,Male,L1 Associate,30,2019-12,,Active
+NV10653,Priya Subramanian,T056,Male,L2 Senior Associate,19,2019-01,,Active
+NV10654,Imran Rao,T056,Male,L1 Associate,42,2017-07,,Active
+NV10655,Nandini Pillai,T056,Male,L1 Associate,22,2019-04,,Active
+NV10656,Karthik Subramanian,T057,Male,L1 Associate,35,2019-11,2026-10,Exited
+NV10657,Swati Patil,T057,Female,L2 Senior Associate,11,2023-11,,Active
+NV10658,Anjali Naidu,T057,Female,L1 Associate,30,2023-09,,Active
+NV10659,Siddharth Sharma,T057,Female,L2 Senior Associate,71,2020-09,,Active
+NV10660,Karthik Chauhan,T057,Male,L2 Senior Associate,34,2022-11,,Active
+NV10661,Pooja Nair,T057,Female,L3 Lead,40,2022-04,2026-09,Exited
+NV10662,Deepa Kulkarni,T057,Male,L3 Lead,31,2021-09,,Active
+NV10663,Karthik Mishra,T057,Female,L2 Senior Associate,25,2024-01,,Active
+NV10664,Divya Verma,T057,Female,L1 Associate,9,2022-03,,Active
+NV10665,Tanvi Deshmukh,T057,Male,L2 Senior Associate,10,2022-11,2026-10,Exited
+NV10666,Deepak Deshmukh,T057,Male,L3 Lead,16,2020-02,2026-07,Exited
+NV10667,Ishita Deshmukh,T058,Female,L2 Senior Associate,22,2021-03,2025-07,Exited
+NV10668,Prakash Subramanian,T058,Male,L3 Lead,33,2023-10,,Active
+NV10669,Rahul Banerjee,T058,Male,L1 Associate,33,2022-03,,Active
+NV10670,Swati Kulkarni,T058,Female,L2 Senior Associate,34,2024-05,,Active
+NV10671,Ritika Nair,T058,Male,L2 Senior Associate,30,2024-03,2025-01,Exited
+NV10672,Ravi Mehta,T058,Male,L1 Associate,45,2017-03,,Active
+NV10673,Ananya Krishnan,T058,Female,L2 Senior Associate,9,2022-08,2025-08,Exited
+NV10674,Sana Agarwal,T058,Female,L1 Associate,69,2023-12,2025-01,Exited
+NV10675,Swati Agarwal,T058,Male,L1 Associate,40,2019-08,2026-06,Exited
+NV10676,Ashwin Verma,T058,Male,L1 Associate,47,2020-04,,Active
+NV10677,Harish Kulkarni,T059,Male,L2 Senior Associate,10,2022-09,2026-05,Exited
+NV10678,Ritika Mishra,T059,Female,L1 Associate,16,2020-10,2025-05,Exited
+NV10679,Lakshmi Menon,T059,Female,L2 Senior Associate,71,2020-10,,Active
+NV10680,Anjali Patil,T059,Female,L3 Lead,46,2018-01,2024-12,Exited
+NV10681,Varun Mehta,T060,Female,L2 Senior Associate,14,2021-05,,Active
+NV10682,Bhavna Krishnan,T060,Male,L2 Senior Associate,45,2024-01,,Active
+NV10683,Ravi Mehta,T060,Male,L1 Associate,6,2020-05,2026-10,Exited
+NV10684,Sanjay Verma,T061,Male,L1 Associate,29,2022-03,,Active
+NV10685,Gaurav Joshi,T061,Male,L1 Associate,73,2021-11,,Active
+NV10686,Simran Deshmukh,T061,Male,L1 Associate,122,2017-10,,Active
+NV10687,Harini Gupta,T061,Female,L1 Associate,24,2020-11,,Active
+NV10688,Arvind Rao,T061,Male,L1 Associate,45,2020-12,,Active
+NV10689,Kavya Bhat,T061,Female,L1 Associate,22,2022-12,,Active
+NV10690,Ravi Krishnan,T061,Male,L1 Associate,53,2023-07,,Active
+NV10691,Neha Gupta,T061,Male,L1 Associate,58,2021-12,,Active
+NV10692,Arjun Khan,T061,Male,L1 Associate,35,2021-02,,Active
+NV10693,Manoj Patil,T061,Male,L2 Senior Associate,52,2019-03,,Active
+NV10694,Karthik Verma,T061,Male,L3 Lead,13,2023-05,,Active
+NV10695,Siddharth Banerjee,T061,Male,L2 Senior Associate,45,2021-06,,Active
+NV10696,Ravi Rao,T062,Male,L1 Associate,36,2022-02,2026-05,Exited
+NV10697,Prakash Iyer,T062,Male,L1 Associate,22,2023-05,,Active
+NV10698,Abhishek Subramanian,T062,Male,L1 Associate,72,2023-09,,Active
+NV10699,Arvind Kulkarni,T062,Female,L1 Associate,51,2022-10,,Active
+NV10700,Aditya Rao,T062,Male,L1 Associate,7,2017-11,2025-02,Exited
+NV10701,Rahul Menon,T062,Male,L2 Senior Associate,96,2023-10,,Active
+NV10702,Gaurav Naidu,T062,Male,L2 Senior Associate,14,2019-03,,Active
+NV10703,Sanjay Shaikh,T062,Male,L1 Associate,76,2020-02,,Active
+NV10704,Swati Mishra,T062,Male,L1 Associate,49,2019-07,,Active
+NV10705,Harish Subramanian,T062,Male,L1 Associate,27,2019-08,2025-04,Exited
+NV10706,Arvind Singh,T062,Male,L1 Associate,17,2022-08,2025-01,Exited
+NV10707,Simran Das,T062,Female,L1 Associate,19,2024-03,,Active
+NV10708,Anjali Shaikh,T062,Female,L1 Associate,32,2023-11,,Active
+NV10709,Deepa Sharma,T062,Male,L3 Lead,76,2018-11,2026-06,Exited
+NV10710,Rahul Shaikh,T062,Female,L2 Senior Associate,44,2022-01,,Active
+NV10711,Arjun Verma,T062,Female,L1 Associate,23,2021-10,2024-12,Exited
+NV10712,Ravi Singh,T062,Female,L2 Senior Associate,39,2023-03,2025-12,Exited
+NV10713,Abhishek Menon,T062,Female,L1 Associate,7,2018-08,,Active
+NV10714,Anjali Singh,T063,Female,L1 Associate,18,2022-10,,Active
+NV10715,Prakash Sharma,T063,Male,L1 Associate,33,2021-11,2026-10,Exited
+NV10716,Lakshmi Menon,T063,Male,L1 Associate,51,2022-06,,Active
+NV10717,Sana Gupta,T063,Male,L1 Associate,26,2024-09,,Active
+NV10718,Suresh Subramanian,T063,Female,L2 Senior Associate,51,2024-02,,Active
+NV10719,Bhavna Banerjee,T063,Male,L3 Lead,17,2022-06,,Active
+NV10720,Ritika Pillai,T063,Female,L1 Associate,10,2019-08,2026-07,Exited
+NV10721,Arvind Krishnan,T063,Female,L2 Senior Associate,61,2023-12,,Active
+NV10722,Jyoti Sharma,T063,Female,L1 Associate,37,2024-02,,Active
+NV10723,Sanjay Reddy,T063,Female,L1 Associate,28,2023-09,,Active
+NV10724,Lakshmi Nair,T063,Female,L1 Associate,84,2022-02,,Active
+NV10725,Sana Verma,T063,Female,L3 Lead,34,2024-04,,Active
+NV10726,Pooja Deshmukh,T063,Female,L1 Associate,22,2018-09,,Active
+NV10727,Pranav Singh,T063,Female,L1 Associate,84,2022-07,,Active
+NV10728,Siddharth Shaikh,T063,Male,L3 Lead,14,2023-08,,Active
+NV10729,Siddharth Nair,T063,Male,L1 Associate,39,2022-08,2026-09,Exited
+NV10730,Rahul Menon,T063,Female,L1 Associate,5,2023-11,,Active
+NV10731,Priya Nair,T064,Female,L1 Associate,58,2022-08,,Active
+NV10732,Divya Das,T064,Male,L3 Lead,38,2022-04,,Active
+NV10733,Revathi Khan,T064,Female,L3 Lead,33,2023-10,2026-04,Exited
+NV10734,Siddharth Pillai,T065,Male,L3 Lead,7,2022-07,2026-04,Exited
+NV10735,Lakshmi Naidu,T065,Male,L1 Associate,89,2023-09,,Active
+NV10736,Lakshmi Krishnan,T065,Male,L2 Senior Associate,7,2024-02,,Active
+NV10737,Abhishek Mehta,T065,Male,L1 Associate,34,2017-08,,Active
+NV10738,Suresh Kulkarni,T065,Male,L2 Senior Associate,11,2020-06,2025-03,Exited
+NV10739,Pranav Gupta,T065,Male,L1 Associate,24,2021-02,,Active
+NV10740,Pooja Reddy,T065,Male,L1 Associate,7,2022-01,2025-07,Exited
+NV10741,Simran Menon,T065,Male,L1 Associate,23,2020-03,2025-03,Exited
+NV10742,Nandini Deshmukh,T065,Female,L1 Associate,35,2023-12,,Active
+NV10743,Vikram Nair,T065,Male,L2 Senior Associate,18,2020-09,,Active
+NV10744,Aditya Mishra,T065,Female,L1 Associate,24,2023-01,2025-11,Exited
+NV10745,Arjun Das,T065,Male,L1 Associate,23,2012-06,2026-02,Exited
+NV10746,Aishwarya Reddy,T065,Female,L3 Lead,31,2012-12,2024-12,Exited
+NV10747,Ananya Khan,T065,Male,L2 Senior Associate,1,2020-11,,Active
+NV10748,Vikram Pillai,T065,Male,L3 Lead,6,2023-06,2025-10,Exited
+NV10749,Divya Deshmukh,T065,Male,L1 Associate,27,2020-04,2026-05,Exited
+NV10750,Suresh Iyer,T065,Male,L1 Associate,37,2023-01,,Active
+NV10751,Karthik Banerjee,T065,Male,L1 Associate,21,2024-03,2025-02,Exited
+NV10752,Lakshmi Iyer,T066,Female,L1 Associate,26,2023-10,2025-07,Exited
+NV10753,Rahul Gupta,T066,Male,L3 Lead,10,2020-07,,Active
+NV10754,Arjun Naidu,T066,Male,L2 Senior Associate,12,2020-05,,Active
+NV10755,Divya Joshi,T066,Male,L1 Associate,31,2016-08,,Active
+NV10756,Mohammed Mehta,T066,Male,L1 Associate,35,2022-05,,Active
+NV10757,Imran Menon,T066,Female,L1 Associate,24,2022-07,,Active
+NV10758,Arjun Nair,T066,Male,L3 Lead,18,2019-04,,Active
+NV10759,Simran Gupta,T066,Female,L1 Associate,46,2023-06,,Active
+NV10760,Pranav Subramanian,T067,Male,L3 Lead,9,2023-04,2025-02,Exited
+NV10761,Kunal Rao,T067,Male,L3 Lead,48,2024-10,,Active
+NV10762,Ishita Das,T067,Male,L3 Lead,5,2022-02,,Active
+NV10763,Abhishek Pillai,T067,Female,L1 Associate,18,2023-07,2025-02,Exited
+NV10764,Kunal Nair,T067,Male,L3 Lead,59,2024-06,,Active
+NV10765,Gaurav Menon,T067,Female,L2 Senior Associate,99,2022-04,2026-04,Exited
+NV10766,Jyoti Das,T067,Male,L1 Associate,17,2021-04,2026-05,Exited
+NV10767,Divya Pillai,T067,Male,L1 Associate,17,2022-03,2024-11,Exited
+NV10768,Siddharth Reddy,T067,Male,L1 Associate,16,2019-10,2024-11,Exited
+NV10769,Nikhil Das,T067,Male,L1 Associate,10,2023-02,2026-04,Exited
+NV10770,Ravi Joshi,T067,Male,L2 Senior Associate,24,2023-06,2026-02,Exited
+NV10771,Ravi Chauhan,T068,Female,L1 Associate,75,2023-10,,Active
+NV10772,Neha Menon,T068,Female,L2 Senior Associate,33,2020-10,,Active
+NV10773,Prakash Subramanian,T068,Female,L3 Lead,15,2021-01,,Active
+NV10774,Imran Gupta,T068,Female,L1 Associate,8,2023-05,,Active
+NV10775,Imran Pillai,T068,Male,L2 Senior Associate,31,2021-08,,Active
+NV10776,Ishita Iyer,T068,Male,L1 Associate,46,2022-04,,Active
+NV10777,Aditya Subramanian,T068,Male,L3 Lead,9,2020-07,2025-11,Exited
+NV10778,Ishita Shaikh,T068,Male,L1 Associate,107,2020-04,,Active
+NV10779,Vikram Rao,T068,Female,L2 Senior Associate,20,2021-12,2025-09,Exited
+NV10780,Rahul Bhat,T068,Female,L1 Associate,64,2019-03,,Active
+NV10781,Ishita Krishnan,T068,Male,L1 Associate,61,2024-02,2026-05,Exited
+NV10782,Mohammed Das,T068,Female,L1 Associate,29,2023-01,2025-02,Exited
+NV10783,Naveen Chauhan,T068,Female,L2 Senior Associate,30,2020-01,,Active
+NV10784,Karthik Gupta,T068,Female,L1 Associate,44,2020-06,2026-07,Exited
+NV10785,Simran Shaikh,T068,Male,L3 Lead,64,2024-02,2025-07,Exited
+NV10786,Neha Joshi,T068,Male,L1 Associate,39,2019-12,2026-08,Exited
+NV10787,Pranav Menon,T069,Male,L1 Associate,20,2024-02,,Active
+NV10788,Priya Krishnan,T069,Female,L1 Associate,4,2022-12,,Active
+NV10789,Pranav Subramanian,T069,Male,L1 Associate,26,2023-02,,Active
+NV10790,Revathi Agarwal,T069,Male,L1 Associate,136,2023-10,,Active
+NV10791,Gayathri Bhat,T069,Female,L1 Associate,17,2024-03,,Active
+NV10792,Siddharth Nair,T069,Female,L2 Senior Associate,8,2023-07,,Active
+NV10793,Harish Kulkarni,T069,Male,L2 Senior Associate,42,2021-08,,Active
+NV10794,Bhavna Naidu,T069,Female,L1 Associate,13,2016-06,,Active
+NV10795,Arjun Subramanian,T069,Female,L1 Associate,75,2023-07,2026-08,Exited
+NV10796,Vikram Subramanian,T069,Female,L2 Senior Associate,76,2021-05,,Active
+NV10797,Anjali Khan,T069,Female,L2 Senior Associate,27,2022-10,,Active
+NV10798,Lakshmi Singh,T069,Female,L1 Associate,11,2020-09,,Active
+NV10799,Arjun Das,T069,Female,L1 Associate,22,2022-08,,Active
+NV10800,Ajay Deshmukh,T069,Male,L1 Associate,46,2018-08,2026-08,Exited
+NV10801,Manoj Kulkarni,T069,Female,L1 Associate,10,2019-01,,Active
+NV10802,Simran Sharma,T070,Female,L2 Senior Associate,35,2021-11,,Active
+NV10803,Ashwin Singh,T070,Male,L3 Lead,27,2024-03,,Active
+NV10804,Anjali Bhat,T070,Male,L1 Associate,19,2022-04,,Active
+NV10805,Simran Mishra,T070,Male,L1 Associate,16,2024-05,,Active
+NV10806,Ishita Mishra,T070,Female,L1 Associate,9,2021-04,,Active
+NV10807,Rohit Sharma,T070,Male,L2 Senior Associate,62,2021-10,,Active
+NV10808,Jyoti Pillai,T070,Male,L3 Lead,39,2019-09,,Active
+NV10809,Vikram Iyer,T070,Male,L2 Senior Associate,9,2022-03,,Active
+NV10810,Pranav Sharma,T070,Female,L1 Associate,14,2022-01,,Active
+NV10811,Mohammed Rao,T070,Female,L1 Associate,15,2023-11,,Active
+NV10812,Sanjay Mehta,T070,Female,L2 Senior Associate,19,2019-06,,Active
+NV10813,Pooja Das,T071,Female,L3 Lead,27,2024-02,2026-01,Exited
+NV10814,Revathi Pillai,T071,Male,L2 Senior Associate,4,2022-08,2026-02,Exited
+NV10815,Ishita Verma,T071,Male,L2 Senior Associate,20,2021-06,2026-09,Exited
+NV10816,Neha Agarwal,T071,Male,L2 Senior Associate,20,2020-11,,Active
+NV10817,Ishita Sharma,T071,Female,L1 Associate,7,2024-08,,Active
+NV10818,Sana Krishnan,T071,Male,L1 Associate,23,2020-07,2025-12,Exited
+NV10819,Sneha Reddy,T071,Female,L2 Senior Associate,64,2018-05,,Active
+NV10820,Deepa Gupta,T071,Male,L1 Associate,107,2021-10,,Active
+NV10821,Sneha Agarwal,T071,Male,L2 Senior Associate,1,2024-03,2026-09,Exited
+NV10822,Jyoti Subramanian,T071,Female,L2 Senior Associate,16,2022-09,2026-04,Exited
+NV10823,Sanjay Deshmukh,T071,Male,L2 Senior Associate,47,2020-06,2026-08,Exited
+NV10824,Lakshmi Khan,T071,Female,L2 Senior Associate,6,2024-10,,Active
+NV10825,Ravi Mehta,T071,Female,L1 Associate,43,2020-09,,Active
+NV10826,Ravi Iyer,T072,Male,L1 Associate,55,2021-03,,Active
+NV10827,Swati Patil,T072,Male,L2 Senior Associate,39,2023-04,2025-10,Exited
+NV10828,Lakshmi Pillai,T072,Male,L1 Associate,27,2020-07,2025-07,Exited
+NV10829,Deepa Nair,T072,Female,L1 Associate,17,2023-02,2025-09,Exited
+NV10830,Gaurav Reddy,T072,Male,L1 Associate,50,2022-09,,Active
+NV10831,Lakshmi Mishra,T072,Male,L2 Senior Associate,74,2024-06,,Active
+NV10832,Kunal Reddy,T072,Male,L1 Associate,62,2023-03,2025-03,Exited
+NV10833,Manoj Bhat,T072,Male,L2 Senior Associate,11,2024-05,2024-11,Exited
+NV10834,Naveen Verma,T072,Female,L1 Associate,3,2022-01,2026-05,Exited
+NV10835,Kavya Patil,T072,Male,L1 Associate,53,2023-02,,Active
+NV10836,Karthik Mehta,T072,Male,L1 Associate,20,2023-09,2025-10,Exited
+NV10837,Prakash Sharma,T072,Female,L1 Associate,29,2022-12,,Active
+NV10838,Ashwin Das,T072,Male,L1 Associate,26,2022-08,2025-08,Exited
+NV10839,Swati Pillai,T072,Male,L1 Associate,38,2020-08,,Active
+NV10840,Jyoti Mehta,T072,Male,L2 Senior Associate,90,2023-12,,Active
+NV10841,Ajay Mishra,T072,Male,L1 Associate,33,2020-06,2025-09,Exited
+NV10842,Karthik Krishnan,T072,Female,L2 Senior Associate,27,2022-08,2026-04,Exited
+NV10843,Neha Patil,T073,Female,L1 Associate,29,2024-05,,Active
+NV10844,Tanvi Naidu,T073,Female,L2 Senior Associate,53,2022-03,,Active
+NV10845,Sanjay Gupta,T073,Female,L1 Associate,52,2021-05,,Active
+NV10846,Pranav Verma,T073,Male,L1 Associate,64,2019-11,,Active
+NV10847,Mohammed Iyer,T073,Male,L1 Associate,10,2021-08,,Active
+NV10848,Divya Deshmukh,T073,Female,L2 Senior Associate,15,2023-01,,Active
+NV10849,Nikhil Pillai,T073,Male,L1 Associate,11,2020-10,,Active
+NV10850,Rohit Deshmukh,T073,Male,L2 Senior Associate,2,2022-05,2025-04,Exited
+NV10851,Siddharth Naidu,T073,Female,L1 Associate,41,2023-01,,Active
+NV10852,Priya Rao,T074,Female,L1 Associate,15,2012-09,,Active
+NV10853,Deepak Das,T074,Male,L2 Senior Associate,8,2023-12,,Active
+NV10854,Lakshmi Mishra,T074,Female,L1 Associate,69,2023-06,,Active
+NV10855,Aishwarya Pillai,T074,Female,L2 Senior Associate,35,2017-06,,Active
+NV10856,Farah Joshi,T074,Female,L1 Associate,29,2024-04,2026-05,Exited
+NV10857,Prakash Deshmukh,T074,Male,L1 Associate,24,2021-11,,Active
+NV10858,Imran Subramanian,T074,Male,L1 Associate,7,2017-02,,Active
+NV10859,Nandini Krishnan,T074,Male,L1 Associate,39,2024-04,,Active
+NV10860,Gayathri Gupta,T074,Male,L1 Associate,21,2021-03,2025-05,Exited
+NV10861,Ashwin Mishra,T074,Female,L1 Associate,40,2023-01,,Active
+NV10862,Gaurav Rao,T074,Female,L1 Associate,24,2023-05,,Active
+NV10863,Ananya Nair,T074,Female,L1 Associate,60,2021-09,,Active
+NV10864,Farah Deshmukh,T074,Male,L2 Senior Associate,24,2017-04,,Active
+NV10865,Jyoti Verma,T075,Male,L1 Associate,40,2021-02,,Active
+NV10866,Divya Sharma,T075,Male,L2 Senior Associate,28,2023-11,,Active
+NV10867,Jyoti Chauhan,T075,Female,L1 Associate,5,2020-03,2026-03,Exited
+NV10868,Tanvi Mehta,T076,Male,L1 Associate,63,2022-07,,Active
+NV10869,Deepa Krishnan,T076,Female,L1 Associate,56,2023-11,,Active
+NV10870,Revathi Joshi,T076,Female,L1 Associate,30,2023-08,2025-02,Exited
+NV10871,Meera Rao,T076,Male,L2 Senior Associate,21,2021-10,2026-07,Exited
+NV10872,Sanjay Mehta,T076,Female,L1 Associate,103,2019-08,,Active
+NV10873,Pooja Mehta,T076,Male,L3 Lead,48,2024-03,,Active
+NV10874,Divya Agarwal,T076,Female,L1 Associate,21,2023-09,2024-11,Exited
+NV10875,Deepa Deshmukh,T076,Female,L2 Senior Associate,13,2016-01,,Active
+NV10876,Kunal Mishra,T077,Female,L1 Associate,31,2021-01,2025-05,Exited
+NV10877,Aishwarya Gupta,T077,Male,L1 Associate,37,2023-07,,Active
+NV10878,Nandini Krishnan,T077,Male,L2 Senior Associate,6,2016-04,,Active
+NV10879,Aditya Joshi,T077,Male,L3 Lead,80,2022-11,,Active
+NV10880,Ajay Nair,T077,Female,L2 Senior Associate,11,2022-03,,Active
+NV10881,Anjali Joshi,T077,Female,L1 Associate,48,2019-08,,Active
+NV10882,Manoj Naidu,T077,Female,L1 Associate,27,2022-06,2025-07,Exited
+NV10883,Farah Krishnan,T078,Female,L2 Senior Associate,47,2020-09,,Active
+NV10884,Ashwin Gupta,T078,Male,L2 Senior Associate,37,2019-01,,Active
+NV10885,Jyoti Banerjee,T078,Female,L1 Associate,84,2022-03,,Active
+NV10886,Divya Naidu,T078,Male,L1 Associate,19,2023-03,2026-07,Exited
+NV10887,Pranav Patil,T078,Male,L1 Associate,66,2022-08,,Active
+NV10888,Ravi Rao,T078,Female,L3 Lead,35,2023-08,,Active
+NV10889,Abhishek Mishra,T078,Male,L1 Associate,36,2023-11,2026-02,Exited
+NV10890,Sanjay Iyer,T078,Male,L2 Senior Associate,32,2018-03,,Active
+NV10891,Aditya Singh,T078,Female,L2 Senior Associate,12,2021-11,2026-08,Exited
+NV10892,Deepa Bhat,T078,Male,L1 Associate,38,2022-08,,Active
+NV10893,Tanvi Banerjee,T078,Female,L1 Associate,45,2024-05,,Active
+NV10894,Siddharth Iyer,T078,Male,L2 Senior Associate,15,2023-07,,Active
+NV10895,Neha Patil,T078,Male,L1 Associate,19,2024-07,,Active
+NV10896,Tanvi Deshmukh,T078,Female,L2 Senior Associate,69,2019-01,,Active
+NV10897,Bhavna Mishra,T078,Female,L2 Senior Associate,96,2021-04,2026-08,Exited
+NV10898,Sana Rao,T079,Male,L3 Lead,33,2022-03,2026-06,Exited
+NV10899,Pooja Joshi,T079,Female,L1 Associate,11,2024-10,,Active
+NV10900,Ajay Pillai,T079,Male,L2 Senior Associate,26,2019-12,2025-03,Exited
+NV10901,Divya Banerjee,T079,Male,L1 Associate,7,2023-11,,Active
+NV10902,Gayathri Rao,T079,Male,L3 Lead,53,2021-12,,Active
+NV10903,Neha Patil,T079,Female,L2 Senior Associate,39,2023-05,,Active
+NV10904,Gaurav Iyer,T079,Female,L1 Associate,20,2023-12,,Active
+NV10905,Divya Rao,T079,Male,L2 Senior Associate,72,2020-11,,Active
+NV10906,Ashwin Pillai,T079,Male,L1 Associate,24,2020-10,,Active
+NV10907,Meera Krishnan,T079,Male,L2 Senior Associate,24,2023-04,2025-10,Exited
+NV10908,Varun Krishnan,T079,Male,L1 Associate,56,2021-11,,Active
+NV10909,Sanjay Sharma,T079,Male,L1 Associate,27,2019-04,,Active
+NV10910,Ananya Kulkarni,T079,Male,L2 Senior Associate,8,2023-09,,Active
+NV10911,Siddharth Kulkarni,T080,Female,L1 Associate,5,2020-01,2025-08,Exited
+NV10912,Lakshmi Joshi,T080,Male,L1 Associate,46,2020-05,,Active
+NV10913,Suresh Shaikh,T080,Female,L1 Associate,25,2023-12,,Active
+NV10914,Rahul Khan,T080,Female,L1 Associate,43,2016-03,,Active
+NV10915,Revathi Mehta,T080,Male,L1 Associate,11,2024-03,,Active
+NV10916,Prakash Subramanian,T080,Female,L1 Associate,117,2024-05,,Active
+NV10917,Deepa Iyer,T080,Male,L1 Associate,23,2022-07,,Active
+NV10918,Simran Khan,T080,Male,L1 Associate,44,2023-06,,Active
+NV10919,Nikhil Agarwal,T080,Male,L2 Senior Associate,9,2021-06,,Active
+NV10920,Suresh Agarwal,T081,Male,L1 Associate,47,2024-01,,Active
+NV10921,Arjun Iyer,T081,Female,L3 Lead,20,2024-05,2025-03,Exited
+NV10922,Siddharth Naidu,T081,Female,L1 Associate,35,2021-12,,Active
+NV10923,Revathi Singh,T081,Female,L1 Associate,63,2021-04,,Active
+NV10924,Farah Mehta,T081,Male,L1 Associate,79,2024-02,,Active
+NV10925,Ishita Mehta,T081,Male,L2 Senior Associate,27,2021-04,2025-05,Exited
+NV10926,Siddharth Shaikh,T081,Male,L2 Senior Associate,25,2023-05,2026-07,Exited
+NV10927,Simran Mishra,T081,Male,L3 Lead,41,2022-10,,Active
+NV10928,Bhavna Mehta,T081,Female,L3 Lead,30,2021-04,,Active
+NV10929,Ashwin Reddy,T081,Male,L1 Associate,40,2023-07,2025-12,Exited
+NV10930,Siddharth Naidu,T081,Male,L3 Lead,46,2022-09,,Active
+NV10931,Ashwin Mishra,T081,Male,L1 Associate,8,2022-10,,Active
+NV10932,Ananya Pillai,T081,Female,L1 Associate,22,2021-08,,Active
+NV10933,Vikram Khan,T081,Male,L3 Lead,60,2021-05,,Active
+NV10934,Pranav Iyer,T082,Female,L3 Lead,28,2022-12,,Active
+NV10935,Rohit Patil,T082,Male,L1 Associate,17,2016-02,,Active
+NV10936,Harish Banerjee,T082,Male,L1 Associate,20,2023-11,,Active
+NV10937,Bhavna Nair,T082,Female,L1 Associate,16,2022-09,,Active
+NV10938,Mohammed Naidu,T082,Male,L3 Lead,13,2017-07,,Active
+NV10939,Simran Nair,T082,Male,L1 Associate,11,2020-02,,Active
+NV10940,Ishita Nair,T082,Male,L2 Senior Associate,36,2021-08,,Active
+NV10941,Harini Pillai,T082,Male,L1 Associate,26,2022-11,2025-12,Exited
+NV10942,Deepa Naidu,T082,Male,L2 Senior Associate,29,2022-09,,Active
+NV10943,Sana Joshi,T082,Female,L2 Senior Associate,14,2023-12,2026-02,Exited
+NV10944,Sana Deshmukh,T082,Female,L2 Senior Associate,27,2021-05,,Active
+NV10945,Ajay Sharma,T082,Female,L3 Lead,36,2020-07,2025-04,Exited
+NV10946,Pooja Iyer,T082,Female,L1 Associate,46,2020-08,,Active
+NV10947,Rohit Singh,T083,Female,L1 Associate,9,2016-01,,Active
+NV10948,Shalini Verma,T083,Male,L1 Associate,50,2016-03,2025-08,Exited
+NV10949,Abhishek Naidu,T083,Female,L1 Associate,14,2022-03,2026-08,Exited
+NV10950,Aishwarya Krishnan,T083,Female,L1 Associate,33,2019-02,,Active
+NV10951,Gaurav Subramanian,T083,Male,L2 Senior Associate,8,2024-07,2026-06,Exited
+NV10952,Neha Das,T084,Male,L1 Associate,32,2023-12,2026-07,Exited
+NV10953,Arjun Rao,T084,Male,L1 Associate,34,2023-05,2025-01,Exited
+NV10954,Arjun Pillai,T084,Female,L1 Associate,56,2023-12,,Active
+NV10955,Aditya Pillai,T084,Male,L1 Associate,10,2020-07,2026-09,Exited
+NV10956,Farah Reddy,T084,Female,L1 Associate,11,2021-03,,Active
+NV10957,Bhavna Verma,T084,Female,L1 Associate,48,2023-09,2026-07,Exited
+NV10958,Jyoti Krishnan,T084,Male,L1 Associate,16,2023-01,2025-06,Exited
+NV10959,Pranav Mehta,T084,Male,L2 Senior Associate,70,2022-01,,Active
+NV10960,Prakash Subramanian,T084,Female,L1 Associate,11,2024-09,2025-04,Exited
+NV10961,Nikhil Das,T084,Male,L1 Associate,54,2020-12,2025-09,Exited
+NV10962,Mohammed Banerjee,T084,Female,L1 Associate,71,2021-03,,Active
+NV10963,Ishita Das,T084,Male,L1 Associate,16,2023-09,2025-03,Exited
+NV10964,Gayathri Agarwal,T084,Male,L2 Senior Associate,52,2021-12,,Active
+NV10965,Harini Bhat,T084,Male,L1 Associate,54,2014-04,2025-01,Exited
+NV10966,Abhishek Bhat,T084,Male,L2 Senior Associate,36,2021-08,,Active
+NV10967,Kunal Kulkarni,T084,Female,L2 Senior Associate,36,2023-06,,Active
+NV10968,Aditya Reddy,T084,Female,L3 Lead,59,2019-07,2025-03,Exited
+NV10969,Farah Bhat,T084,Female,L2 Senior Associate,16,2023-06,2025-08,Exited
+NV10970,Tanvi Gupta,T084,Male,L3 Lead,2,2024-02,2026-08,Exited
+NV10971,Shalini Menon,T085,Female,L2 Senior Associate,46,2022-10,,Active
+NV10972,Naveen Das,T085,Male,L2 Senior Associate,35,2023-04,,Active
+NV10973,Deepa Rao,T085,Male,L2 Senior Associate,10,2019-10,,Active
+NV10974,Ravi Pillai,T085,Male,L1 Associate,25,2023-06,,Active
+NV10975,Vikram Deshmukh,T085,Male,L2 Senior Associate,70,2020-08,,Active
+NV10976,Kavya Joshi,T085,Female,L2 Senior Associate,57,2022-09,,Active
+NV10977,Naveen Rao,T085,Male,L1 Associate,105,2024-02,,Active
+NV10978,Gaurav Reddy,T085,Male,L1 Associate,22,2024-09,,Active
+NV10979,Siddharth Iyer,T085,Male,L1 Associate,11,2023-06,2026-06,Exited
+NV10980,Tanvi Das,T085,Male,L2 Senior Associate,16,2020-07,,Active
+NV10981,Gaurav Mishra,T086,Male,L1 Associate,18,2023-11,,Active
+NV10982,Divya Das,T086,Female,L1 Associate,66,2019-01,,Active
+NV10983,Anjali Shaikh,T086,Female,L1 Associate,122,2020-12,2026-07,Exited
+NV10984,Arvind Pillai,T086,Male,L3 Lead,15,2021-06,2025-07,Exited
+NV10985,Prakash Kulkarni,T086,Male,L3 Lead,9,2023-07,2025-11,Exited
+NV10986,Rahul Reddy,T086,Male,L1 Associate,31,2020-11,,Active
+NV10987,Pooja Agarwal,T086,Female,L1 Associate,18,2023-03,,Active
+NV10988,Ajay Joshi,T086,Female,L1 Associate,23,2023-06,2024-11,Exited
+NV10989,Pooja Agarwal,T086,Female,L1 Associate,97,2022-02,,Active
+NV10990,Sneha Shaikh,T086,Male,L1 Associate,56,2024-01,2025-04,Exited
+NV10991,Aishwarya Menon,T086,Female,L1 Associate,55,2022-06,,Active
+NV10992,Gayathri Mishra,T086,Female,L3 Lead,29,2018-09,,Active
+NV10993,Nikhil Kulkarni,T086,Male,L2 Senior Associate,57,2017-05,,Active
+NV10994,Deepa Joshi,T086,Male,L1 Associate,20,2017-08,2026-03,Exited
+NV10995,Tanvi Sharma,T087,Male,L1 Associate,20,2019-07,,Active
+NV10996,Ajay Rao,T087,Female,L1 Associate,51,2022-04,2026-07,Exited
+NV10997,Ritika Chauhan,T087,Male,L1 Associate,16,2024-04,2024-12,Exited
+NV10998,Tanvi Das,T087,Female,L1 Associate,32,2023-03,2026-10,Exited
+NV10999,Rohit Joshi,T087,Male,L1 Associate,60,2019-12,2025-10,Exited
+NV11000,Vikram Shaikh,T087,Female,L1 Associate,97,2022-02,2026-06,Exited
+NV11001,Ashwin Agarwal,T087,Female,L1 Associate,18,2023-02,,Active
+NV11002,Prakash Reddy,T087,Male,L1 Associate,23,2024-03,2026-04,Exited
+NV11003,Deepak Mehta,T087,Male,L1 Associate,42,2021-02,,Active
+NV11004,Aishwarya Joshi,T087,Female,L1 Associate,7,2023-09,,Active
+NV11005,Bhavna Sharma,T088,Female,L3 Lead,13,2023-03,2026-06,Exited
+NV11006,Shalini Verma,T088,Male,L1 Associate,5,2020-12,,Active
+NV11007,Meera Subramanian,T088,Female,L2 Senior Associate,41,2024-01,,Active
+NV11008,Jyoti Verma,T088,Male,L3 Lead,49,2018-01,,Active
+NV11009,Ashwin Mehta,T088,Female,L3 Lead,66,2023-03,,Active
+NV11010,Gaurav Sharma,T088,Male,L1 Associate,55,2022-01,,Active
+NV11011,Prakash Mehta,T088,Male,L2 Senior Associate,13,2023-03,,Active
+NV11012,Priya Reddy,T088,Male,L1 Associate,88,2018-12,,Active
+NV11013,Sneha Sharma,T088,Female,L2 Senior Associate,33,2013-04,,Active
+NV11014,Mohammed Iyer,T088,Male,L3 Lead,83,2019-06,,Active
+NV11015,Siddharth Kulkarni,T088,Male,L1 Associate,55,2019-05,,Active
+NV11016,Siddharth Patil,T088,Male,L1 Associate,19,2021-11,,Active
+NV11017,Suresh Iyer,T089,Female,L1 Associate,24,2024-08,,Active
+NV11018,Deepak Sharma,T089,Male,L2 Senior Associate,39,2023-09,,Active
+NV11019,Manoj Nair,T089,Male,L3 Lead,25,2020-07,,Active
+NV11020,Karthik Das,T089,Male,L1 Associate,41,2020-04,,Active
+NV11021,Sneha Krishnan,T089,Male,L1 Associate,57,2024-09,,Active
+NV11022,Ashwin Mishra,T089,Male,L1 Associate,7,2022-11,2026-08,Exited
+NV11023,Pranav Patil,T089,Female,L2 Senior Associate,52,2018-07,2026-07,Exited
+NV11024,Suresh Krishnan,T089,Female,L1 Associate,140,2019-07,,Active
+NV11025,Deepa Iyer,T089,Male,L1 Associate,10,2017-09,,Active
+NV11026,Jyoti Deshmukh,T089,Female,L3 Lead,44,2022-03,,Active
+NV11027,Kavya Krishnan,T089,Male,L1 Associate,35,2020-01,,Active
+NV11028,Kavya Rao,T089,Male,L1 Associate,50,2021-03,,Active
+NV11029,Rohit Deshmukh,T090,Female,L2 Senior Associate,28,2024-01,,Active
+NV11030,Gaurav Shaikh,T090,Female,L2 Senior Associate,24,2021-01,,Active
+NV11031,Gaurav Das,T090,Male,L2 Senior Associate,43,2020-05,2025-06,Exited
+NV11032,Lakshmi Pillai,T090,Male,L1 Associate,20,2023-01,,Active
+NV11033,Mohammed Verma,T090,Male,L2 Senior Associate,71,2023-07,,Active
+NV11034,Divya Nair,T090,Female,L3 Lead,122,2023-07,,Active
+NV11035,Neha Verma,T090,Male,L2 Senior Associate,37,2021-04,2025-05,Exited
+NV11036,Harini Singh,T090,Male,L2 Senior Associate,43,2024-01,2025-06,Exited
+NV11037,Meera Reddy,T090,Male,L3 Lead,17,2016-12,,Active
+NV11038,Priya Gupta,T090,Female,L1 Associate,47,2022-11,,Active
+NV11039,Ananya Menon,T090,Female,L1 Associate,54,2024-01,,Active
+NV11040,Arvind Menon,T090,Female,L2 Senior Associate,98,2019-11,2025-06,Exited
+NV11041,Kavya Iyer,T090,Female,L1 Associate,68,2022-05,,Active
+NV11042,Neha Sharma,T090,Male,L3 Lead,61,2016-02,,Active
+NV11043,Siddharth Krishnan,T090,Male,L1 Associate,38,2023-05,,Active
+NV11044,Neha Gupta,T091,Male,L1 Associate,20,2021-01,,Active
+NV11045,Anjali Krishnan,T091,Male,L1 Associate,56,2022-05,,Active
+NV11046,Ashwin Deshmukh,T091,Female,L1 Associate,67,2021-08,,Active
+NV11047,Meera Pillai,T091,Female,L1 Associate,56,2022-10,,Active
+NV11048,Suresh Nair,T091,Female,L2 Senior Associate,13,2021-08,2025-11,Exited
+NV11049,Revathi Singh,T091,Female,L3 Lead,19,2020-09,,Active
+NV11050,Shalini Chauhan,T091,Male,L1 Associate,19,2016-03,,Active
+NV11051,Harini Iyer,T091,Male,L1 Associate,26,2022-03,,Active
+NV11052,Rahul Deshmukh,T092,Male,L2 Senior Associate,6,2021-09,,Active
+NV11053,Kavya Shaikh,T092,Male,L1 Associate,5,2024-08,,Active
+NV11054,Mohammed Reddy,T092,Male,L3 Lead,4,2020-10,,Active
+NV11055,Kunal Patil,T092,Male,L1 Associate,19,2020-03,,Active
+NV11056,Deepak Subramanian,T092,Female,L1 Associate,9,2022-10,,Active
+NV11057,Abhishek Deshmukh,T092,Female,L1 Associate,46,2019-03,,Active
+NV11058,Rohit Sharma,T092,Male,L3 Lead,24,2022-12,,Active
+NV11059,Revathi Mishra,T092,Male,L2 Senior Associate,23,2024-07,,Active
+NV11060,Naveen Gupta,T093,Male,L3 Lead,34,2020-06,,Active
+NV11061,Manoj Agarwal,T093,Male,L3 Lead,47,2024-09,,Active
+NV11062,Ravi Gupta,T093,Male,L2 Senior Associate,44,2023-01,2025-03,Exited
+NV11063,Sana Subramanian,T093,Female,L1 Associate,15,2022-03,,Active
+NV11064,Arvind Reddy,T093,Male,L2 Senior Associate,94,2021-11,,Active
+NV11065,Prakash Krishnan,T093,Male,L2 Senior Associate,4,2017-08,,Active
+NV11066,Farah Banerjee,T093,Female,L1 Associate,35,2021-10,,Active
+NV11067,Sneha Patil,T093,Male,L2 Senior Associate,48,2020-07,2026-06,Exited
+NV11068,Suresh Khan,T093,Male,L1 Associate,54,2023-03,,Active
+NV11069,Lakshmi Shaikh,T093,Female,L1 Associate,34,2024-04,,Active
+NV11070,Rahul Nair,T093,Male,L1 Associate,29,2021-03,2025-03,Exited
+NV11071,Jyoti Mehta,T093,Female,L2 Senior Associate,31,2023-07,,Active
+NV11072,Manoj Subramanian,T094,Female,L1 Associate,27,2023-01,,Active
+NV11073,Pranav Nair,T094,Male,L1 Associate,46,2024-08,2026-01,Exited
+NV11074,Swati Banerjee,T094,Male,L1 Associate,11,2024-04,,Active
+NV11075,Ananya Khan,T094,Male,L1 Associate,50,2021-08,,Active
+NV11076,Bhavna Banerjee,T094,Male,L1 Associate,39,2022-01,,Active
+NV11077,Revathi Kulkarni,T094,Male,L1 Associate,11,2022-02,,Active
+NV11078,Ishita Mehta,T094,Male,L3 Lead,41,2022-10,,Active
+NV11079,Gayathri Iyer,T094,Female,L1 Associate,9,2020-05,,Active
+NV11080,Arjun Verma,T094,Male,L2 Senior Associate,39,2023-09,,Active
+NV11081,Deepa Kulkarni,T094,Female,L2 Senior Associate,35,2024-02,,Active
+NV11082,Lakshmi Verma,T094,Male,L1 Associate,61,2020-04,,Active
+NV11083,Suresh Pillai,T094,Male,L1 Associate,76,2019-03,,Active
+NV11084,Kunal Shaikh,T094,Male,L1 Associate,29,2023-11,,Active
+NV11085,Nandini Kulkarni,T094,Male,L1 Associate,16,2021-08,,Active
+NV11086,Farah Joshi,T095,Female,L1 Associate,8,2022-06,2025-06,Exited
+NV11087,Aditya Bhat,T095,Male,L2 Senior Associate,41,2023-05,2025-05,Exited
+NV11088,Meera Patil,T095,Male,L2 Senior Associate,5,2022-01,,Active
+NV11089,Tanvi Nair,T095,Male,L2 Senior Associate,18,2019-05,2026-05,Exited
+NV11090,Vikram Khan,T095,Female,L2 Senior Associate,26,2023-04,,Active
+NV11091,Ajay Agarwal,T095,Male,L3 Lead,19,2024-05,2025-05,Exited
+NV11092,Ritika Verma,T095,Male,L3 Lead,1,2022-04,,Active
+NV11093,Prakash Pillai,T096,Female,L1 Associate,64,2022-08,,Active
+NV11094,Bhavna Mishra,T096,Male,L3 Lead,7,2023-02,,Active
+NV11095,Nandini Shaikh,T096,Female,L1 Associate,14,2023-06,2026-04,Exited
+NV11096,Abhishek Gupta,T096,Male,L3 Lead,15,2024-01,,Active
+NV11097,Nikhil Sharma,T096,Male,L2 Senior Associate,16,2024-07,2025-06,Exited
+NV11098,Harish Subramanian,T096,Male,L2 Senior Associate,62,2022-04,,Active
+NV11099,Kunal Gupta,T096,Female,L1 Associate,35,2021-01,,Active
+NV11100,Priya Shaikh,T096,Male,L2 Senior Associate,28,2022-03,,Active
+NV11101,Naveen Agarwal,T096,Female,L2 Senior Associate,47,2020-08,2026-10,Exited
+NV11102,Aishwarya Agarwal,T096,Female,L2 Senior Associate,50,2020-04,,Active
+NV11103,Naveen Rao,T096,Female,L1 Associate,7,2024-08,,Active
+NV11104,Nandini Naidu,T096,Male,L2 Senior Associate,75,2023-08,2025-02,Exited
+NV11105,Nandini Sharma,T096,Male,L3 Lead,127,2022-11,2025-11,Exited
+NV11106,Prakash Rao,T096,Female,L2 Senior Associate,27,2017-04,,Active
+NV11107,Aishwarya Verma,T096,Female,L2 Senior Associate,2,2023-01,2026-04,Exited
+NV11108,Ritika Shaikh,T096,Male,L1 Associate,78,2019-06,,Active
+NV11109,Deepa Deshmukh,T096,Female,L1 Associate,48,2022-06,,Active
+NV11110,Gaurav Sharma,T096,Female,L2 Senior Associate,45,2019-11,,Active
+NV11111,Kunal Khan,T096,Male,L1 Associate,105,2019-12,,Active
+NV11112,Abhishek Subramanian,T096,Male,L1 Associate,73,2021-05,2026-09,Exited
+NV11113,Siddharth Agarwal,T096,Male,L1 Associate,44,2015-12,,Active
+NV11114,Jyoti Iyer,T096,Male,L2 Senior Associate,2,2024-06,,Active
+NV11115,Varun Nair,T097,Male,L1 Associate,62,2023-10,,Active
+NV11116,Sanjay Shaikh,T097,Male,L1 Associate,12,2023-12,2026-09,Exited
+NV11117,Manoj Khan,T097,Male,L1 Associate,31,2021-07,,Active
+NV11118,Aditya Deshmukh,T097,Female,L2 Senior Associate,40,2022-08,,Active
+NV11119,Priya Rao,T097,Male,L2 Senior Associate,50,2023-10,2026-08,Exited
+NV11120,Pooja Kulkarni,T097,Male,L2 Senior Associate,47,2018-01,,Active
+NV11121,Pooja Deshmukh,T097,Male,L2 Senior Associate,57,2020-11,,Active
+NV11122,Sanjay Iyer,T097,Male,L1 Associate,95,2020-11,,Active
+NV11123,Lakshmi Menon,T097,Male,L1 Associate,19,2020-12,,Active
+NV11124,Deepa Bhat,T097,Female,L2 Senior Associate,67,2022-12,,Active
+NV11125,Siddharth Patil,T097,Male,L1 Associate,13,2018-11,,Active
+NV11126,Revathi Gupta,T097,Male,L1 Associate,27,2022-04,2025-06,Exited
+NV11127,Anjali Chauhan,T097,Male,L2 Senior Associate,58,2023-06,,Active
+NV11128,Jyoti Bhat,T097,Male,L3 Lead,26,2024-02,2025-06,Exited
+NV11129,Arjun Bhat,T097,Female,L1 Associate,5,2017-10,,Active
+NV11130,Farah Naidu,T097,Male,L2 Senior Associate,59,2023-07,,Active
+NV11131,Abhishek Patil,T098,Male,L3 Lead,15,2022-08,,Active
+NV11132,Vikram Verma,T098,Male,L2 Senior Associate,61,2023-06,,Active
+NV11133,Gaurav Iyer,T098,Female,L1 Associate,19,2023-02,,Active
+NV11134,Varun Shaikh,T098,Female,L1 Associate,84,2021-08,,Active
+NV11135,Aishwarya Nair,T098,Male,L3 Lead,19,2021-12,,Active
+NV11136,Gaurav Chauhan,T098,Female,L1 Associate,43,2019-12,,Active
+NV11137,Bhavna Naidu,T098,Female,L1 Associate,14,2021-12,2026-07,Exited
+NV11138,Lakshmi Gupta,T098,Male,L3 Lead,46,2022-05,,Active
+NV11139,Lakshmi Krishnan,T098,Male,L1 Associate,43,2023-02,,Active
+NV11140,Imran Singh,T098,Male,L1 Associate,39,2018-03,,Active
+NV11141,Bhavna Iyer,T098,Female,L1 Associate,43,2022-10,,Active
+NV11142,Vikram Iyer,T098,Male,L1 Associate,14,2023-09,,Active
+NV11143,Ananya Gupta,T098,Male,L1 Associate,65,2023-01,,Active
+NV11144,Aishwarya Krishnan,T098,Male,L3 Lead,3,2022-04,,Active
+NV11145,Sanjay Verma,T098,Male,L2 Senior Associate,60,2022-02,,Active
+NV11146,Ashwin Agarwal,T098,Male,L1 Associate,8,2022-11,,Active
+NV11147,Pranav Kulkarni,T099,Male,L1 Associate,34,2024-04,,Active
+NV11148,Sana Joshi,T099,Female,L2 Senior Associate,4,2022-04,2026-10,Exited
+NV11149,Deepa Patil,T099,Male,L1 Associate,43,2021-01,2026-01,Exited
+NV11150,Suresh Rao,T099,Male,L1 Associate,35,2023-01,2025-03,Exited
+NV11151,Deepak Verma,T099,Male,L1 Associate,5,2023-02,,Active
+NV11152,Gayathri Kulkarni,T099,Female,L1 Associate,2,2019-11,,Active
+NV11153,Kavya Reddy,T099,Male,L1 Associate,15,2022-08,,Active
+NV11154,Farah Bhat,T099,Female,L2 Senior Associate,41,2017-05,,Active
+NV11155,Jyoti Nair,T099,Female,L3 Lead,14,2024-03,2026-05,Exited
+NV11156,Sneha Bhat,T099,Male,L2 Senior Associate,6,2024-06,2026-10,Exited
+NV11157,Mohammed Mishra,T099,Male,L2 Senior Associate,67,2024-06,,Active
+NV11158,Sneha Pillai,T099,Male,L2 Senior Associate,42,2019-08,2026-05,Exited
+NV11159,Farah Bhat,T099,Female,L2 Senior Associate,11,2021-01,,Active
+NV11160,Suresh Reddy,T099,Female,L1 Associate,4,2023-02,,Active
+NV11161,Naveen Agarwal,T099,Female,L1 Associate,35,2019-10,,Active
+NV11162,Divya Naidu,T100,Male,L1 Associate,9,2020-12,,Active
+NV11163,Pooja Gupta,T100,Male,L3 Lead,3,2023-06,,Active
+NV11164,Ashwin Joshi,T100,Male,L2 Senior Associate,10,2022-11,,Active
+NV11165,Deepa Menon,T100,Female,L3 Lead,31,2023-12,,Active
+NV11166,Siddharth Singh,T100,Female,L1 Associate,50,2022-02,2026-02,Exited
+NV11167,Divya Pillai,T100,Female,L1 Associate,39,2021-12,,Active
+NV11168,Revathi Mehta,T100,Male,L1 Associate,27,2022-01,,Active
+NV11169,Jyoti Iyer,T100,Female,L3 Lead,37,2020-08,,Active
+NV11170,Pranav Mehta,T100,Female,L1 Associate,7,2023-10,,Active
+NV11171,Varun Pillai,T100,Male,L1 Associate,13,2022-12,,Active
+NV11172,Sanjay Sharma,T100,Male,L2 Senior Associate,2,2020-12,,Active
+NV11173,Deepak Nair,T100,Female,L1 Associate,78,2019-10,,Active
+NV11174,Gayathri Joshi,T100,Female,L2 Senior Associate,4,2019-07,,Active
+NV11175,Sana Nair,T100,Female,L2 Senior Associate,23,2017-07,,Active
+NV11176,Anjali Reddy,T100,Female,L1 Associate,43,2021-09,,Active
+NV11177,Kavya Krishnan,T100,Male,L1 Associate,52,2023-09,,Active
+NV11178,Nandini Gupta,T101,Male,L1 Associate,10,2020-07,,Active
+NV11179,Simran Sharma,T101,Male,L2 Senior Associate,22,2023-08,2024-12,Exited
+NV11180,Ritika Nair,T101,Male,L3 Lead,13,2022-01,,Active
+NV11181,Simran Gupta,T101,Female,L1 Associate,10,2019-04,,Active
+NV11182,Priya Singh,T101,Male,L2 Senior Associate,38,2021-11,2026-05,Exited
+NV11183,Mohammed Nair,T101,Female,L1 Associate,16,2023-07,2025-01,Exited
+NV11184,Meera Joshi,T101,Male,L1 Associate,71,2020-05,2026-05,Exited
+NV11185,Pranav Naidu,T102,Male,L1 Associate,59,2022-03,,Active
+NV11186,Ishita Nair,T102,Male,L1 Associate,21,2021-04,,Active
+NV11187,Abhishek Shaikh,T102,Male,L2 Senior Associate,7,2023-09,,Active
+NV11188,Sana Rao,T102,Male,L1 Associate,34,2022-04,,Active
+NV11189,Pooja Chauhan,T102,Male,L1 Associate,43,2019-09,,Active
+NV11190,Ananya Shaikh,T102,Male,L1 Associate,49,2022-08,,Active
+NV11191,Aishwarya Mishra,T102,Female,L2 Senior Associate,57,2022-08,2024-11,Exited
+NV11192,Sana Shaikh,T102,Female,L1 Associate,50,2021-09,,Active
+NV11193,Siddharth Reddy,T103,Male,L3 Lead,13,2024-06,,Active
+NV11194,Deepa Singh,T103,Male,L1 Associate,52,2023-10,,Active
+NV11195,Abhishek Patil,T103,Male,L1 Associate,7,2019-09,,Active
+NV11196,Naveen Nair,T103,Female,L3 Lead,38,2020-08,,Active
+NV11197,Naveen Patil,T103,Male,L1 Associate,28,2023-12,,Active
+NV11198,Shalini Gupta,T103,Male,L1 Associate,8,2023-10,,Active
+NV11199,Sana Agarwal,T103,Male,L1 Associate,12,2021-12,,Active
+NV11200,Imran Khan,T104,Male,L1 Associate,21,2024-03,,Active
+NV11201,Gaurav Verma,T104,Female,L1 Associate,13,2022-09,,Active
+NV11202,Sana Banerjee,T104,Female,L2 Senior Associate,25,2020-02,,Active
+NV11203,Kunal Mishra,T104,Male,L3 Lead,62,2022-09,,Active
+NV11204,Sanjay Deshmukh,T104,Male,L1 Associate,14,2021-04,,Active
+NV11205,Suresh Verma,T104,Male,L1 Associate,25,2020-01,,Active
+NV11206,Kavya Rao,T104,Male,L3 Lead,22,2021-09,2026-04,Exited
+NV11207,Mohammed Sharma,T104,Male,L3 Lead,20,2024-01,,Active
+NV11208,Jyoti Rao,T104,Male,L3 Lead,16,2021-05,,Active
+NV11209,Ritika Rao,T104,Male,L2 Senior Associate,32,2023-04,,Active
+NV11210,Anjali Shaikh,T104,Female,L1 Associate,53,2024-01,,Active
+NV11211,Gaurav Kulkarni,T104,Male,L1 Associate,40,2021-09,,Active
+NV11212,Nandini Joshi,T105,Male,L3 Lead,97,2022-07,2026-05,Exited
+NV11213,Aishwarya Das,T105,Female,L1 Associate,15,2023-01,2025-05,Exited
+NV11214,Karthik Pillai,T105,Male,L2 Senior Associate,20,2022-10,2025-08,Exited
+NV11215,Tanvi Reddy,T105,Male,L1 Associate,40,2016-06,,Active
+NV11216,Siddharth Agarwal,T105,Female,L1 Associate,18,2022-11,2026-03,Exited
+NV11217,Ritika Subramanian,T105,Male,L1 Associate,10,2024-07,,Active
+NV11218,Abhishek Naidu,T105,Male,L2 Senior Associate,25,2023-10,2026-06,Exited
+NV11219,Suresh Rao,T105,Female,L3 Lead,24,2023-10,,Active
+NV11220,Ishita Bhat,T105,Male,L1 Associate,29,2023-02,,Active
+NV11221,Siddharth Deshmukh,T105,Female,L3 Lead,45,2023-12,2025-07,Exited
+NV11222,Bhavna Verma,T105,Male,L2 Senior Associate,56,2020-11,2025-05,Exited
+NV11223,Kavya Joshi,T105,Female,L3 Lead,73,2018-03,,Active
+NV11224,Prakash Deshmukh,T105,Male,L2 Senior Associate,41,2024-05,2025-05,Exited
+NV11225,Ravi Menon,T106,Female,L1 Associate,13,2024-10,2026-06,Exited
+NV11226,Bhavna Bhat,T106,Male,L1 Associate,7,2023-11,2025-07,Exited
+NV11227,Sneha Khan,T106,Male,L2 Senior Associate,21,2021-12,2025-11,Exited
+NV11228,Jyoti Kulkarni,T106,Male,L1 Associate,60,2022-12,,Active
+NV11229,Ananya Rao,T106,Male,L2 Senior Associate,3,2022-01,2026-07,Exited
+NV11230,Nikhil Verma,T106,Male,L1 Associate,15,2018-07,,Active
+NV11231,Jyoti Deshmukh,T106,Female,L1 Associate,98,2024-01,2025-07,Exited
+NV11232,Priya Chauhan,T106,Female,L1 Associate,12,2022-09,2026-07,Exited
+NV11233,Rahul Iyer,T106,Male,L2 Senior Associate,64,2019-11,2025-10,Exited
+NV11234,Revathi Pillai,T106,Female,L1 Associate,40,2019-01,,Active
+NV11235,Ishita Agarwal,T106,Male,L1 Associate,46,2023-07,2025-11,Exited
+NV11236,Sana Shaikh,T107,Male,L1 Associate,21,2019-11,2025-02,Exited
+NV11237,Vikram Mishra,T107,Female,L2 Senior Associate,35,2019-02,,Active
+NV11238,Ajay Subramanian,T107,Male,L1 Associate,47,2020-07,,Active
+NV11239,Ritika Verma,T107,Male,L1 Associate,30,2019-04,,Active
+NV11240,Sanjay Banerjee,T107,Male,L2 Senior Associate,15,2023-12,2026-08,Exited
+NV11241,Vikram Nair,T107,Female,L1 Associate,31,2018-07,,Active
+NV11242,Priya Subramanian,T107,Female,L1 Associate,44,2014-03,,Active
+NV11243,Ashwin Subramanian,T107,Male,L2 Senior Associate,45,2018-03,2026-04,Exited
+NV11244,Bhavna Rao,T107,Female,L1 Associate,82,2022-06,,Active
+NV11245,Ishita Rao,T107,Male,L1 Associate,43,2018-06,,Active
+NV11246,Bhavna Subramanian,T107,Male,L1 Associate,55,2020-12,,Active
+NV11247,Neha Mishra,T107,Male,L1 Associate,55,2024-01,,Active
+NV11248,Vikram Gupta,T108,Female,L3 Lead,39,2024-01,,Active
+NV11249,Ananya Kulkarni,T108,Male,L2 Senior Associate,48,2023-11,2025-03,Exited
+NV11250,Rahul Mehta,T108,Male,L1 Associate,56,2022-11,,Active
+NV11251,Rahul Verma,T109,Female,L1 Associate,28,2023-09,2026-10,Exited
+NV11252,Ajay Sharma,T109,Female,L3 Lead,4,2022-04,,Active
+NV11253,Rohit Kulkarni,T109,Female,L1 Associate,4,2015-12,,Active
+NV11254,Anjali Shaikh,T109,Female,L2 Senior Associate,24,2022-02,,Active
+NV11255,Manoj Verma,T109,Male,L1 Associate,4,2020-01,,Active
+NV11256,Simran Reddy,T109,Female,L1 Associate,3,2023-02,,Active
+NV11257,Rahul Bhat,T109,Male,L2 Senior Associate,19,2023-08,,Active
+NV11258,Neha Mehta,T109,Male,L1 Associate,25,2020-03,,Active
+NV11259,Sneha Banerjee,T109,Female,L1 Associate,41,2023-11,2026-09,Exited
+NV11260,Aditya Shaikh,T109,Male,L1 Associate,8,2023-01,,Active
+NV11261,Shalini Iyer,T109,Female,L2 Senior Associate,45,2023-12,,Active
+NV11262,Harish Menon,T109,Female,L3 Lead,75,2017-12,,Active
+NV11263,Nikhil Pillai,T109,Female,L2 Senior Associate,20,2021-05,,Active
+NV11264,Ritika Mishra,T109,Male,L1 Associate,37,2023-01,,Active
+NV11265,Manoj Naidu,T110,Male,L2 Senior Associate,51,2020-10,,Active
+NV11266,Sanjay Deshmukh,T110,Male,L1 Associate,27,2020-05,2026-09,Exited
+NV11267,Rahul Chauhan,T110,Male,L1 Associate,42,2023-11,,Active
+NV11268,Revathi Menon,T110,Female,L2 Senior Associate,18,2024-06,,Active
+NV11269,Naveen Agarwal,T110,Male,L2 Senior Associate,29,2023-12,2024-11,Exited
+NV11270,Ravi Banerjee,T110,Male,L3 Lead,90,2021-10,2026-03,Exited
+NV11271,Meera Nair,T110,Male,L1 Associate,25,2024-07,,Active
+NV11272,Priya Sharma,T110,Female,L1 Associate,34,2019-11,,Active
+NV11273,Deepak Chauhan,T110,Male,L3 Lead,9,2021-01,2026-09,Exited
+NV11274,Imran Subramanian,T110,Male,L1 Associate,56,2023-02,,Active
+NV11275,Kunal Banerjee,T110,Female,L2 Senior Associate,39,2024-02,,Active
+NV11276,Rahul Khan,T110,Female,L3 Lead,14,2024-07,,Active
+NV11277,Ananya Sharma,T110,Male,L3 Lead,5,2021-05,,Active
+NV11278,Arvind Mishra,T111,Male,L2 Senior Associate,37,2023-05,,Active
+NV11279,Aishwarya Gupta,T111,Male,L1 Associate,28,2020-10,2026-08,Exited
+NV11280,Priya Banerjee,T111,Male,L1 Associate,23,2023-03,,Active
+NV11281,Ananya Reddy,T111,Male,L3 Lead,27,2020-06,,Active
+NV11282,Siddharth Mishra,T111,Male,L1 Associate,4,2022-06,,Active
+NV11283,Arjun Subramanian,T111,Male,L3 Lead,28,2022-10,2025-12,Exited
+NV11284,Nandini Subramanian,T111,Male,L2 Senior Associate,11,2023-03,,Active
+NV11285,Imran Joshi,T111,Male,L2 Senior Associate,14,2022-06,,Active
+NV11286,Neha Gupta,T111,Male,L1 Associate,27,2021-12,,Active
+NV11287,Suresh Shaikh,T111,Male,L1 Associate,37,2020-06,,Active
+NV11288,Gaurav Verma,T112,Female,L1 Associate,40,2024-02,,Active
+NV11289,Naveen Mishra,T112,Female,L1 Associate,22,2024-01,2025-07,Exited
+NV11290,Nandini Joshi,T112,Male,L2 Senior Associate,18,2023-10,2026-09,Exited
+NV11291,Tanvi Krishnan,T112,Male,L2 Senior Associate,29,2022-06,,Active
+NV11292,Divya Deshmukh,T112,Male,L1 Associate,72,2017-10,,Active
+NV11293,Deepak Deshmukh,T112,Male,L2 Senior Associate,19,2019-01,,Active
+NV11294,Tanvi Pillai,T112,Male,L1 Associate,19,2020-07,,Active
+NV11295,Abhishek Verma,T112,Male,L2 Senior Associate,29,2021-01,,Active
+NV11296,Tanvi Krishnan,T112,Male,L1 Associate,25,2022-09,2025-06,Exited
+NV11297,Ritika Naidu,T112,Male,L3 Lead,73,2019-06,,Active
+NV11298,Sana Nair,T112,Female,L1 Associate,29,2024-06,,Active
+NV11299,Arjun Agarwal,T112,Female,L3 Lead,19,2021-09,,Active
+NV11300,Rohit Deshmukh,T112,Male,L3 Lead,6,2023-09,,Active
+NV11301,Ritika Reddy,T113,Female,L1 Associate,32,2017-06,,Active
+NV11302,Swati Reddy,T113,Male,L3 Lead,6,2020-05,,Active
+NV11303,Gaurav Singh,T113,Male,L2 Senior Associate,11,2022-07,,Active
+NV11304,Sana Das,T113,Female,L1 Associate,2,2024-02,,Active
+NV11305,Karthik Naidu,T114,Male,L2 Senior Associate,22,2018-08,2026-01,Exited
+NV11306,Kunal Subramanian,T114,Male,L1 Associate,32,2023-10,2025-10,Exited
+NV11307,Harish Verma,T114,Female,L1 Associate,16,2016-08,,Active
+NV11308,Karthik Patil,T114,Female,L1 Associate,14,2021-07,2024-11,Exited
+NV11309,Shalini Reddy,T115,Male,L1 Associate,40,2020-06,2025-12,Exited
+NV11310,Sanjay Chauhan,T115,Male,L3 Lead,17,2020-08,2026-05,Exited
+NV11311,Nikhil Iyer,T115,Male,L1 Associate,41,2023-03,2026-05,Exited
+NV11312,Abhishek Krishnan,T115,Female,L1 Associate,31,2023-08,,Active
+NV11313,Sana Gupta,T115,Male,L1 Associate,15,2024-02,2026-04,Exited
+NV11314,Divya Patil,T115,Female,L1 Associate,65,2024-07,,Active
+NV11315,Naveen Pillai,T115,Male,L2 Senior Associate,17,2018-02,,Active
+NV11316,Arvind Pillai,T116,Male,L1 Associate,17,2022-11,,Active
+NV11317,Manoj Gupta,T116,Male,L1 Associate,24,2021-06,,Active
+NV11318,Ritika Deshmukh,T116,Female,L3 Lead,41,2024-10,,Active
+NV11319,Meera Menon,T116,Female,L1 Associate,35,2022-01,,Active
+NV11320,Imran Krishnan,T116,Female,L2 Senior Associate,103,2022-05,,Active
+NV11321,Deepak Nair,T116,Male,L3 Lead,39,2022-08,,Active
+NV11322,Tanvi Bhat,T117,Male,L2 Senior Associate,28,2022-01,2025-12,Exited
+NV11323,Suresh Reddy,T117,Male,L3 Lead,15,2014-05,2026-08,Exited
+NV11324,Jyoti Khan,T117,Male,L3 Lead,62,2021-02,,Active
+NV11325,Ananya Khan,T117,Male,L1 Associate,50,2021-11,,Active
+NV11326,Aishwarya Naidu,T117,Male,L3 Lead,65,2023-08,2025-10,Exited
+NV11327,Prakash Das,T117,Female,L1 Associate,69,2023-09,2026-05,Exited
+NV11328,Ravi Singh,T117,Male,L1 Associate,40,2023-07,2025-04,Exited
+NV11329,Nandini Subramanian,T117,Female,L2 Senior Associate,15,2022-03,2025-05,Exited
+NV11330,Shalini Iyer,T117,Female,L1 Associate,11,2021-08,,Active
+NV11331,Suresh Rao,T117,Female,L1 Associate,7,2022-10,2025-08,Exited
+NV11332,Ritika Kulkarni,T117,Male,L2 Senior Associate,55,2023-08,,Active
+NV11333,Anjali Kulkarni,T117,Male,L1 Associate,94,2022-02,,Active
+NV11334,Arvind Krishnan,T118,Male,L3 Lead,61,2019-12,,Active
+NV11335,Rohit Nair,T118,Male,L1 Associate,31,2023-01,,Active
+NV11336,Suresh Agarwal,T118,Male,L2 Senior Associate,30,2019-08,,Active
+NV11337,Bhavna Krishnan,T118,Male,L1 Associate,20,2018-08,,Active
+NV11338,Swati Kulkarni,T118,Female,L1 Associate,48,2024-01,,Active
+NV11339,Nandini Pillai,T118,Female,L3 Lead,21,2024-01,,Active
+NV11340,Kunal Iyer,T118,Male,L1 Associate,51,2022-06,2025-09,Exited
+NV11341,Mohammed Pillai,T118,Male,L1 Associate,17,2021-08,,Active
+NV11342,Naveen Joshi,T118,Male,L2 Senior Associate,45,2021-01,,Active
+NV11343,Gayathri Sharma,T118,Male,L2 Senior Associate,114,2024-03,,Active
+NV11344,Swati Singh,T119,Female,L3 Lead,69,2021-01,2025-01,Exited
+NV11345,Ravi Das,T119,Female,L2 Senior Associate,41,2023-06,,Active
+NV11346,Swati Pillai,T119,Male,L1 Associate,13,2023-02,2025-02,Exited
+NV11347,Kavya Chauhan,T119,Male,L1 Associate,4,2022-10,2025-06,Exited
+NV11348,Arjun Singh,T119,Male,L1 Associate,32,2023-11,,Active
+NV11349,Siddharth Mehta,T119,Male,L1 Associate,58,2021-11,,Active
+NV11350,Swati Kulkarni,T119,Male,L2 Senior Associate,7,2022-03,,Active
+NV11351,Prakash Das,T119,Female,L1 Associate,36,2019-09,,Active
+NV11352,Kavya Sharma,T119,Male,L1 Associate,81,2021-08,,Active
+NV11353,Vikram Naidu,T119,Female,L1 Associate,12,2024-02,,Active
+NV11354,Tanvi Agarwal,T119,Male,L2 Senior Associate,12,2009-11,,Active
+NV11355,Pooja Rao,T120,Male,L2 Senior Associate,16,2023-04,,Active
+NV11356,Sanjay Nair,T120,Male,L2 Senior Associate,47,2022-01,,Active
+NV11357,Priya Nair,T120,Female,L2 Senior Associate,53,2021-09,,Active
+NV11358,Sana Mishra,T120,Female,L2 Senior Associate,51,2021-01,,Active
+NV11359,Harini Reddy,T120,Male,L3 Lead,17,2022-02,,Active
+NV11360,Abhishek Mishra,T120,Male,L1 Associate,20,2022-11,,Active
+NV11361,Jyoti Pillai,T120,Female,L1 Associate,14,2021-05,,Active
+NV11362,Kavya Joshi,T120,Female,L2 Senior Associate,49,2019-06,,Active
+NV11363,Ashwin Khan,T120,Male,L1 Associate,65,2023-02,,Active
+NV11364,Ananya Mehta,T120,Male,L1 Associate,31,2023-05,,Active
+NV11365,Mohammed Krishnan,T120,Male,L1 Associate,16,2022-08,2025-12,Exited
+NV11366,Vikram Shaikh,T120,Male,L3 Lead,18,2022-12,,Active
+NV11367,Naveen Reddy,T120,Female,L1 Associate,33,2023-08,,Active
+NV11368,Pranav Kulkarni,T120,Male,L2 Senior Associate,19,2022-04,,Active
+NV11369,Varun Das,T120,Male,L1 Associate,17,2024-08,2025-01,Exited
+NV11370,Gaurav Subramanian,T120,Female,L3 Lead,9,2015-04,,Active
+NV11371,Rahul Reddy,T120,Female,L1 Associate,105,2023-10,2025-04,Exited
+NV11372,Sneha Nair,T121,Male,L1 Associate,14,2023-04,,Active
+NV11373,Nikhil Agarwal,T121,Male,L1 Associate,49,2024-02,2026-09,Exited
+NV11374,Revathi Agarwal,T121,Male,L1 Associate,41,2020-10,,Active
+NV11375,Swati Joshi,T121,Female,L1 Associate,77,2023-03,,Active
+NV11376,Neha Verma,T121,Female,L3 Lead,28,2024-05,2025-06,Exited
+NV11377,Divya Singh,T121,Male,L2 Senior Associate,53,2021-08,,Active
+NV11378,Lakshmi Singh,T121,Female,L1 Associate,57,2024-04,,Active
+NV11379,Prakash Khan,T122,Male,L1 Associate,31,2022-03,2026-08,Exited
+NV11380,Harini Subramanian,T122,Male,L2 Senior Associate,41,2022-12,2025-06,Exited
+NV11381,Siddharth Naidu,T122,Male,L3 Lead,9,2023-02,,Active
+NV11382,Aishwarya Das,T122,Male,L1 Associate,30,2022-10,,Active
+NV11383,Divya Iyer,T122,Male,L2 Senior Associate,8,2023-03,,Active
+NV11384,Harish Gupta,T122,Male,L1 Associate,42,2021-09,,Active
+NV11385,Simran Rao,T122,Female,L1 Associate,35,2023-05,,Active
+NV11386,Nikhil Bhat,T122,Male,L1 Associate,43,2019-10,,Active
+NV11387,Kavya Naidu,T122,Male,L2 Senior Associate,33,2023-11,,Active
+NV11388,Ritika Naidu,T123,Female,L1 Associate,64,2023-01,,Active
+NV11389,Divya Mehta,T123,Male,L3 Lead,50,2017-07,,Active
+NV11390,Varun Shaikh,T123,Male,L1 Associate,22,2020-05,,Active
+NV11391,Ravi Bhat,T123,Male,L1 Associate,29,2024-10,,Active
+NV11392,Sneha Rao,T123,Male,L3 Lead,93,2024-02,,Active
+NV11393,Manoj Subramanian,T123,Male,L1 Associate,12,2022-12,,Active
+NV11394,Revathi Menon,T123,Female,L2 Senior Associate,15,2020-10,,Active
+NV11395,Divya Mishra,T123,Male,L1 Associate,44,2021-10,,Active
+NV11396,Neha Gupta,T123,Male,L1 Associate,16,2023-01,,Active
+NV11397,Deepa Banerjee,T123,Female,L3 Lead,50,2021-08,2026-08,Exited
+NV11398,Siddharth Menon,T123,Male,L1 Associate,44,2022-11,,Active
+NV11399,Sana Naidu,T123,Male,L1 Associate,39,2023-12,,Active
+NV11400,Anjali Naidu,T123,Male,L3 Lead,60,2023-02,2026-05,Exited
+NV11401,Nikhil Das,T123,Male,L1 Associate,51,2020-07,2025-04,Exited
+NV11402,Karthik Chauhan,T123,Female,L2 Senior Associate,7,2022-04,2026-01,Exited
+NV11403,Rahul Shaikh,T124,Male,L1 Associate,13,2024-07,2026-02,Exited
+NV11404,Gayathri Rao,T124,Male,L1 Associate,40,2024-02,2026-07,Exited
+NV11405,Nandini Joshi,T124,Male,L2 Senior Associate,30,2023-12,2024-12,Exited
+NV11406,Vikram Rao,T124,Female,L1 Associate,35,2022-04,,Active
+NV11407,Ishita Bhat,T124,Male,L1 Associate,22,2020-04,2026-09,Exited
+NV11408,Arvind Sharma,T124,Male,L1 Associate,35,2022-06,2026-09,Exited
+NV11409,Revathi Chauhan,T124,Male,L2 Senior Associate,16,2023-09,2025-05,Exited
+NV11410,Tanvi Subramanian,T124,Male,L1 Associate,25,2017-12,2026-06,Exited
+NV11411,Arvind Iyer,T124,Male,L1 Associate,14,2020-04,,Active
+NV11412,Naveen Verma,T124,Male,L1 Associate,56,2023-09,2026-02,Exited
+NV11413,Imran Singh,T125,Male,L1 Associate,88,2022-06,,Active
+NV11414,Arjun Bhat,T125,Female,L1 Associate,58,2024-02,,Active
+NV11415,Abhishek Das,T125,Male,L2 Senior Associate,8,2022-02,,Active
+NV11416,Aishwarya Das,T125,Male,L2 Senior Associate,34,2020-10,2025-07,Exited
+NV11417,Gayathri Gupta,T125,Male,L1 Associate,6,2022-01,,Active
+NV11418,Sanjay Joshi,T125,Female,L3 Lead,33,2023-09,,Active
+NV11419,Gayathri Das,T125,Male,L1 Associate,41,2022-09,2026-07,Exited
+NV11420,Arjun Reddy,T125,Female,L1 Associate,26,2023-01,2025-05,Exited
+NV11421,Imran Mishra,T125,Male,L1 Associate,16,2020-01,,Active
+NV11422,Rahul Agarwal,T125,Male,L2 Senior Associate,6,2020-04,,Active
+NV11423,Sana Joshi,T125,Male,L1 Associate,8,2022-08,2026-01,Exited
+NV11424,Ananya Naidu,T125,Male,L2 Senior Associate,3,2022-11,,Active
+NV11425,Simran Verma,T125,Female,L1 Associate,37,2024-06,2026-08,Exited
+NV11426,Meera Krishnan,T125,Male,L1 Associate,93,2024-09,,Active
+NV11427,Jyoti Banerjee,T125,Female,L2 Senior Associate,37,2023-10,,Active
+NV11428,Ananya Pillai,T126,Female,L1 Associate,106,2023-06,,Active
+NV11429,Manoj Agarwal,T126,Male,L2 Senior Associate,48,2022-09,,Active
+NV11430,Swati Gupta,T126,Male,L2 Senior Associate,85,2021-03,,Active
+NV11431,Rahul Naidu,T126,Male,L1 Associate,54,2021-11,,Active
+NV11432,Anjali Naidu,T126,Female,L1 Associate,52,2023-06,,Active
+NV11433,Ravi Mehta,T126,Female,L1 Associate,3,2023-03,,Active
+NV11434,Varun Rao,T127,Female,L3 Lead,10,2022-09,2025-07,Exited
+NV11435,Harish Krishnan,T127,Male,L2 Senior Associate,76,2024-04,,Active
+NV11436,Harini Reddy,T127,Male,L1 Associate,71,2021-05,,Active
+NV11437,Vikram Subramanian,T127,Female,L2 Senior Associate,25,2020-01,,Active
+NV11438,Meera Joshi,T127,Female,L3 Lead,7,2021-12,,Active
+NV11439,Deepa Agarwal,T127,Male,L1 Associate,25,2023-12,,Active
+NV11440,Ananya Banerjee,T127,Female,L3 Lead,2,2024-01,,Active
+NV11441,Tanvi Deshmukh,T127,Male,L2 Senior Associate,33,2020-06,,Active
+NV11442,Karthik Deshmukh,T127,Male,L2 Senior Associate,66,2024-05,2024-12,Exited
+NV11443,Anjali Krishnan,T127,Male,L1 Associate,18,2019-12,,Active
+NV11444,Aditya Shaikh,T128,Male,L1 Associate,48,2023-06,,Active
+NV11445,Varun Verma,T128,Female,L1 Associate,6,2022-01,,Active
+NV11446,Varun Chauhan,T128,Female,L3 Lead,20,2022-06,2026-07,Exited
+NV11447,Divya Mehta,T128,Male,L1 Associate,7,2021-09,2026-08,Exited
+NV11448,Priya Rao,T128,Female,L1 Associate,117,2022-03,,Active
+NV11449,Prakash Mishra,T128,Female,L1 Associate,40,2019-11,,Active
+NV11450,Gaurav Joshi,T128,Male,L2 Senior Associate,42,2023-12,,Active
+NV11451,Divya Shaikh,T128,Female,L3 Lead,20,2024-03,,Active
+NV11452,Arjun Reddy,T128,Female,L3 Lead,42,2024-06,,Active
+NV11453,Deepa Naidu,T128,Male,L2 Senior Associate,59,2021-07,,Active
+NV11454,Varun Joshi,T128,Male,L1 Associate,18,2022-10,,Active
+NV11455,Kavya Pillai,T128,Female,L1 Associate,68,2022-02,,Active
+NV11456,Ravi Naidu,T128,Female,L2 Senior Associate,9,2024-06,,Active
+NV11457,Deepa Nair,T129,Female,L3 Lead,30,2018-01,2026-01,Exited
+NV11458,Tanvi Krishnan,T129,Male,L3 Lead,15,2023-03,2025-05,Exited
+NV11459,Manoj Khan,T129,Male,L2 Senior Associate,99,2021-09,2025-08,Exited
+NV11460,Jyoti Joshi,T129,Male,L1 Associate,26,2022-08,2025-04,Exited
+NV11461,Naveen Verma,T129,Male,L1 Associate,5,2023-03,2025-12,Exited
+NV11462,Ashwin Nair,T129,Female,L1 Associate,31,2022-09,2025-05,Exited
+NV11463,Arvind Iyer,T129,Female,L1 Associate,54,2021-06,,Active
+NV11464,Naveen Deshmukh,T129,Male,L1 Associate,88,2021-01,2026-06,Exited
+NV11465,Ashwin Singh,T129,Male,L1 Associate,43,2022-03,2026-05,Exited
+NV11466,Anjali Deshmukh,T129,Female,L1 Associate,12,2020-08,2024-11,Exited
+NV11467,Sanjay Nair,T129,Male,L2 Senior Associate,23,2021-10,2025-11,Exited
+NV11468,Suresh Patil,T129,Female,L1 Associate,3,2022-04,2025-11,Exited
+NV11469,Gaurav Joshi,T129,Male,L1 Associate,6,2018-05,2025-07,Exited
+NV11470,Gaurav Verma,T129,Male,L2 Senior Associate,5,2021-04,2025-12,Exited
+NV11471,Bhavna Rao,T129,Female,L1 Associate,57,2019-04,2025-05,Exited
+NV11472,Divya Gupta,T129,Female,L1 Associate,31,2024-05,2025-01,Exited
+NV11473,Nandini Sharma,T129,Male,L1 Associate,60,2024-06,,Active
+NV11474,Tanvi Mehta,T130,Female,L2 Senior Associate,12,2023-04,,Active
+NV11475,Revathi Patil,T130,Female,L2 Senior Associate,40,2020-11,,Active
+NV11476,Harish Kulkarni,T130,Female,L2 Senior Associate,42,2021-01,2026-06,Exited
+NV11477,Aditya Sharma,T130,Male,L1 Associate,36,2024-05,,Active
+NV11478,Abhishek Gupta,T130,Male,L2 Senior Associate,24,2022-12,2025-07,Exited
+NV11479,Ajay Singh,T130,Female,L3 Lead,28,2023-09,,Active
+NV11480,Siddharth Deshmukh,T130,Female,L2 Senior Associate,29,2020-12,,Active
+NV11481,Ashwin Subramanian,T130,Male,L2 Senior Associate,48,2022-05,2026-09,Exited
+NV11482,Abhishek Khan,T130,Female,L1 Associate,11,2024-01,,Active
+NV11483,Karthik Mehta,T130,Female,L1 Associate,40,2024-02,,Active
+NV11484,Divya Banerjee,T130,Female,L2 Senior Associate,28,2023-09,,Active
+NV11485,Anjali Shaikh,T130,Male,L1 Associate,16,2021-11,2026-06,Exited
+NV11486,Arvind Joshi,T131,Male,L2 Senior Associate,26,2023-10,,Active
+NV11487,Nikhil Chauhan,T131,Female,L2 Senior Associate,35,2022-12,2026-02,Exited
+NV11488,Manoj Verma,T131,Male,L1 Associate,21,2017-03,2025-03,Exited
+NV11489,Deepak Khan,T131,Male,L2 Senior Associate,38,2018-05,,Active
+NV11490,Pooja Banerjee,T131,Male,L2 Senior Associate,43,2021-10,,Active
+NV11491,Pranav Deshmukh,T131,Female,L1 Associate,25,2022-04,2025-09,Exited
+NV11492,Sanjay Naidu,T131,Male,L3 Lead,26,2020-08,2026-04,Exited
+NV11493,Simran Kulkarni,T131,Female,L1 Associate,19,2024-05,,Active
+NV11494,Suresh Kulkarni,T131,Female,L2 Senior Associate,14,2023-11,2026-04,Exited
+NV11495,Rahul Pillai,T131,Male,L1 Associate,9,2022-10,2025-06,Exited
+NV11496,Priya Bhat,T131,Male,L2 Senior Associate,21,2020-08,2025-03,Exited
+NV11497,Jyoti Singh,T131,Male,L2 Senior Associate,48,2024-01,,Active
+NV11498,Ashwin Rao,T131,Male,L1 Associate,31,2023-05,2026-09,Exited
+NV11499,Varun Shaikh,T131,Female,L1 Associate,29,2023-03,,Active
+NV11500,Harish Agarwal,T132,Female,L1 Associate,15,2022-04,,Active
+NV11501,Ajay Agarwal,T132,Male,L1 Associate,50,2022-06,,Active
+NV11502,Prakash Agarwal,T132,Female,L1 Associate,30,2023-11,2026-02,Exited
+NV11503,Suresh Iyer,T133,Male,L2 Senior Associate,27,2022-02,2024-11,Exited
+NV11504,Sanjay Mehta,T133,Male,L1 Associate,42,2017-04,,Active
+NV11505,Naveen Banerjee,T133,Female,L1 Associate,43,2020-03,2025-08,Exited
+NV11506,Arvind Kulkarni,T133,Male,L2 Senior Associate,11,2021-11,,Active
+NV11507,Farah Reddy,T133,Female,L1 Associate,21,2017-05,2024-12,Exited
+NV11508,Bhavna Gupta,T133,Male,L3 Lead,41,2023-04,,Active
+NV11509,Ishita Das,T133,Female,L1 Associate,11,2022-12,,Active
+NV11510,Neha Shaikh,T133,Male,L3 Lead,8,2014-04,,Active
+NV11511,Vikram Reddy,T133,Male,L1 Associate,20,2022-12,,Active
+NV11512,Suresh Deshmukh,T133,Female,L3 Lead,39,2022-10,,Active
+NV11513,Ishita Shaikh,T133,Female,L2 Senior Associate,6,2020-02,,Active
+NV11514,Farah Pillai,T133,Male,L2 Senior Associate,50,2020-08,2026-02,Exited
+NV11515,Kavya Krishnan,T134,Female,L1 Associate,89,2022-09,,Active
+NV11516,Aishwarya Sharma,T134,Male,L2 Senior Associate,48,2023-02,2026-01,Exited
+NV11517,Divya Chauhan,T134,Female,L2 Senior Associate,36,2024-07,2026-07,Exited
+NV11518,Meera Deshmukh,T134,Female,L2 Senior Associate,12,2022-09,2025-07,Exited
+NV11519,Ritika Patil,T134,Male,L3 Lead,58,2023-04,,Active
+NV11520,Ravi Iyer,T134,Male,L1 Associate,18,2019-10,,Active
+NV11521,Sana Das,T134,Female,L3 Lead,76,2020-01,2025-05,Exited
+NV11522,Gayathri Deshmukh,T134,Male,L1 Associate,21,2023-07,,Active
+NV11523,Revathi Iyer,T134,Male,L1 Associate,11,2019-08,2025-04,Exited
+NV11524,Gayathri Shaikh,T134,Female,L1 Associate,138,2021-06,2025-11,Exited
+NV11525,Kavya Banerjee,T134,Male,L1 Associate,29,2023-05,2026-05,Exited
+NV11526,Arvind Mishra,T135,Male,L1 Associate,27,2020-09,2025-12,Exited
+NV11527,Revathi Agarwal,T135,Female,L2 Senior Associate,14,2022-09,2026-03,Exited
+NV11528,Neha Singh,T135,Male,L2 Senior Associate,74,2018-03,2025-12,Exited
+NV11529,Rohit Chauhan,T135,Female,L3 Lead,38,2023-04,,Active
+NV11530,Meera Sharma,T135,Female,L1 Associate,57,2015-10,,Active
+NV11531,Pooja Verma,T135,Male,L1 Associate,16,2024-06,,Active
+NV11532,Manoj Chauhan,T135,Female,L3 Lead,65,2023-01,,Active
+NV11533,Shalini Subramanian,T135,Male,L1 Associate,27,2023-12,,Active
+NV11534,Sana Bhat,T135,Male,L2 Senior Associate,18,2023-10,,Active
+NV11535,Prakash Shaikh,T135,Male,L1 Associate,79,2023-05,2026-01,Exited
+NV11536,Farah Patil,T135,Male,L2 Senior Associate,44,2023-06,,Active
+NV11537,Karthik Reddy,T135,Female,L1 Associate,104,2019-09,,Active
+NV11538,Rohit Joshi,T135,Male,L2 Senior Associate,5,2021-08,,Active
+NV11539,Gayathri Das,T135,Female,L1 Associate,44,2016-05,,Active
+NV11540,Pooja Bhat,T135,Male,L1 Associate,48,2022-01,,Active
+NV11541,Tanvi Krishnan,T135,Male,L1 Associate,15,2023-06,2025-07,Exited
+NV11542,Gayathri Nair,T135,Male,L3 Lead,27,2021-08,2026-01,Exited
+NV11543,Pooja Kulkarni,T135,Male,L1 Associate,28,2023-09,,Active
+NV11544,Suresh Naidu,T136,Female,L2 Senior Associate,7,2023-07,2026-04,Exited
+NV11545,Arvind Deshmukh,T136,Female,L3 Lead,46,2024-06,,Active
+NV11546,Farah Verma,T136,Female,L1 Associate,33,2023-01,2026-04,Exited
+NV11547,Bhavna Banerjee,T136,Male,L1 Associate,26,2022-02,,Active
+NV11548,Kunal Agarwal,T137,Male,L2 Senior Associate,8,2023-12,,Active
+NV11549,Neha Banerjee,T137,Female,L1 Associate,53,2021-12,2026-09,Exited
+NV11550,Divya Rao,T137,Male,L1 Associate,65,2018-10,,Active
+NV11551,Vikram Krishnan,T137,Male,L1 Associate,27,2023-02,,Active
+NV11552,Meera Gupta,T138,Male,L1 Associate,55,2021-09,,Active
+NV11553,Ashwin Joshi,T138,Male,L3 Lead,50,2022-06,,Active
+NV11554,Jyoti Patil,T138,Female,L3 Lead,11,2024-01,,Active
+NV11555,Deepak Mehta,T138,Female,L1 Associate,79,2022-10,,Active
+NV11556,Suresh Banerjee,T138,Male,L1 Associate,60,2023-12,,Active
+NV11557,Shalini Bhat,T139,Male,L3 Lead,53,2023-10,,Active
+NV11558,Karthik Joshi,T139,Male,L2 Senior Associate,67,2022-03,,Active
+NV11559,Ishita Mishra,T139,Female,L1 Associate,55,2021-06,,Active
+NV11560,Priya Rao,T139,Male,L3 Lead,39,2019-05,,Active
+NV11561,Deepa Iyer,T139,Male,L1 Associate,37,2018-04,,Active
+NV11562,Nikhil Das,T139,Female,L3 Lead,78,2023-03,2025-01,Exited
+NV11563,Rahul Joshi,T139,Male,L1 Associate,50,2024-04,,Active
+NV11564,Shalini Shaikh,T139,Male,L1 Associate,66,2022-11,,Active
+NV11565,Ritika Rao,T139,Male,L2 Senior Associate,53,2021-01,,Active
+NV11566,Sana Nair,T139,Male,L2 Senior Associate,14,2019-11,,Active
+NV11567,Farah Kulkarni,T140,Male,L1 Associate,14,2023-11,,Active
+NV11568,Nikhil Reddy,T140,Male,L2 Senior Associate,35,2022-04,2026-09,Exited
+NV11569,Kunal Shaikh,T140,Female,L3 Lead,172,2022-05,,Active
+NV11570,Ashwin Krishnan,T140,Male,L1 Associate,24,2022-02,,Active
+NV11571,Arvind Nair,T140,Female,L2 Senior Associate,99,2023-09,,Active
+NV11572,Siddharth Rao,T140,Male,L3 Lead,6,2022-06,,Active
+NV11573,Gaurav Subramanian,T140,Male,L2 Senior Associate,31,2021-06,,Active
+NV11574,Revathi Mishra,T140,Male,L3 Lead,14,2020-12,,Active
+NV11575,Rohit Rao,T140,Male,L1 Associate,26,2021-12,,Active
+NV11576,Ashwin Rao,T140,Male,L1 Associate,55,2023-08,,Active
+NV11577,Divya Mishra,T140,Male,L1 Associate,22,2024-05,,Active
+NV11578,Kunal Kulkarni,T140,Female,L1 Associate,36,2024-07,2026-03,Exited
+NV11579,Sanjay Verma,T140,Male,L2 Senior Associate,36,2015-02,,Active
+NV11580,Bhavna Gupta,T140,Male,L1 Associate,8,2022-05,,Active
+NV11581,Varun Banerjee,T140,Male,L3 Lead,4,2022-09,,Active
+NV11582,Divya Patil,T140,Female,L2 Senior Associate,75,2019-08,2025-12,Exited
+NV11583,Jyoti Agarwal,T140,Female,L2 Senior Associate,29,2023-06,,Active
+NV11584,Nandini Sharma,T140,Male,L1 Associate,19,2022-08,,Active
+NV11585,Abhishek Bhat,T140,Female,L1 Associate,3,2023-04,,Active
+NV11586,Mohammed Rao,T140,Female,L2 Senior Associate,4,2024-02,,Active
+NV11587,Siddharth Patil,T140,Female,L3 Lead,22,2023-01,2025-12,Exited
+NV11588,Divya Reddy,T141,Female,L3 Lead,19,2023-03,2025-11,Exited
+NV11589,Ajay Khan,T141,Female,L1 Associate,46,2023-04,2026-03,Exited
+NV11590,Kunal Agarwal,T141,Male,L2 Senior Associate,36,2023-06,,Active
+NV11591,Anjali Gupta,T141,Female,L3 Lead,20,2023-09,,Active
+NV11592,Bhavna Subramanian,T141,Male,L1 Associate,17,2023-03,2026-07,Exited
+NV11593,Revathi Mehta,T141,Male,L1 Associate,73,2024-08,,Active
+NV11594,Harini Singh,T141,Female,L1 Associate,21,2023-08,,Active
+NV11595,Prakash Subramanian,T141,Female,L3 Lead,14,2023-10,2025-01,Exited
+NV11596,Sneha Gupta,T141,Female,L1 Associate,36,2022-10,,Active
+NV11597,Rohit Mishra,T141,Male,L2 Senior Associate,20,2016-08,,Active
+NV11598,Divya Iyer,T141,Male,L2 Senior Associate,98,2019-05,,Active
+NV11599,Mohammed Singh,T141,Male,L1 Associate,84,2023-09,,Active
+NV11600,Nandini Mehta,T141,Male,L1 Associate,33,2022-08,,Active
+NV11601,Deepak Verma,T141,Female,L2 Senior Associate,51,2021-01,,Active
+NV11602,Simran Bhat,T141,Male,L1 Associate,8,2024-03,,Active
+NV11603,Arjun Sharma,T142,Female,L2 Senior Associate,30,2023-09,,Active
+NV11604,Gayathri Singh,T142,Male,L2 Senior Associate,18,2018-01,,Active
+NV11605,Meera Naidu,T142,Male,L1 Associate,26,2023-02,,Active
+NV11606,Arvind Menon,T142,Male,L3 Lead,32,2021-05,,Active
+NV11607,Sneha Sharma,T142,Male,L1 Associate,18,2021-12,,Active
+NV11608,Siddharth Iyer,T142,Female,L1 Associate,41,2017-06,,Active
+NV11609,Karthik Reddy,T142,Male,L2 Senior Associate,35,2020-08,,Active
+NV11610,Neha Verma,T142,Male,L2 Senior Associate,17,2020-09,,Active
+NV11611,Gayathri Singh,T142,Male,L1 Associate,1,2021-02,,Active
+NV11612,Revathi Deshmukh,T142,Male,L1 Associate,15,2020-11,2026-03,Exited
+NV11613,Deepak Gupta,T142,Male,L1 Associate,66,2022-03,,Active
+NV11614,Gaurav Gupta,T142,Male,L3 Lead,29,2017-07,,Active
+NV11615,Sana Joshi,T142,Female,L1 Associate,39,2024-03,,Active
+NV11616,Imran Mehta,T142,Female,L3 Lead,58,2022-04,,Active
+NV11617,Imran Menon,T142,Male,L1 Associate,8,2023-11,,Active
+NV11618,Sneha Das,T142,Male,L2 Senior Associate,57,2020-01,,Active
+NV11619,Ritika Patil,T142,Male,L2 Senior Associate,52,2023-12,2025-03,Exited
+NV11620,Bhavna Agarwal,T142,Male,L2 Senior Associate,29,2023-05,,Active
+NV11621,Revathi Joshi,T142,Female,L1 Associate,72,2022-07,,Active
+NV11622,Ravi Mishra,T142,Male,L1 Associate,24,2022-03,,Active
+NV11623,Kavya Shaikh,T142,Female,L2 Senior Associate,7,2022-09,,Active
+NV11624,Manoj Shaikh,T142,Male,L2 Senior Associate,30,2024-02,,Active
+NV11625,Harini Shaikh,T143,Male,L1 Associate,19,2015-03,,Active
+NV11626,Abhishek Joshi,T143,Female,L3 Lead,14,2022-02,,Active
+NV11627,Sana Sharma,T143,Male,L2 Senior Associate,34,2022-02,,Active
+NV11628,Kunal Kulkarni,T143,Female,L1 Associate,23,2019-09,,Active
+NV11629,Abhishek Chauhan,T143,Male,L1 Associate,40,2019-08,,Active
+NV11630,Mohammed Mishra,T143,Male,L1 Associate,46,2021-03,,Active
+NV11631,Priya Agarwal,T143,Male,L1 Associate,68,2024-07,,Active
+NV11632,Arjun Nair,T143,Male,L2 Senior Associate,22,2022-06,,Active
+NV11633,Ravi Patil,T143,Male,L3 Lead,126,2023-12,,Active
+NV11634,Nandini Mishra,T143,Male,L1 Associate,21,2022-11,,Active
+NV11635,Karthik Singh,T143,Male,L1 Associate,23,2021-08,2026-08,Exited
+NV11636,Revathi Rao,T144,Male,L1 Associate,23,2023-03,,Active
+NV11637,Aditya Menon,T144,Male,L1 Associate,14,2020-08,2025-03,Exited
+NV11638,Kunal Joshi,T144,Male,L2 Senior Associate,33,2020-01,2025-01,Exited
+NV11639,Swati Banerjee,T144,Male,L2 Senior Associate,55,2023-05,,Active
+NV11640,Tanvi Rao,T144,Male,L3 Lead,28,2021-06,2025-08,Exited
+NV11641,Harish Singh,T144,Male,L3 Lead,10,2015-06,,Active
+NV11642,Meera Subramanian,T144,Female,L3 Lead,63,2022-10,,Active
+NV11643,Nikhil Kulkarni,T144,Female,L1 Associate,38,2021-09,,Active
+NV11644,Abhishek Bhat,T144,Male,L2 Senior Associate,15,2023-06,,Active
+NV11645,Jyoti Subramanian,T144,Male,L1 Associate,38,2022-05,,Active
+NV11646,Siddharth Krishnan,T144,Male,L3 Lead,33,2022-09,2026-02,Exited
+NV11647,Ritika Subramanian,T145,Female,L1 Associate,37,2024-03,2025-05,Exited
+NV11648,Sanjay Reddy,T145,Male,L2 Senior Associate,4,2019-11,2026-09,Exited
+NV11649,Vikram Iyer,T145,Male,L2 Senior Associate,35,2020-08,,Active
+NV11650,Farah Agarwal,T146,Female,L1 Associate,40,2024-01,,Active
+NV11651,Rahul Reddy,T146,Male,L2 Senior Associate,34,2022-10,,Active
+NV11652,Siddharth Krishnan,T146,Male,L1 Associate,67,2021-06,,Active
+NV11653,Gaurav Mehta,T146,Female,L2 Senior Associate,32,2018-04,,Active
+NV11654,Priya Naidu,T147,Male,L1 Associate,48,2022-04,,Active
+NV11655,Harini Deshmukh,T147,Female,L2 Senior Associate,13,2024-04,,Active
+NV11656,Jyoti Patil,T147,Female,L1 Associate,81,2022-05,,Active
+NV11657,Rahul Shaikh,T147,Female,L2 Senior Associate,61,2022-07,2026-03,Exited
+NV11658,Priya Kulkarni,T147,Male,L1 Associate,37,2022-10,2026-08,Exited
+NV11659,Suresh Shaikh,T147,Female,L2 Senior Associate,36,2024-05,,Active
+NV11660,Ashwin Pillai,T147,Female,L1 Associate,7,2018-05,2026-05,Exited
+NV11661,Sneha Kulkarni,T147,Male,L2 Senior Associate,60,2022-02,,Active
+NV11662,Naveen Das,T147,Male,L2 Senior Associate,30,2022-08,,Active
+NV11663,Pooja Khan,T147,Male,L1 Associate,36,2023-09,,Active
+NV11664,Abhishek Naidu,T147,Male,L1 Associate,108,2017-10,2026-01,Exited
+NV11665,Aditya Krishnan,T147,Male,L1 Associate,10,2018-03,2025-07,Exited
+NV11666,Deepak Bhat,T147,Female,L2 Senior Associate,140,2024-03,2025-07,Exited
+NV11667,Harish Banerjee,T147,Male,L2 Senior Associate,2,2023-12,,Active
+NV11668,Bhavna Nair,T147,Male,L1 Associate,47,2022-07,2025-07,Exited
+NV11669,Nandini Kulkarni,T147,Female,L1 Associate,33,2020-08,,Active
+NV11670,Harini Chauhan,T147,Male,L1 Associate,15,2021-01,2024-11,Exited
+NV11671,Abhishek Mehta,T147,Male,L2 Senior Associate,30,2020-12,,Active
+NV11672,Shalini Mishra,T148,Male,L2 Senior Associate,71,2022-05,,Active
+NV11673,Revathi Banerjee,T148,Female,L1 Associate,38,2022-07,,Active
+NV11674,Gayathri Agarwal,T148,Female,L2 Senior Associate,44,2022-05,,Active
+NV11675,Harini Deshmukh,T148,Male,L1 Associate,15,2022-07,2025-10,Exited
+NV11676,Kavya Bhat,T148,Male,L2 Senior Associate,74,2023-09,,Active
+NV11677,Prakash Banerjee,T148,Female,L3 Lead,43,2017-11,,Active
+NV11678,Farah Sharma,T148,Male,L2 Senior Associate,8,2023-08,2026-06,Exited
+NV11679,Arvind Sharma,T148,Female,L2 Senior Associate,19,2022-02,,Active
+NV11680,Nikhil Iyer,T148,Male,L1 Associate,49,2021-06,,Active
+NV11681,Sanjay Verma,T148,Male,L3 Lead,87,2021-04,2026-08,Exited
+NV11682,Ritika Deshmukh,T148,Male,L1 Associate,1,2022-04,2025-07,Exited
+NV11683,Vikram Menon,T148,Female,L2 Senior Associate,7,2020-05,2026-09,Exited
+NV11684,Aishwarya Pillai,T148,Female,L1 Associate,67,2021-12,,Active
+NV11685,Tanvi Joshi,T148,Male,L3 Lead,11,2022-02,2026-03,Exited
+NV11686,Gayathri Gupta,T148,Male,L1 Associate,31,2018-09,,Active
+NV11687,Suresh Rao,T148,Female,L1 Associate,123,2022-01,,Active
+NV11688,Deepa Pillai,T148,Female,L2 Senior Associate,61,2017-01,,Active
+NV11689,Deepak Sharma,T149,Male,L2 Senior Associate,35,2024-01,2026-06,Exited
+NV11690,Tanvi Krishnan,T149,Male,L3 Lead,39,2019-11,2026-07,Exited
+NV11691,Pooja Iyer,T149,Female,L1 Associate,22,2022-11,,Active
+NV11692,Swati Agarwal,T149,Female,L1 Associate,8,2022-05,2026-06,Exited
+NV11693,Gaurav Nair,T149,Female,L1 Associate,37,2024-09,,Active
+NV11694,Suresh Gupta,T149,Male,L1 Associate,61,2022-09,2025-08,Exited
+NV11695,Bhavna Reddy,T149,Male,L3 Lead,8,2024-03,2026-03,Exited
+NV11696,Tanvi Khan,T149,Female,L2 Senior Associate,34,2022-11,2026-08,Exited
+NV11697,Ajay Patil,T149,Male,L1 Associate,8,2023-04,2025-05,Exited
+NV11698,Ritika Kulkarni,T149,Male,L2 Senior Associate,19,2020-05,,Active
+NV11699,Nandini Reddy,T150,Female,L1 Associate,58,2020-01,,Active
+NV11700,Bhavna Naidu,T150,Female,L1 Associate,14,2020-09,,Active
+NV11701,Revathi Banerjee,T150,Female,L1 Associate,10,2019-01,,Active
+NV11702,Bhavna Deshmukh,T150,Male,L1 Associate,17,2023-07,2025-07,Exited
+NV11703,Prakash Mishra,T150,Female,L1 Associate,120,2024-04,2025-02,Exited
+NV11704,Abhishek Patil,T151,Female,L1 Associate,44,2022-10,,Active
+NV11705,Rahul Sharma,T151,Male,L3 Lead,8,2024-05,,Active
+NV11706,Jyoti Mehta,T151,Male,L2 Senior Associate,2,2024-07,2024-12,Exited
+NV11707,Ajay Agarwal,T151,Male,L2 Senior Associate,88,2021-12,,Active
+NV11708,Meera Shaikh,T151,Male,L1 Associate,16,2021-10,,Active
+NV11709,Arvind Bhat,T151,Male,L1 Associate,19,2021-05,,Active
+NV11710,Simran Mehta,T151,Male,L1 Associate,61,2023-09,,Active
+NV11711,Deepak Chauhan,T151,Male,L1 Associate,44,2023-09,,Active
+NV11712,Deepak Krishnan,T151,Male,L2 Senior Associate,18,2023-04,2026-07,Exited
+NV11713,Imran Menon,T151,Male,L2 Senior Associate,83,2023-12,,Active
+NV11714,Ritika Chauhan,T151,Male,L1 Associate,62,2022-06,,Active
+NV11715,Pranav Bhat,T151,Male,L3 Lead,19,2021-06,,Active
+NV11716,Ananya Deshmukh,T151,Male,L1 Associate,16,2019-09,,Active
+NV11717,Pranav Nair,T152,Male,L1 Associate,38,2024-01,,Active
+NV11718,Deepa Reddy,T152,Female,L2 Senior Associate,33,2023-11,,Active
+NV11719,Karthik Kulkarni,T152,Female,L1 Associate,43,2023-07,,Active
+NV11720,Suresh Sharma,T152,Female,L1 Associate,43,2021-11,,Active
+NV11721,Anjali Iyer,T152,Female,L2 Senior Associate,10,2022-12,,Active
+NV11722,Pooja Verma,T152,Male,L2 Senior Associate,69,2019-05,,Active
+NV11723,Pranav Verma,T152,Male,L2 Senior Associate,43,2021-01,,Active
+NV11724,Rohit Verma,T152,Female,L2 Senior Associate,9,2021-01,2025-04,Exited
+NV11725,Neha Joshi,T152,Male,L1 Associate,15,2021-08,,Active
+NV11726,Karthik Subramanian,T152,Male,L1 Associate,18,2018-01,,Active
+NV11727,Karthik Shaikh,T152,Male,L2 Senior Associate,9,2024-04,,Active
+NV11728,Harini Banerjee,T152,Male,L2 Senior Associate,17,2023-06,,Active
+NV11729,Arjun Shaikh,T152,Male,L1 Associate,45,2023-08,,Active
+NV11730,Manoj Khan,T152,Male,L1 Associate,19,2022-02,,Active
+NV11731,Deepak Nair,T152,Male,L2 Senior Associate,46,2023-02,,Active
+NV11732,Vikram Bhat,T152,Female,L1 Associate,31,2024-03,,Active
+NV11733,Arjun Agarwal,T153,Male,L1 Associate,17,2022-04,,Active
+NV11734,Sneha Krishnan,T153,Male,L1 Associate,22,2020-09,2026-08,Exited
+NV11735,Swati Patil,T153,Female,L1 Associate,19,2022-10,,Active
+NV11736,Farah Verma,T153,Female,L2 Senior Associate,92,2020-02,2025-02,Exited
+NV11737,Gayathri Agarwal,T153,Female,L2 Senior Associate,23,2024-03,,Active
+NV11738,Nikhil Pillai,T153,Male,L2 Senior Associate,60,2024-06,,Active
+NV11739,Gaurav Verma,T153,Male,L1 Associate,35,2024-02,2026-09,Exited
+NV11740,Kavya Gupta,T153,Female,L2 Senior Associate,21,2022-11,2025-03,Exited
+NV11741,Arjun Khan,T153,Female,L1 Associate,14,2023-09,2025-07,Exited
+NV11742,Aditya Menon,T153,Male,L2 Senior Associate,42,2021-05,2025-09,Exited
+NV11743,Tanvi Bhat,T154,Female,L1 Associate,12,2021-11,,Active
+NV11744,Vikram Joshi,T154,Male,L2 Senior Associate,27,2022-09,,Active
+NV11745,Lakshmi Kulkarni,T154,Female,L1 Associate,40,2023-08,,Active
+NV11746,Swati Banerjee,T154,Male,L2 Senior Associate,1,2020-11,2026-05,Exited
+NV11747,Rohit Khan,T154,Male,L1 Associate,82,2019-08,,Active
+NV11748,Farah Krishnan,T154,Male,L2 Senior Associate,22,2022-10,,Active
+NV11749,Siddharth Krishnan,T154,Female,L1 Associate,5,2020-05,2026-10,Exited
+NV11750,Vikram Rao,T154,Female,L1 Associate,15,2023-07,2026-07,Exited
+NV11751,Ashwin Khan,T154,Male,L1 Associate,35,2021-09,,Active
+NV11752,Ashwin Menon,T154,Male,L1 Associate,100,2022-08,2025-03,Exited
+NV11753,Arjun Khan,T154,Female,L1 Associate,53,2021-01,2026-06,Exited
+NV11754,Anjali Khan,T154,Female,L2 Senior Associate,67,2022-01,,Active
+NV11755,Farah Sharma,T154,Male,L1 Associate,68,2020-09,,Active
+NV11756,Kunal Rao,T154,Male,L1 Associate,11,2014-07,2026-05,Exited
+NV11757,Ishita Verma,T154,Male,L1 Associate,33,2023-10,,Active
+NV11758,Lakshmi Mehta,T154,Male,L1 Associate,75,2023-03,,Active
+NV11759,Arvind Menon,T155,Female,L2 Senior Associate,7,2021-12,,Active
+NV11760,Sana Nair,T155,Male,L3 Lead,7,2021-04,,Active
+NV11761,Rohit Mehta,T155,Male,L2 Senior Associate,117,2022-09,,Active
+NV11762,Shalini Iyer,T155,Female,L1 Associate,23,2024-04,,Active
+NV11763,Gayathri Rao,T155,Male,L1 Associate,16,2021-04,,Active
+NV11764,Priya Khan,T155,Male,L1 Associate,40,2022-11,,Active
+NV11765,Prakash Naidu,T155,Female,L1 Associate,11,2022-06,,Active
+NV11766,Neha Chauhan,T155,Female,L2 Senior Associate,55,2020-04,,Active
+NV11767,Pooja Singh,T155,Female,L1 Associate,33,2016-11,2026-06,Exited
+NV11768,Sana Gupta,T155,Male,L2 Senior Associate,74,2022-06,,Active
+NV11769,Lakshmi Pillai,T155,Male,L3 Lead,10,2023-01,,Active
+NV11770,Harish Shaikh,T155,Female,L1 Associate,9,2023-06,2026-09,Exited
+NV11771,Rohit Sharma,T155,Male,L1 Associate,12,2019-11,2024-11,Exited
+NV11772,Vikram Shaikh,T155,Male,L3 Lead,23,2022-06,,Active
+NV11773,Mohammed Das,T155,Male,L2 Senior Associate,21,2016-03,,Active
+NV11774,Gaurav Khan,T156,Male,L1 Associate,9,2022-06,2026-04,Exited
+NV11775,Farah Naidu,T156,Male,L3 Lead,8,2022-09,,Active
+NV11776,Prakash Reddy,T156,Male,L3 Lead,10,2021-11,,Active
+NV11777,Vikram Menon,T156,Female,L1 Associate,60,2021-04,,Active
+NV11778,Rahul Das,T156,Female,L2 Senior Associate,27,2022-08,,Active
+NV11779,Rohit Singh,T156,Male,L2 Senior Associate,43,2024-05,2025-07,Exited
+NV11780,Meera Mishra,T156,Male,L2 Senior Associate,32,2024-03,,Active
+NV11781,Shalini Das,T156,Male,L2 Senior Associate,36,2023-08,,Active
+NV11782,Ritika Singh,T157,Male,L2 Senior Associate,104,2020-04,,Active
+NV11783,Simran Naidu,T157,Male,L2 Senior Associate,23,2021-12,,Active
+NV11784,Gayathri Bhat,T157,Male,L2 Senior Associate,47,2020-12,,Active
+NV11785,Ajay Pillai,T157,Female,L1 Associate,12,2024-01,2025-09,Exited
+NV11786,Gayathri Nair,T157,Male,L2 Senior Associate,7,2023-02,,Active
+NV11787,Karthik Rao,T157,Male,L3 Lead,6,2024-02,2026-10,Exited
+NV11788,Ashwin Banerjee,T157,Male,L3 Lead,33,2022-04,,Active
+NV11789,Aishwarya Bhat,T157,Female,L3 Lead,49,2022-01,,Active
+NV11790,Rahul Iyer,T157,Male,L1 Associate,6,2012-12,2024-12,Exited
+NV11791,Sneha Reddy,T157,Male,L2 Senior Associate,55,2021-02,,Active
+NV11792,Aishwarya Iyer,T157,Female,L1 Associate,21,2021-07,2026-09,Exited
+NV11793,Harish Gupta,T157,Male,L2 Senior Associate,42,2017-11,,Active
+NV11794,Anjali Verma,T157,Male,L1 Associate,28,2022-11,,Active
+NV11795,Shalini Deshmukh,T157,Male,L1 Associate,104,2024-01,2025-12,Exited
+NV11796,Pranav Deshmukh,T157,Female,L1 Associate,33,2022-10,2026-05,Exited
+NV11797,Karthik Khan,T158,Male,L2 Senior Associate,13,2023-11,,Active
+NV11798,Arjun Verma,T158,Male,L1 Associate,67,2023-02,,Active
+NV11799,Arjun Subramanian,T158,Male,L1 Associate,51,2020-12,2025-11,Exited
+NV11800,Rohit Reddy,T158,Male,L3 Lead,33,2023-10,,Active
+NV11801,Anjali Chauhan,T158,Male,L1 Associate,31,2021-03,,Active
+NV11802,Harish Banerjee,T158,Male,L2 Senior Associate,15,2022-11,2026-03,Exited
+NV11803,Ashwin Krishnan,T158,Male,L3 Lead,50,2022-10,2025-02,Exited
+NV11804,Divya Pillai,T158,Male,L1 Associate,50,2022-02,,Active
+NV11805,Tanvi Mehta,T158,Male,L1 Associate,90,2023-05,,Active
+NV11806,Lakshmi Chauhan,T159,Male,L1 Associate,109,2019-07,,Active
+NV11807,Arvind Khan,T159,Male,L1 Associate,47,2023-03,,Active
+NV11808,Tanvi Sharma,T159,Female,L1 Associate,52,2022-12,,Active
+NV11809,Ravi Subramanian,T159,Female,L3 Lead,7,2023-04,,Active
+NV11810,Sana Mishra,T159,Male,L2 Senior Associate,47,2021-08,,Active
+NV11811,Prakash Das,T159,Female,L2 Senior Associate,25,2020-01,,Active
+NV11812,Rohit Chauhan,T159,Male,L1 Associate,57,2022-01,,Active
+NV11813,Gaurav Deshmukh,T159,Male,L1 Associate,34,2024-02,,Active
+NV11814,Swati Subramanian,T159,Male,L1 Associate,84,2024-03,2026-05,Exited
+NV11815,Anjali Gupta,T159,Male,L1 Associate,35,2023-09,,Active
+NV11816,Aishwarya Rao,T159,Female,L1 Associate,55,2024-03,,Active
+NV11817,Simran Bhat,T159,Male,L1 Associate,25,2022-09,,Active
+NV11818,Varun Subramanian,T159,Male,L2 Senior Associate,39,2024-07,,Active
+NV11819,Ishita Deshmukh,T160,Female,L2 Senior Associate,45,2020-12,,Active
+NV11820,Pooja Das,T160,Male,L1 Associate,21,2021-10,2026-07,Exited
+NV11821,Aditya Rao,T160,Male,L1 Associate,45,2023-06,,Active
+NV11822,Varun Bhat,T160,Female,L2 Senior Associate,20,2023-12,,Active
+NV11823,Aditya Sharma,T160,Male,L1 Associate,26,2022-02,,Active
+NV11824,Suresh Mishra,T160,Male,L1 Associate,34,2024-01,2026-10,Exited
+NV11825,Aditya Gupta,T160,Male,L1 Associate,39,2022-12,,Active
+NV11826,Rahul Mishra,T160,Female,L3 Lead,3,2021-01,2026-09,Exited
+NV11827,Pranav Singh,T160,Female,L1 Associate,18,2022-09,2026-05,Exited
+NV11828,Simran Iyer,T160,Male,L2 Senior Associate,40,2021-03,,Active
+NV11829,Neha Krishnan,T160,Female,L2 Senior Associate,58,2021-10,,Active
+NV11830,Pranav Das,T160,Male,L1 Associate,41,2019-05,,Active
+NV11831,Suresh Joshi,T160,Female,L2 Senior Associate,63,2022-06,,Active
+NV11832,Neha Sharma,T160,Male,L1 Associate,71,2023-10,,Active
+NV11833,Nandini Singh,T160,Female,L2 Senior Associate,14,2023-10,,Active
+NV11834,Ritika Nair,T160,Female,L2 Senior Associate,133,2023-01,,Active
+NV11835,Kavya Banerjee,T161,Male,L2 Senior Associate,41,2024-05,,Active
+NV11836,Arjun Menon,T161,Female,L1 Associate,15,2019-08,,Active
+NV11837,Sanjay Pillai,T161,Male,L1 Associate,10,2022-09,2025-05,Exited
+NV11838,Gayathri Krishnan,T161,Female,L2 Senior Associate,10,2023-11,2025-01,Exited
+NV11839,Simran Nair,T161,Male,L3 Lead,56,2024-02,2026-10,Exited
+NV11840,Gaurav Subramanian,T161,Male,L2 Senior Associate,6,2023-02,2025-02,Exited
+NV11841,Kavya Rao,T161,Male,L2 Senior Associate,54,2016-04,2025-11,Exited
+NV11842,Rohit Iyer,T161,Male,L1 Associate,41,2022-02,2025-10,Exited
+NV11843,Imran Mishra,T161,Male,L1 Associate,69,2018-01,,Active
+NV11844,Karthik Pillai,T161,Male,L3 Lead,2,2023-08,,Active
+NV11845,Meera Bhat,T161,Male,L1 Associate,24,2017-10,2026-06,Exited
+NV11846,Harini Banerjee,T161,Male,L1 Associate,30,2023-11,,Active
+NV11847,Ishita Das,T162,Male,L1 Associate,22,2020-07,2026-08,Exited
+NV11848,Pranav Khan,T162,Male,L1 Associate,27,2021-12,2025-03,Exited
+NV11849,Nikhil Banerjee,T162,Male,L1 Associate,79,2023-05,,Active
+NV11850,Gaurav Chauhan,T162,Male,L1 Associate,28,2020-03,,Active
+NV11851,Lakshmi Verma,T162,Male,L2 Senior Associate,3,2021-02,2025-01,Exited
+NV11852,Ritika Khan,T162,Female,L3 Lead,19,2022-12,2025-04,Exited
+NV11853,Aishwarya Verma,T162,Female,L1 Associate,61,2022-11,,Active
+NV11854,Gaurav Gupta,T162,Male,L1 Associate,60,2021-08,2025-02,Exited
+NV11855,Swati Chauhan,T162,Male,L2 Senior Associate,40,2021-03,,Active
+NV11856,Harish Deshmukh,T163,Male,L2 Senior Associate,54,2015-04,,Active
+NV11857,Kunal Naidu,T163,Male,L3 Lead,12,2021-03,,Active
+NV11858,Ananya Deshmukh,T163,Male,L1 Associate,32,2019-11,,Active
+NV11859,Aditya Shaikh,T163,Male,L1 Associate,46,2022-10,,Active
+NV11860,Naveen Banerjee,T163,Female,L1 Associate,43,2019-10,,Active
+NV11861,Neha Kulkarni,T163,Male,L2 Senior Associate,34,2021-04,,Active
+NV11862,Prakash Joshi,T163,Male,L1 Associate,57,2023-02,,Active
+NV11863,Nikhil Khan,T163,Female,L2 Senior Associate,30,2022-06,,Active
+NV11864,Aishwarya Mehta,T163,Female,L2 Senior Associate,65,2023-01,,Active
+NV11865,Siddharth Mishra,T164,Female,L1 Associate,31,2014-05,,Active
+NV11866,Ishita Agarwal,T164,Male,L2 Senior Associate,40,2023-07,,Active
+NV11867,Gayathri Patil,T164,Male,L1 Associate,50,2022-11,,Active
+NV11868,Aishwarya Gupta,T164,Male,L3 Lead,40,2023-12,2025-05,Exited
+NV11869,Varun Kulkarni,T164,Male,L2 Senior Associate,5,2023-03,2025-12,Exited
+NV11870,Ananya Naidu,T164,Male,L1 Associate,36,2023-09,,Active
+NV11871,Ishita Menon,T164,Male,L3 Lead,24,2021-12,2026-04,Exited
+NV11872,Meera Chauhan,T165,Female,L2 Senior Associate,33,2022-04,,Active
+NV11873,Karthik Pillai,T165,Female,L1 Associate,14,2022-03,,Active
+NV11874,Kavya Joshi,T165,Male,L2 Senior Associate,6,2022-06,,Active
+NV11875,Farah Rao,T165,Male,L1 Associate,26,2021-12,,Active
+NV11876,Sana Mehta,T165,Female,L1 Associate,35,2016-12,,Active
+NV11877,Meera Mishra,T165,Female,L2 Senior Associate,24,2021-09,,Active
+NV11878,Karthik Patil,T165,Female,L1 Associate,27,2021-03,,Active
+NV11879,Kunal Reddy,T165,Male,L1 Associate,30,2020-05,,Active
+NV11880,Bhavna Mehta,T165,Female,L3 Lead,37,2023-08,2025-03,Exited
+NV11881,Farah Subramanian,T165,Female,L2 Senior Associate,24,2023-03,2026-01,Exited
+NV11882,Ravi Mishra,T165,Male,L2 Senior Associate,36,2018-10,,Active
+NV11883,Revathi Verma,T165,Male,L1 Associate,17,2022-09,,Active
+NV11884,Arvind Nair,T165,Male,L1 Associate,41,2022-01,,Active
+NV11885,Ashwin Agarwal,T165,Male,L1 Associate,22,2021-02,,Active
+NV11886,Arjun Gupta,T165,Female,L1 Associate,74,2022-05,,Active
+NV11887,Ishita Shaikh,T166,Male,L3 Lead,19,2021-07,,Active
+NV11888,Pooja Iyer,T166,Male,L1 Associate,6,2020-06,,Active
+NV11889,Harini Kulkarni,T166,Male,L2 Senior Associate,40,2023-11,,Active
+NV11890,Shalini Rao,T166,Male,L2 Senior Associate,59,2019-07,,Active
+NV11891,Rohit Shaikh,T166,Male,L2 Senior Associate,32,2019-01,,Active
+NV11892,Karthik Singh,T166,Female,L2 Senior Associate,49,2020-08,,Active
+NV11893,Farah Iyer,T166,Female,L1 Associate,22,2023-05,,Active
+NV11894,Kavya Singh,T166,Male,L1 Associate,41,2023-09,,Active
+NV11895,Kavya Gupta,T166,Male,L1 Associate,25,2021-12,,Active
+NV11896,Gaurav Subramanian,T166,Male,L1 Associate,35,2020-03,,Active
+NV11897,Suresh Naidu,T166,Male,L2 Senior Associate,62,2022-07,,Active
+NV11898,Naveen Deshmukh,T166,Male,L1 Associate,11,2022-04,,Active
+NV11899,Neha Shaikh,T167,Male,L2 Senior Associate,61,2020-07,2026-04,Exited
+NV11900,Sanjay Banerjee,T167,Male,L2 Senior Associate,102,2023-01,,Active
+NV11901,Sanjay Reddy,T167,Male,L3 Lead,51,2021-05,2026-10,Exited
+NV11902,Kavya Agarwal,T167,Male,L1 Associate,20,2022-02,2026-09,Exited
+NV11903,Divya Sharma,T167,Male,L2 Senior Associate,16,2021-09,,Active
+NV11904,Arvind Nair,T167,Male,L1 Associate,30,2024-02,,Active
+NV11905,Kavya Patil,T167,Female,L1 Associate,18,2022-06,2026-05,Exited
+NV11906,Farah Patil,T167,Female,L1 Associate,16,2023-05,2025-05,Exited
+NV11907,Kavya Subramanian,T167,Female,L1 Associate,50,2022-07,,Active
+NV11908,Naveen Krishnan,T167,Female,L1 Associate,8,2021-12,,Active
+NV11909,Jyoti Mishra,T168,Male,L1 Associate,106,2021-04,2026-08,Exited
+NV11910,Tanvi Banerjee,T168,Male,L1 Associate,30,2020-03,2025-06,Exited
+NV11911,Suresh Reddy,T168,Male,L1 Associate,39,2023-03,2026-08,Exited
+NV11912,Aishwarya Menon,T168,Female,L1 Associate,35,2024-05,2026-07,Exited
+NV11913,Suresh Das,T168,Female,L2 Senior Associate,20,2023-03,2025-11,Exited
+NV11914,Arjun Gupta,T168,Female,L1 Associate,30,2021-11,,Active
+NV11915,Sanjay Agarwal,T168,Female,L2 Senior Associate,30,2023-06,2025-07,Exited
+NV11916,Suresh Naidu,T168,Male,L2 Senior Associate,19,2021-03,2025-01,Exited
+NV11917,Kunal Gupta,T168,Female,L3 Lead,47,2023-02,,Active
+NV11918,Kavya Agarwal,T168,Male,L3 Lead,46,2022-05,2026-03,Exited
+NV11919,Tanvi Singh,T168,Male,L1 Associate,86,2021-07,,Active
+NV11920,Harini Krishnan,T168,Female,L1 Associate,71,2022-02,,Active
+NV11921,Divya Verma,T168,Male,L1 Associate,24,2023-12,2026-01,Exited
+NV11922,Pooja Shaikh,T168,Male,L1 Associate,4,2023-07,,Active
+NV11923,Aditya Nair,T168,Female,L1 Associate,4,2022-11,,Active
+NV11924,Ishita Das,T168,Female,L2 Senior Associate,23,2023-03,,Active
+NV11925,Ashwin Rao,T168,Male,L1 Associate,20,2021-12,,Active
+NV11926,Farah Krishnan,T168,Male,L1 Associate,29,2016-09,2025-02,Exited
+NV11927,Abhishek Sharma,T169,Male,L2 Senior Associate,53,2023-02,,Active
+NV11928,Kavya Reddy,T169,Male,L2 Senior Associate,32,2022-12,,Active
+NV11929,Ritika Reddy,T169,Male,L1 Associate,22,2022-10,2025-12,Exited
+NV11930,Shalini Naidu,T169,Female,L2 Senior Associate,24,2019-11,,Active
+NV11931,Sneha Agarwal,T169,Male,L2 Senior Associate,54,2022-02,,Active
+NV11932,Anjali Verma,T169,Female,L1 Associate,12,2021-09,,Active
+NV11933,Arjun Nair,T169,Male,L1 Associate,15,2024-03,,Active
+NV11934,Nandini Sharma,T169,Male,L1 Associate,39,2023-10,,Active
+NV11935,Varun Kulkarni,T169,Female,L2 Senior Associate,19,2021-08,,Active
+NV11936,Revathi Chauhan,T169,Female,L2 Senior Associate,6,2021-12,2026-04,Exited
+NV11937,Siddharth Das,T169,Male,L1 Associate,39,2024-04,2025-09,Exited
+NV11938,Deepa Agarwal,T169,Female,L2 Senior Associate,66,2023-05,,Active
+NV11939,Nandini Mehta,T169,Female,L2 Senior Associate,78,2023-10,,Active
+NV11940,Ananya Banerjee,T170,Female,L1 Associate,35,2020-01,,Active
+NV11941,Ajay Bhat,T170,Male,L2 Senior Associate,17,2021-10,,Active
+NV11942,Kunal Iyer,T170,Male,L1 Associate,9,2024-07,2026-09,Exited
+NV11943,Meera Joshi,T170,Female,L1 Associate,32,2017-06,,Active
+NV11944,Rahul Singh,T170,Female,L2 Senior Associate,12,2022-11,2025-06,Exited
+NV11945,Karthik Pillai,T170,Female,L2 Senior Associate,15,2024-06,,Active
+NV11946,Divya Patil,T170,Male,L2 Senior Associate,12,2021-03,2025-09,Exited
+NV11947,Arjun Singh,T170,Female,L1 Associate,51,2018-02,,Active
+NV11948,Gaurav Patil,T170,Female,L2 Senior Associate,5,2024-07,,Active
+NV11949,Ishita Chauhan,T170,Female,L2 Senior Associate,41,2021-05,,Active
+NV11950,Meera Krishnan,T170,Male,L1 Associate,24,2021-09,,Active
+NV11951,Harish Naidu,T170,Male,L1 Associate,40,2023-01,2026-05,Exited
+NV11952,Aditya Nair,T170,Male,L1 Associate,74,2024-08,,Active
+NV11953,Pooja Joshi,T170,Male,L2 Senior Associate,7,2023-08,,Active
+NV11954,Anjali Khan,T171,Male,L1 Associate,5,2021-04,,Active
+NV11955,Ashwin Gupta,T171,Female,L1 Associate,14,2021-07,,Active
+NV11956,Kavya Krishnan,T171,Male,L1 Associate,22,2020-06,,Active
+NV11957,Ritika Mishra,T171,Female,L2 Senior Associate,21,2024-03,,Active
+NV11958,Revathi Das,T171,Female,L1 Associate,49,2020-11,,Active
+NV11959,Varun Shaikh,T171,Female,L1 Associate,40,2023-03,,Active
+NV11960,Ashwin Mehta,T171,Female,L1 Associate,31,2022-09,2025-02,Exited
+NV11961,Harini Naidu,T171,Male,L2 Senior Associate,1,2024-09,2026-04,Exited
+NV11962,Aishwarya Banerjee,T171,Female,L2 Senior Associate,40,2024-05,,Active
+NV11963,Lakshmi Verma,T171,Female,L1 Associate,16,2019-10,,Active
+NV11964,Kunal Bhat,T171,Male,L2 Senior Associate,38,2024-02,,Active
+NV11965,Farah Krishnan,T171,Male,L2 Senior Associate,44,2021-03,,Active
+NV11966,Manoj Patil,T171,Female,L1 Associate,8,2024-04,,Active
+NV11967,Sanjay Kulkarni,T171,Male,L2 Senior Associate,45,2019-07,,Active
+NV11968,Lakshmi Iyer,T171,Female,L2 Senior Associate,57,2023-11,,Active
+NV11969,Sneha Gupta,T171,Female,L3 Lead,50,2022-11,2026-10,Exited
+NV11970,Prakash Subramanian,T172,Male,L1 Associate,23,2022-07,,Active
+NV11971,Shalini Rao,T172,Male,L1 Associate,32,2022-12,,Active
+NV11972,Neha Gupta,T172,Male,L2 Senior Associate,44,2022-10,,Active
+NV11973,Pooja Joshi,T172,Male,L3 Lead,5,2022-03,,Active
+NV11974,Harini Nair,T172,Male,L1 Associate,45,2023-06,,Active
+NV11975,Kunal Menon,T172,Female,L1 Associate,28,2022-12,,Active
+NV11976,Gayathri Banerjee,T172,Male,L1 Associate,27,2022-05,,Active
+NV11977,Nandini Nair,T173,Male,L2 Senior Associate,10,2016-10,,Active
+NV11978,Priya Mishra,T173,Female,L3 Lead,33,2022-03,,Active
+NV11979,Aditya Menon,T173,Female,L2 Senior Associate,37,2024-02,,Active
+NV11980,Mohammed Mishra,T173,Male,L2 Senior Associate,35,2023-04,,Active
+NV11981,Revathi Deshmukh,T173,Male,L1 Associate,83,2020-07,,Active
+NV11982,Prakash Das,T173,Female,L1 Associate,34,2023-07,,Active
+NV11983,Nikhil Das,T173,Male,L2 Senior Associate,28,2017-12,,Active
+NV11984,Nikhil Chauhan,T173,Female,L2 Senior Associate,64,2023-02,,Active
+NV11985,Bhavna Nair,T173,Male,L1 Associate,24,2024-04,,Active
+NV11986,Ravi Agarwal,T173,Female,L1 Associate,58,2022-02,,Active
+NV11987,Gayathri Krishnan,T173,Female,L1 Associate,8,2023-09,,Active
+NV11988,Sneha Subramanian,T173,Male,L3 Lead,18,2023-08,2026-08,Exited
+NV11989,Revathi Singh,T173,Male,L1 Associate,45,2023-11,,Active
+NV11990,Nandini Nair,T173,Male,L2 Senior Associate,26,2020-08,,Active
+NV11991,Deepak Reddy,T174,Female,L1 Associate,5,2022-04,,Active
+NV11992,Deepak Nair,T174,Male,L2 Senior Associate,61,2023-04,,Active
+NV11993,Rahul Shaikh,T174,Male,L2 Senior Associate,28,2017-03,2025-12,Exited
+NV11994,Suresh Agarwal,T174,Female,L1 Associate,55,2020-09,,Active
+NV11995,Aishwarya Mehta,T174,Male,L1 Associate,68,2021-11,,Active
+NV11996,Siddharth Kulkarni,T174,Male,L1 Associate,38,2018-03,,Active
+NV11997,Ishita Iyer,T174,Female,L1 Associate,36,2018-12,2025-08,Exited
+NV11998,Lakshmi Agarwal,T174,Female,L2 Senior Associate,11,2023-09,,Active
+NV11999,Gayathri Pillai,T174,Male,L1 Associate,15,2023-10,2024-12,Exited
+NV12000,Vikram Gupta,T174,Female,L1 Associate,37,2021-04,,Active
+NV12001,Lakshmi Pillai,T012,Female,L3 Lead,0,2024-11,2025-07,Exited
+NV12002,Pooja Reddy,T015,Male,L1 Associate,0,2024-11,,Active
+NV12003,Shalini Khan,T067,Male,L1 Associate,0,2024-11,,Active
+NV12004,Lakshmi Mishra,T072,Male,L1 Associate,0,2024-11,,Active
+NV12005,Naveen Nair,T086,Male,L1 Associate,0,2024-11,,Active
+NV12006,Bhavna Mehta,T133,Female,L2 Senior Associate,0,2024-11,,Active
+NV12007,Ishita Rao,T001,Male,L1 Associate,0,2024-12,,Active
+NV12008,Simran Singh,T001,Female,L2 Senior Associate,0,2024-12,,Active
+NV12009,Aditya Naidu,T026,Female,L2 Senior Associate,0,2024-12,,Active
+NV12010,Gaurav Joshi,T039,Male,L1 Associate,0,2024-12,2026-09,Exited
+NV12011,Siddharth Reddy,T043,Male,L1 Associate,0,2024-12,,Active
+NV12012,Ravi Kulkarni,T046,Female,L1 Associate,0,2024-12,2026-05,Exited
+NV12013,Suresh Iyer,T056,Male,L1 Associate,0,2024-12,,Active
+NV12014,Imran Das,T062,Male,L1 Associate,0,2024-12,2025-03,Exited
+NV12015,Farah Joshi,T067,Female,L3 Lead,0,2024-12,2026-04,Exited
+NV12016,Ananya Subramanian,T102,Female,L1 Associate,0,2024-12,,Active
+NV12017,Sanjay Menon,T114,Male,L1 Associate,0,2024-12,,Active
+NV12018,Prakash Chauhan,T124,Female,L2 Senior Associate,0,2024-12,2025-08,Exited
+NV12019,Neha Menon,T129,Male,L1 Associate,0,2024-12,2026-01,Exited
+NV12020,Siddharth Chauhan,T133,Male,L1 Associate,0,2024-12,,Active
+NV12021,Neha Subramanian,T147,Female,L1 Associate,0,2024-12,2026-08,Exited
+NV12022,Divya Naidu,T151,Female,L1 Associate,0,2024-12,2025-07,Exited
+NV12023,Lakshmi Chauhan,T155,Male,L2 Senior Associate,0,2024-12,,Active
+NV12024,Priya Banerjee,T157,Male,L1 Associate,0,2024-12,2026-07,Exited
+NV12025,Ananya Reddy,T033,Male,L1 Associate,0,2025-01,2025-05,Exited
+NV12026,Ishita Banerjee,T035,Male,L2 Senior Associate,0,2025-01,,Active
+NV12027,Sanjay Joshi,T035,Female,L1 Associate,0,2025-01,,Active
+NV12028,Manoj Mishra,T037,Male,L1 Associate,0,2025-01,,Active
+NV12029,Manoj Naidu,T044,Male,L2 Senior Associate,0,2025-01,,Active
+NV12030,Aishwarya Iyer,T059,Male,L2 Senior Associate,0,2025-01,2026-05,Exited
+NV12031,Swati Sharma,T084,Female,L1 Associate,0,2025-01,2026-05,Exited
+NV12032,Deepak Rao,T087,Female,L2 Senior Associate,0,2025-01,,Active
+NV12033,Naveen Agarwal,T101,Male,L1 Associate,0,2025-01,,Active
+NV12034,Manoj Reddy,T110,Female,L1 Associate,0,2025-01,,Active
+NV12035,Imran Sharma,T119,Male,L1 Associate,0,2025-01,,Active
+NV12036,Simran Khan,T120,Male,L1 Associate,0,2025-01,2025-06,Exited
+NV12037,Deepa Kulkarni,T127,Male,L1 Associate,0,2025-01,,Active
+NV12038,Prakash Iyer,T139,Male,L1 Associate,0,2025-01,,Active
+NV12039,Divya Chauhan,T050,Female,L1 Associate,0,2025-02,,Active
+NV12040,Lakshmi Chauhan,T051,Male,L1 Associate,0,2025-02,,Active
+NV12041,Kunal Verma,T058,Female,L2 Senior Associate,0,2025-02,,Active
+NV12042,Gayathri Patil,T058,Male,L2 Senior Associate,0,2025-02,2025-04,Exited
+NV12043,Sneha Iyer,T062,Male,L1 Associate,0,2025-02,2026-06,Exited
+NV12044,Harini Naidu,T067,Male,L1 Associate,0,2025-02,,Active
+NV12045,Swati Verma,T067,Male,L1 Associate,0,2025-02,2026-05,Exited
+NV12046,Imran Joshi,T068,Male,L3 Lead,0,2025-02,2026-10,Exited
+NV12047,Nandini Sharma,T076,Male,L1 Associate,0,2025-02,,Active
+NV12048,Farah Rao,T096,Female,L2 Senior Associate,0,2025-02,2026-05,Exited
+NV12049,Kavya Das,T107,Female,L1 Associate,0,2025-02,2026-09,Exited
+NV12050,Vikram Verma,T129,Male,L1 Associate,0,2025-02,2025-07,Exited
+NV12051,Swati Nair,T141,Female,L1 Associate,0,2025-02,,Active
+NV12052,Jyoti Patil,T144,Female,L1 Associate,0,2025-02,,Active
+NV12053,Neha Chauhan,T150,Male,L2 Senior Associate,0,2025-02,2026-06,Exited
+NV12054,Rohit Deshmukh,T153,Male,L2 Senior Associate,0,2025-02,2026-06,Exited
+NV12055,Ananya Kulkarni,T158,Male,L1 Associate,0,2025-02,2025-12,Exited
+NV12056,Deepa Menon,T161,Male,L2 Senior Associate,0,2025-02,2026-09,Exited
+NV12057,Anjali Kulkarni,T162,Male,L2 Senior Associate,0,2025-02,2026-03,Exited
+NV12058,Anjali Patil,T162,Female,L1 Associate,0,2025-02,2026-02,Exited
+NV12059,Ajay Das,T171,Male,L1 Associate,0,2025-02,,Active
+NV12060,Mohammed Iyer,T002,Male,L1 Associate,0,2025-03,,Active
+NV12061,Sneha Nair,T007,Female,L2 Senior Associate,0,2025-03,,Active
+NV12062,Lakshmi Sharma,T008,Male,L1 Associate,0,2025-03,2025-11,Exited
+NV12063,Aditya Deshmukh,T008,Female,L1 Associate,0,2025-03,2026-07,Exited
+NV12064,Gayathri Menon,T034,Female,L1 Associate,0,2025-03,,Active
+NV12065,Kavya Banerjee,T041,Male,L1 Associate,0,2025-03,,Active
+NV12066,Priya Das,T062,Male,L2 Senior Associate,0,2025-03,,Active
+NV12067,Gaurav Mishra,T065,Female,L1 Associate,0,2025-03,2026-07,Exited
+NV12068,Priya Agarwal,T065,Male,L1 Associate,0,2025-03,,Active
+NV12069,Varun Nair,T065,Female,L1 Associate,0,2025-03,,Active
+NV12070,Simran Agarwal,T093,Male,L2 Senior Associate,0,2025-03,,Active
+NV12071,Sana Banerjee,T131,Male,L1 Associate,0,2025-03,2025-05,Exited
+NV12072,Pranav Nair,T131,Male,L1 Associate,0,2025-03,,Active
+NV12073,Priya Nair,T144,Female,L1 Associate,0,2025-03,,Active
+NV12074,Karthik Patil,T161,Male,L2 Senior Associate,0,2025-03,,Active
+NV12075,Rohit Nair,T168,Female,L1 Associate,0,2025-03,2026-09,Exited
+NV12076,Ashwin Deshmukh,T168,Male,L1 Associate,0,2025-03,2025-12,Exited
+NV12077,Ritika Patil,T001,Male,L1 Associate,0,2025-04,,Active
+NV12078,Neha Bhat,T002,Male,L1 Associate,0,2025-04,2026-09,Exited
+NV12079,Gayathri Chauhan,T002,Male,L2 Senior Associate,0,2025-04,2025-11,Exited
+NV12080,Abhishek Chauhan,T015,Female,L1 Associate,0,2025-04,,Active
+NV12081,Swati Chauhan,T031,Male,L1 Associate,0,2025-04,2026-10,Exited
+NV12082,Ashwin Iyer,T037,Male,L1 Associate,0,2025-04,,Active
+NV12083,Tanvi Singh,T042,Male,L1 Associate,0,2025-04,,Active
+NV12084,Nandini Chauhan,T050,Male,L3 Lead,0,2025-04,,Active
+NV12085,Mohammed Menon,T056,Male,L1 Associate,0,2025-04,,Active
+NV12086,Varun Reddy,T062,Male,L2 Senior Associate,0,2025-04,,Active
+NV12087,Kunal Krishnan,T073,Female,L1 Associate,0,2025-04,,Active
+NV12088,Meera Krishnan,T081,Male,L2 Senior Associate,0,2025-04,,Active
+NV12089,Nikhil Sharma,T084,Male,L1 Associate,0,2025-04,2026-06,Exited
+NV12090,Priya Agarwal,T084,Male,L1 Associate,0,2025-04,2026-05,Exited
+NV12091,Varun Bhat,T084,Male,L3 Lead,0,2025-04,,Active
+NV12092,Nandini Pillai,T093,Male,L2 Senior Associate,0,2025-04,,Active
+NV12093,Tanvi Bhat,T099,Female,L2 Senior Associate,0,2025-04,,Active
+NV12094,Tanvi Iyer,T117,Male,L1 Associate,0,2025-04,2025-06,Exited
+NV12095,Siddharth Mehta,T123,Female,L1 Associate,0,2025-04,,Active
+NV12096,Pooja Shaikh,T162,Male,L2 Senior Associate,0,2025-04,,Active
+NV12097,Arjun Subramanian,T002,Male,L3 Lead,0,2025-05,2026-02,Exited
+NV12098,Revathi Naidu,T027,Male,L1 Associate,0,2025-05,2025-09,Exited
+NV12099,Sana Verma,T027,Male,L1 Associate,0,2025-05,,Active
+NV12100,Kavya Verma,T045,Male,L1 Associate,0,2025-05,2025-09,Exited
+NV12101,Bhavna Das,T058,Female,L2 Senior Associate,0,2025-05,,Active
+NV12102,Pooja Krishnan,T059,Male,L2 Senior Associate,0,2025-05,2026-07,Exited
+NV12103,Shalini Joshi,T062,Male,L3 Lead,0,2025-05,,Active
+NV12104,Pranav Bhat,T077,Female,L1 Associate,0,2025-05,2025-08,Exited
+NV12105,Kunal Verma,T081,Female,L1 Associate,0,2025-05,,Active
+NV12106,Siddharth Singh,T090,Male,L1 Associate,0,2025-05,,Active
+NV12107,Gaurav Pillai,T095,Female,L1 Associate,0,2025-05,,Active
+NV12108,Harish Khan,T117,Male,L1 Associate,0,2025-05,,Active
+NV12109,Gaurav Banerjee,T120,Male,L1 Associate,0,2025-05,2026-04,Exited
+NV12110,Nikhil Chauhan,T125,Female,L3 Lead,0,2025-05,,Active
+NV12111,Jyoti Naidu,T129,Female,L1 Associate,0,2025-05,,Active
+NV12112,Lakshmi Deshmukh,T129,Female,L2 Senior Associate,0,2025-05,2026-04,Exited
+NV12113,Nikhil Joshi,T129,Male,L1 Associate,0,2025-05,2025-08,Exited
+NV12114,Arjun Rao,T131,Female,L1 Associate,0,2025-05,,Active
+NV12115,Harini Patil,T134,Female,L1 Associate,0,2025-05,,Active
+NV12116,Pooja Bhat,T134,Female,L1 Associate,0,2025-05,,Active
+NV12117,Kavya Banerjee,T149,Female,L2 Senior Associate,0,2025-05,,Active
+NV12118,Vikram Patil,T153,Female,L1 Associate,0,2025-05,2026-04,Exited
+NV12119,Gaurav Kulkarni,T154,Male,L1 Associate,0,2025-05,,Active
+NV12120,Suresh Kulkarni,T161,Female,L2 Senior Associate,0,2025-05,,Active
+NV12121,Kunal Singh,T162,Female,L1 Associate,0,2025-05,2025-07,Exited
+NV12122,Ajay Iyer,T165,Female,L3 Lead,0,2025-05,,Active
+NV12123,Pranav Iyer,T167,Male,L1 Associate,0,2025-05,,Active
+NV12124,Kavya Das,T002,Male,L1 Associate,0,2025-06,,Active
+NV12125,Aditya Menon,T004,Female,L2 Senior Associate,0,2025-06,,Active
+NV12126,Kavya Krishnan,T014,Male,L1 Associate,0,2025-06,,Active
+NV12127,Swati Singh,T021,Male,L1 Associate,0,2025-06,,Active
+NV12128,Tanvi Chauhan,T033,Male,L2 Senior Associate,0,2025-06,2026-07,Exited
+NV12129,Deepa Kulkarni,T038,Male,L1 Associate,0,2025-06,,Active
+NV12130,Nandini Subramanian,T056,Female,L1 Associate,0,2025-06,,Active
+NV12131,Karthik Kulkarni,T056,Male,L1 Associate,0,2025-06,,Active
+NV12132,Kavya Banerjee,T072,Female,L2 Senior Associate,0,2025-06,,Active
+NV12133,Vikram Deshmukh,T074,Female,L1 Associate,0,2025-06,,Active
+NV12134,Farah Chauhan,T076,Female,L1 Associate,0,2025-06,2026-10,Exited
+NV12135,Tanvi Joshi,T090,Female,L1 Associate,0,2025-06,,Active
+NV12136,Abhishek Sharma,T090,Male,L1 Associate,0,2025-06,2025-09,Exited
+NV12137,Jyoti Nair,T095,Male,L2 Senior Associate,0,2025-06,,Active
+NV12138,Neha Bhat,T097,Female,L2 Senior Associate,0,2025-06,,Active
+NV12139,Sana Shaikh,T105,Male,L1 Associate,0,2025-06,2026-01,Exited
+NV12140,Lakshmi Kulkarni,T108,Male,L1 Associate,0,2025-06,2026-09,Exited
+NV12141,Nikhil Verma,T112,Female,L1 Associate,0,2025-06,,Active
+NV12142,Tanvi Agarwal,T120,Female,L3 Lead,0,2025-06,,Active
+NV12143,Prakash Reddy,T121,Male,L2 Senior Associate,0,2025-06,,Active
+NV12144,Kavya Krishnan,T122,Female,L1 Associate,0,2025-06,,Active
+NV12145,Naveen Joshi,T131,Female,L1 Associate,0,2025-06,,Active
+NV12146,Naveen Iyer,T142,Female,L1 Associate,0,2025-06,2025-10,Exited
+NV12147,Rohit Kulkarni,T145,Male,L2 Senior Associate,0,2025-06,,Active
+NV12148,Lakshmi Gupta,T152,Female,L1 Associate,0,2025-06,,Active
+NV12149,Nandini Mehta,T164,Female,L1 Associate,0,2025-06,,Active
+NV12150,Varun Sharma,T168,Female,L1 Associate,0,2025-06,2026-04,Exited
+NV12151,Imran Bhat,T174,Female,L1 Associate,0,2025-06,,Active
+NV12152,Revathi Pillai,T005,Female,L1 Associate,0,2025-07,,Active
+NV12153,Siddharth Bhat,T011,Male,L2 Senior Associate,0,2025-07,2026-05,Exited
+NV12154,Ravi Iyer,T012,Male,L1 Associate,0,2025-07,,Active
+NV12155,Harini Verma,T013,Female,L2 Senior Associate,0,2025-07,2025-11,Exited
+NV12156,Harini Rao,T016,Female,L1 Associate,0,2025-07,,Active
+NV12157,Jyoti Rao,T024,Male,L2 Senior Associate,0,2025-07,,Active
+NV12158,Arjun Patil,T024,Male,L2 Senior Associate,0,2025-07,,Active
+NV12159,Harish Pillai,T026,Male,L1 Associate,0,2025-07,,Active
+NV12160,Arvind Kulkarni,T030,Female,L1 Associate,0,2025-07,,Active
+NV12161,Naveen Khan,T044,Female,L1 Associate,0,2025-07,,Active
+NV12162,Mohammed Deshmukh,T046,Female,L1 Associate,0,2025-07,,Active
+NV12163,Aishwarya Nair,T046,Male,L2 Senior Associate,0,2025-07,2026-07,Exited
+NV12164,Sana Iyer,T049,Male,L1 Associate,0,2025-07,,Active
+NV12165,Jyoti Nair,T058,Male,L1 Associate,0,2025-07,,Active
+NV12166,Arjun Mishra,T068,Male,L2 Senior Associate,0,2025-07,,Active
+NV12167,Varun Das,T072,Female,L1 Associate,0,2025-07,,Active
+NV12168,Pooja Pillai,T079,Male,L3 Lead,0,2025-07,,Active
+NV12169,Vikram Verma,T086,Male,L2 Senior Associate,0,2025-07,,Active
+NV12170,Revathi Sharma,T096,Female,L3 Lead,0,2025-07,,Active
+NV12171,Revathi Agarwal,T105,Female,L1 Associate,0,2025-07,,Active
+NV12172,Nandini Pillai,T106,Female,L1 Associate,0,2025-07,2026-10,Exited
+NV12173,Revathi Reddy,T119,Male,L1 Associate,0,2025-07,,Active
+NV12174,Prakash Deshmukh,T129,Male,L1 Associate,0,2025-07,2025-11,Exited
+NV12175,Sneha Menon,T130,Male,L1 Associate,0,2025-07,,Active
+NV12176,Harini Naidu,T134,Female,L1 Associate,0,2025-07,2026-10,Exited
+NV12177,Siddharth Pillai,T135,Female,L1 Associate,0,2025-07,,Active
+NV12178,Nikhil Khan,T147,Female,L1 Associate,0,2025-07,2026-10,Exited
+NV12179,Pranav Naidu,T147,Male,L2 Senior Associate,0,2025-07,,Active
+NV12180,Bhavna Singh,T147,Male,L1 Associate,0,2025-07,2026-10,Exited
+NV12181,Farah Shaikh,T151,Male,L3 Lead,0,2025-07,,Active
+NV12182,Bhavna Rao,T156,Female,L2 Senior Associate,0,2025-07,,Active
+NV12183,Aditya Patil,T168,Male,L1 Associate,0,2025-07,,Active
+NV12184,Farah Banerjee,T004,Male,L2 Senior Associate,0,2025-08,,Active
+NV12185,Arjun Shaikh,T013,Female,L2 Senior Associate,0,2025-08,,Active
+NV12186,Revathi Mehta,T020,Male,L1 Associate,0,2025-08,,Active
+NV12187,Prakash Krishnan,T021,Female,L3 Lead,0,2025-08,,Active
+NV12188,Swati Patil,T042,Female,L1 Associate,0,2025-08,,Active
+NV12189,Suresh Kulkarni,T049,Female,L3 Lead,0,2025-08,,Active
+NV12190,Kunal Singh,T066,Male,L1 Associate,0,2025-08,,Active
+NV12191,Bhavna Iyer,T072,Male,L1 Associate,0,2025-08,,Active
+NV12192,Deepak Khan,T077,Male,L1 Associate,0,2025-08,,Active
+NV12193,Sana Das,T077,Male,L1 Associate,0,2025-08,,Active
+NV12194,Ishita Chauhan,T080,Female,L1 Associate,0,2025-08,,Active
+NV12195,Rahul Agarwal,T082,Female,L2 Senior Associate,0,2025-08,2025-11,Exited
+NV12196,Kavya Gupta,T083,Female,L1 Associate,0,2025-08,,Active
+NV12197,Sana Banerjee,T095,Male,L1 Associate,0,2025-08,,Active
+NV12198,Nandini Bhat,T101,Male,L1 Associate,0,2025-08,,Active
+NV12199,Gaurav Subramanian,T105,Male,L2 Senior Associate,0,2025-08,,Active
+NV12200,Anjali Khan,T105,Male,L1 Associate,0,2025-08,,Active
+NV12201,Divya Menon,T106,Male,L2 Senior Associate,0,2025-08,,Active
+NV12202,Lakshmi Banerjee,T112,Male,L2 Senior Associate,0,2025-08,,Active
+NV12203,Sanjay Kulkarni,T117,Male,L1 Associate,0,2025-08,2026-04,Exited
+NV12204,Siddharth Banerjee,T124,Male,L1 Associate,0,2025-08,,Active
+NV12205,Divya Iyer,T124,Male,L1 Associate,0,2025-08,2025-11,Exited
+NV12206,Ishita Gupta,T125,Male,L1 Associate,0,2025-08,,Active
+NV12207,Ishita Subramanian,T129,Male,L1 Associate,0,2025-08,2026-08,Exited
+NV12208,Pooja Mehta,T148,Female,L2 Senior Associate,0,2025-08,,Active
+NV12209,Arvind Joshi,T174,Female,L1 Associate,0,2025-08,,Active
+NV12210,Suresh Shaikh,T003,Female,L3 Lead,0,2025-09,,Active
+NV12211,Jyoti Kulkarni,T008,Male,L1 Associate,0,2025-09,2026-10,Exited
+NV12212,Varun Gupta,T009,Female,L2 Senior Associate,0,2025-09,2026-04,Exited
+NV12213,Abhishek Das,T021,Male,L1 Associate,0,2025-09,,Active
+NV12214,Abhishek Bhat,T025,Male,L1 Associate,0,2025-09,,Active
+NV12215,Ajay Bhat,T029,Male,L2 Senior Associate,0,2025-09,,Active
+NV12216,Aishwarya Das,T031,Female,L1 Associate,0,2025-09,,Active
+NV12217,Imran Kulkarni,T032,Female,L1 Associate,0,2025-09,,Active
+NV12218,Farah Subramanian,T040,Male,L1 Associate,0,2025-09,,Active
+NV12219,Revathi Chauhan,T058,Female,L1 Associate,0,2025-09,,Active
+NV12220,Arvind Subramanian,T068,Male,L1 Associate,0,2025-09,,Active
+NV12221,Farah Agarwal,T072,Female,L1 Associate,0,2025-09,2026-05,Exited
+NV12222,Shalini Patil,T084,Male,L1 Associate,0,2025-09,2025-11,Exited
+NV12223,Anjali Subramanian,T118,Female,L1 Associate,0,2025-09,,Active
+NV12224,Ashwin Krishnan,T119,Male,L2 Senior Associate,0,2025-09,2026-06,Exited
+NV12225,Lakshmi Iyer,T129,Female,L2 Senior Associate,0,2025-09,2026-05,Exited
+NV12226,Ravi Kulkarni,T131,Female,L2 Senior Associate,0,2025-09,,Active
+NV12227,Lakshmi Khan,T133,Male,L1 Associate,0,2025-09,,Active
+NV12228,Divya Deshmukh,T144,Male,L1 Associate,0,2025-09,,Active
+NV12229,Manoj Sharma,T150,Female,L1 Associate,0,2025-09,,Active
+NV12230,Mohammed Patil,T153,Male,L2 Senior Associate,0,2025-09,,Active
+NV12231,Vikram Banerjee,T162,Female,L2 Senior Associate,0,2025-09,2025-10,Exited
+NV12232,Simran Patil,T170,Female,L1 Associate,0,2025-09,,Active
+NV12233,Meera Pillai,T004,Male,L1 Associate,0,2025-10,,Active
+NV12234,Ritika Reddy,T014,Male,L3 Lead,0,2025-10,,Active
+NV12235,Tanvi Joshi,T018,Female,L1 Associate,0,2025-10,,Active
+NV12236,Naveen Pillai,T026,Male,L1 Associate,0,2025-10,,Active
+NV12237,Lakshmi Menon,T072,Male,L2 Senior Associate,0,2025-10,,Active
+NV12238,Tanvi Krishnan,T072,Male,L1 Associate,0,2025-10,,Active
+NV12239,Gaurav Mishra,T079,Male,L2 Senior Associate,0,2025-10,,Active
+NV12240,Gaurav Khan,T084,Female,L1 Associate,0,2025-10,2026-04,Exited
+NV12241,Deepak Subramanian,T090,Female,L2 Senior Associate,0,2025-10,,Active
+NV12242,Naveen Chauhan,T097,Male,L2 Senior Associate,0,2025-10,,Active
+NV12243,Nikhil Khan,T105,Male,L1 Associate,0,2025-10,,Active
+NV12244,Ravi Kulkarni,T114,Male,L1 Associate,0,2025-10,,Active
+NV12245,Mohammed Chauhan,T117,Female,L2 Senior Associate,0,2025-10,,Active
+NV12246,Anjali Kulkarni,T127,Male,L2 Senior Associate,0,2025-10,,Active
+NV12247,Ishita Das,T129,Male,L1 Associate,0,2025-10,2026-04,Exited
+NV12248,Varun Pillai,T148,Female,L1 Associate,0,2025-10,,Active
+NV12249,Nandini Iyer,T149,Female,L1 Associate,0,2025-10,,Active
+NV12250,Jyoti Kulkarni,T157,Male,L1 Associate,0,2025-10,,Active
+NV12251,Tanvi Mehta,T161,Male,L2 Senior Associate,0,2025-10,,Active
+NV12252,Manoj Kulkarni,T162,Female,L1 Associate,0,2025-10,,Active
+NV12253,Ashwin Shaikh,T169,Male,L1 Associate,0,2025-10,,Active
+NV12254,Rahul Joshi,T170,Female,L1 Associate,0,2025-10,2026-02,Exited
+NV12255,Siddharth Patil,T002,Female,L1 Associate,0,2025-11,,Active
+NV12256,Aishwarya Menon,T005,Male,L1 Associate,0,2025-11,,Active
+NV12257,Siddharth Bhat,T012,Male,L1 Associate,0,2025-11,2025-12,Exited
+NV12258,Aditya Verma,T013,Female,L3 Lead,0,2025-11,,Active
+NV12259,Lakshmi Pillai,T013,Male,L1 Associate,0,2025-11,,Active
+NV12260,Ajay Mishra,T013,Male,L1 Associate,0,2025-11,,Active
+NV12261,Shalini Kulkarni,T013,Male,L1 Associate,0,2025-11,,Active
+NV12262,Imran Chauhan,T031,Male,L1 Associate,0,2025-11,,Active
+NV12263,Anjali Bhat,T034,Female,L1 Associate,0,2025-11,,Active
+NV12264,Anjali Rao,T045,Female,L1 Associate,0,2025-11,,Active
+NV12265,Naveen Chauhan,T065,Female,L1 Associate,0,2025-11,2026-06,Exited
+NV12266,Mohammed Kulkarni,T065,Male,L1 Associate,0,2025-11,,Active
+NV12267,Deepak Sharma,T065,Male,L2 Senior Associate,0,2025-11,,Active
+NV12268,Vikram Das,T068,Female,L1 Associate,0,2025-11,,Active
+NV12269,Divya Krishnan,T084,Male,L1 Associate,0,2025-11,,Active
+NV12270,Jyoti Menon,T087,Male,L1 Associate,0,2025-11,,Active
+NV12271,Naveen Rao,T091,Male,L2 Senior Associate,0,2025-11,,Active
+NV12272,Nikhil Mishra,T106,Female,L1 Associate,0,2025-11,2025-12,Exited
+NV12273,Harini Verma,T117,Female,L1 Associate,0,2025-11,,Active
+NV12274,Abhishek Mehta,T129,Male,L1 Associate,0,2025-11,,Active
+NV12275,Bhavna Menon,T129,Male,L1 Associate,0,2025-11,2026-05,Exited
+NV12276,Bhavna Bhat,T134,Male,L1 Associate,0,2025-11,2026-07,Exited
+NV12277,Prakash Deshmukh,T141,Male,L1 Associate,0,2025-11,2026-06,Exited
+NV12278,Mohammed Mehta,T158,Male,L3 Lead,0,2025-11,,Active
+NV12279,Sneha Iyer,T168,Male,L1 Associate,0,2025-11,2026-08,Exited
+NV12280,Arjun Rao,T004,Male,L2 Senior Associate,0,2025-12,,Active
+NV12281,Pooja Deshmukh,T006,Female,L3 Lead,0,2025-12,,Active
+NV12282,Harini Naidu,T008,Female,L1 Associate,0,2025-12,,Active
+NV12283,Simran Chauhan,T012,Female,L1 Associate,0,2025-12,,Active
+NV12284,Arjun Rao,T031,Female,L1 Associate,0,2025-12,,Active
+NV12285,Arvind Singh,T043,Female,L2 Senior Associate,0,2025-12,,Active
+NV12286,Nandini Verma,T062,Female,L1 Associate,0,2025-12,2026-06,Exited
+NV12287,Mohammed Shaikh,T072,Male,L1 Associate,0,2025-12,2026-07,Exited
+NV12288,Pooja Khan,T081,Female,L1 Associate,0,2025-12,,Active
+NV12289,Arvind Mehta,T084,Male,L1 Associate,0,2025-12,,Active
+NV12290,Naveen Reddy,T086,Male,L1 Associate,0,2025-12,,Active
+NV12291,Aishwarya Sharma,T090,Male,L1 Associate,0,2025-12,,Active
+NV12292,Arjun Khan,T096,Female,L1 Associate,0,2025-12,,Active
+NV12293,Tanvi Reddy,T106,Male,L1 Associate,0,2025-12,,Active
+NV12294,Ravi Banerjee,T124,Female,L1 Associate,0,2025-12,2026-10,Exited
+NV12295,Meera Das,T129,Female,L2 Senior Associate,0,2025-12,2026-08,Exited
+NV12296,Lakshmi Sharma,T129,Male,L2 Senior Associate,0,2025-12,,Active
+NV12297,Priya Kulkarni,T129,Male,L1 Associate,0,2025-12,,Active
+NV12298,Gaurav Patil,T135,Male,L1 Associate,0,2025-12,,Active
+NV12299,Tanvi Chauhan,T153,Male,L1 Associate,0,2025-12,,Active
+NV12300,Ananya Iyer,T157,Male,L1 Associate,0,2025-12,,Active
+NV12301,Vikram Kulkarni,T161,Female,L1 Associate,0,2025-12,,Active
+NV12302,Deepak Nair,T169,Male,L2 Senior Associate,0,2025-12,,Active
+NV12303,Ishita Bhat,T002,Male,L3 Lead,0,2026-01,,Active
+NV12304,Nandini Subramanian,T003,Male,L2 Senior Associate,0,2026-01,,Active
+NV12305,Harini Sharma,T012,Male,L1 Associate,0,2026-01,,Active
+NV12306,Varun Chauhan,T055,Male,L2 Senior Associate,0,2026-01,,Active
+NV12307,Shalini Rao,T056,Female,L1 Associate,0,2026-01,,Active
+NV12308,Meera Sharma,T065,Male,L1 Associate,0,2026-01,,Active
+NV12309,Aditya Sharma,T071,Male,L1 Associate,0,2026-01,2026-04,Exited
+NV12310,Neha Iyer,T082,Male,L1 Associate,0,2026-01,,Active
+NV12311,Gayathri Banerjee,T084,Male,L3 Lead,0,2026-01,2026-03,Exited
+NV12312,Ashwin Rao,T099,Male,L3 Lead,0,2026-01,,Active
+NV12313,Swati Rao,T105,Female,L1 Associate,0,2026-01,,Active
+NV12314,Harish Shaikh,T115,Female,L2 Senior Associate,0,2026-01,,Active
+NV12315,Anjali Sharma,T129,Female,L1 Associate,0,2026-01,2026-10,Exited
+NV12316,Suresh Reddy,T135,Male,L2 Senior Associate,0,2026-01,,Active
+NV12317,Manoj Verma,T135,Male,L2 Senior Associate,0,2026-01,,Active
+NV12318,Tanvi Verma,T140,Male,L1 Associate,0,2026-01,,Active
+NV12319,Vikram Das,T147,Male,L1 Associate,0,2026-01,,Active
+NV12320,Arvind Das,T158,Male,L2 Senior Associate,0,2026-01,,Active
+NV12321,Deepa Nair,T164,Male,L1 Associate,0,2026-01,,Active
+NV12322,Imran Joshi,T168,Female,L1 Associate,0,2026-01,,Active
+NV12323,Jyoti Menon,T002,Male,L1 Associate,0,2026-02,2026-08,Exited
+NV12324,Prakash Agarwal,T012,Male,L1 Associate,0,2026-02,,Active
+NV12325,Naveen Agarwal,T018,Male,L1 Associate,0,2026-02,,Active
+NV12326,Lakshmi Joshi,T067,Male,L2 Senior Associate,0,2026-02,2026-06,Exited
+NV12327,Gayathri Menon,T071,Male,L1 Associate,0,2026-02,,Active
+NV12328,Priya Patil,T078,Male,L1 Associate,0,2026-02,,Active
+NV12329,Revathi Rao,T086,Male,L2 Senior Associate,0,2026-02,,Active
+NV12330,Neha Reddy,T094,Male,L2 Senior Associate,0,2026-02,,Active
+NV12331,Siddharth Gupta,T114,Female,L1 Associate,0,2026-02,,Active
+NV12332,Meera Mishra,T120,Female,L3 Lead,0,2026-02,,Active
+NV12333,Lakshmi Banerjee,T123,Female,L1 Associate,0,2026-02,,Active
+NV12334,Siddharth Das,T129,Male,L1 Associate,0,2026-02,2026-05,Exited
+NV12335,Swati Sharma,T142,Female,L1 Associate,0,2026-02,2026-07,Exited
+NV12336,Jyoti Kulkarni,T168,Male,L2 Senior Associate,0,2026-02,2026-10,Exited
+NV12337,Tanvi Kulkarni,T174,Male,L1 Associate,0,2026-02,,Active
+NV12338,Sanjay Chauhan,T008,Female,L1 Associate,0,2026-03,2026-05,Exited
+NV12339,Nandini Mishra,T012,Male,L1 Associate,0,2026-03,,Active
+NV12340,Priya Rao,T027,Male,L1 Associate,0,2026-03,,Active
+NV12341,Ritika Khan,T041,Male,L1 Associate,0,2026-03,,Active
+NV12342,Kavya Joshi,T075,Female,L1 Associate,0,2026-03,,Active
+NV12343,Rahul Mehta,T082,Female,L1 Associate,0,2026-03,,Active
+NV12344,Suresh Subramanian,T086,Female,L1 Associate,0,2026-03,,Active
+NV12345,Siddharth Sharma,T100,Male,L2 Senior Associate,0,2026-03,,Active
+NV12346,Divya Bhat,T106,Male,L2 Senior Associate,0,2026-03,,Active
+NV12347,Pooja Patil,T110,Male,L1 Associate,0,2026-03,2026-04,Exited
+NV12348,Gayathri Nair,T111,Male,L1 Associate,0,2026-03,,Active
+NV12349,Ajay Kulkarni,T133,Male,L1 Associate,0,2026-03,,Active
+NV12350,Rohit Mehta,T134,Male,L2 Senior Associate,0,2026-03,2026-05,Exited
+NV12351,Ravi Deshmukh,T135,Female,L3 Lead,0,2026-03,2026-07,Exited
+NV12352,Siddharth Khan,T140,Male,L1 Associate,0,2026-03,,Active
+NV12353,Nikhil Khan,T148,Female,L1 Associate,0,2026-03,2026-08,Exited
+NV12354,Ishita Shaikh,T149,Male,L2 Senior Associate,0,2026-03,,Active
+NV12355,Anjali Das,T158,Female,L1 Associate,0,2026-03,,Active
+NV12356,Ishita Iyer,T165,Male,L2 Senior Associate,0,2026-03,,Active
+NV12357,Shalini Mishra,T001,Male,L2 Senior Associate,0,2026-04,,Active
+NV12358,Bhavna Banerjee,T031,Male,L2 Senior Associate,0,2026-04,2026-08,Exited
+NV12359,Pooja Mehta,T032,Male,L1 Associate,0,2026-04,,Active
+NV12360,Ashwin Agarwal,T034,Female,L1 Associate,0,2026-04,,Active
+NV12361,Rahul Mehta,T035,Male,L2 Senior Associate,0,2026-04,,Active
+NV12362,Ishita Reddy,T035,Female,L1 Associate,0,2026-04,,Active
+NV12363,Siddharth Pillai,T047,Female,L1 Associate,0,2026-04,,Active
+NV12364,Imran Singh,T071,Male,L2 Senior Associate,0,2026-04,,Active
+NV12365,Pranav Pillai,T071,Male,L2 Senior Associate,0,2026-04,,Active
+NV12366,Manoj Bhat,T087,Male,L1 Associate,0,2026-04,,Active
+NV12367,Mohammed Sharma,T104,Male,L2 Senior Associate,0,2026-04,,Active
+NV12368,Deepa Iyer,T105,Male,L1 Associate,0,2026-04,,Active
+NV12369,Vikram Joshi,T106,Male,L2 Senior Associate,0,2026-04,,Active
+NV12370,Arvind Subramanian,T110,Male,L1 Associate,0,2026-04,,Active
+NV12371,Ravi Reddy,T115,Male,L2 Senior Associate,0,2026-04,,Active
+NV12372,Pranav Banerjee,T117,Male,L1 Associate,0,2026-04,2026-05,Exited
+NV12373,Manoj Kulkarni,T129,Female,L1 Associate,0,2026-04,2026-06,Exited
+NV12374,Meera Iyer,T129,Male,L1 Associate,0,2026-04,2026-05,Exited
+NV12375,Ananya Bhat,T131,Female,L1 Associate,0,2026-04,,Active
+NV12376,Simran Joshi,T131,Female,L2 Senior Associate,0,2026-04,2026-07,Exited
+NV12377,Rahul Kulkarni,T131,Male,L1 Associate,0,2026-04,2026-09,Exited
+NV12378,Pranav Mehta,T132,Female,L1 Associate,0,2026-04,,Active
+NV12379,Abhishek Verma,T136,Male,L1 Associate,0,2026-04,,Active
+NV12380,Revathi Mehta,T136,Male,L1 Associate,0,2026-04,,Active
+NV12381,Neha Khan,T140,Male,L1 Associate,0,2026-04,,Active
+NV12382,Gaurav Verma,T147,Male,L1 Associate,0,2026-04,,Active
+NV12383,Meera Chauhan,T167,Male,L2 Senior Associate,0,2026-04,,Active
+NV12384,Simran Banerjee,T168,Female,L1 Associate,0,2026-04,,Active
+NV12385,Farah Mishra,T169,Male,L1 Associate,0,2026-04,,Active
+NV12386,Ishita Shaikh,T170,Male,L1 Associate,0,2026-04,,Active
+NV12387,Lakshmi Krishnan,T001,Male,L2 Senior Associate,0,2026-05,,Active
+NV12388,Nandini Deshmukh,T004,Female,L1 Associate,0,2026-05,,Active
+NV12389,Imran Kulkarni,T011,Male,L1 Associate,0,2026-05,,Active
+NV12390,Farah Mehta,T018,Male,L1 Associate,0,2026-05,,Active
+NV12391,Pooja Gupta,T027,Male,L1 Associate,0,2026-05,,Active
+NV12392,Ravi Verma,T032,Male,L2 Senior Associate,0,2026-05,,Active
+NV12393,Harini Joshi,T039,Male,L1 Associate,0,2026-05,,Active
+NV12394,Vikram Verma,T041,Male,L1 Associate,0,2026-05,,Active
+NV12395,Varun Subramanian,T046,Male,L1 Associate,0,2026-05,,Active
+NV12396,Sanjay Verma,T054,Female,L1 Associate,0,2026-05,,Active
+NV12397,Ananya Joshi,T054,Male,L1 Associate,0,2026-05,,Active
+NV12398,Sneha Agarwal,T059,Female,L2 Senior Associate,0,2026-05,,Active
+NV12399,Varun Nair,T065,Female,L2 Senior Associate,0,2026-05,,Active
+NV12400,Abhishek Joshi,T065,Male,L1 Associate,0,2026-05,,Active
+NV12401,Arvind Pillai,T067,Male,L2 Senior Associate,0,2026-05,,Active
+NV12402,Prakash Reddy,T067,Female,L1 Associate,0,2026-05,,Active
+NV12403,Ajay Gupta,T067,Female,L1 Associate,0,2026-05,,Active
+NV12404,Tanvi Das,T068,Male,L1 Associate,0,2026-05,,Active
+NV12405,Ashwin Reddy,T072,Male,L1 Associate,0,2026-05,2026-07,Exited
+NV12406,Jyoti Das,T072,Female,L2 Senior Associate,0,2026-05,,Active
+NV12407,Vikram Joshi,T084,Male,L1 Associate,0,2026-05,2026-06,Exited
+NV12408,Harini Mishra,T084,Male,L1 Associate,0,2026-05,2026-09,Exited
+NV12409,Imran Agarwal,T095,Male,L1 Associate,0,2026-05,,Active
+NV12410,Ajay Chauhan,T096,Female,L1 Associate,0,2026-05,,Active
+NV12411,Kavya Krishnan,T101,Male,L1 Associate,0,2026-05,,Active
+NV12412,Shalini Banerjee,T115,Male,L1 Associate,0,2026-05,,Active
+NV12413,Sneha Pillai,T123,Female,L1 Associate,0,2026-05,2026-07,Exited
+NV12414,Ravi Shaikh,T124,Male,L1 Associate,0,2026-05,,Active
+NV12415,Deepa Joshi,T129,Male,L1 Associate,0,2026-05,2026-07,Exited
+NV12416,Abhishek Nair,T129,Male,L1 Associate,0,2026-05,,Active
+NV12417,Ravi Iyer,T129,Female,L2 Senior Associate,0,2026-05,2026-06,Exited
+NV12418,Harini Bhat,T129,Male,L2 Senior Associate,0,2026-05,,Active
+NV12419,Shalini Banerjee,T134,Male,L2 Senior Associate,0,2026-05,,Active
+NV12420,Meera Chauhan,T135,Female,L1 Associate,0,2026-05,,Active
+NV12421,Nandini Banerjee,T142,Female,L1 Associate,0,2026-05,,Active
+NV12422,Ritika Joshi,T144,Female,L2 Senior Associate,0,2026-05,,Active
+NV12423,Kunal Menon,T154,Male,L3 Lead,0,2026-05,,Active
+NV12424,Harish Gupta,T154,Male,L1 Associate,0,2026-05,,Active
+NV12425,Ravi Shaikh,T159,Male,L1 Associate,0,2026-05,,Active
+NV12426,Gaurav Subramanian,T170,Male,L3 Lead,0,2026-05,,Active
+NV12427,Bhavna Naidu,T171,Female,L3 Lead,0,2026-05,,Active
+NV12428,Siddharth Shaikh,T002,Male,L1 Associate,0,2026-06,,Active
+NV12429,Rahul Banerjee,T003,Female,L2 Senior Associate,0,2026-06,,Active
+NV12430,Kavya Menon,T004,Male,L1 Associate,0,2026-06,,Active
+NV12431,Varun Mishra,T018,Male,L1 Associate,0,2026-06,,Active
+NV12432,Anjali Joshi,T024,Male,L2 Senior Associate,0,2026-06,,Active
+NV12433,Aishwarya Bhat,T024,Male,L1 Associate,0,2026-06,,Active
+NV12434,Rohit Iyer,T025,Male,L1 Associate,0,2026-06,,Active
+NV12435,Jyoti Banerjee,T031,Male,L1 Associate,0,2026-06,,Active
+NV12436,Gayathri Kulkarni,T032,Female,L2 Senior Associate,0,2026-06,,Active
+NV12437,Tanvi Sharma,T039,Female,L1 Associate,0,2026-06,,Active
+NV12438,Sanjay Reddy,T040,Male,L1 Associate,0,2026-06,,Active
+NV12439,Ravi Agarwal,T059,Male,L1 Associate,0,2026-06,,Active
+NV12440,Revathi Sharma,T062,Male,L1 Associate,0,2026-06,,Active
+NV12441,Suresh Menon,T062,Female,L2 Senior Associate,0,2026-06,2026-09,Exited
+NV12442,Ravi Das,T062,Male,L1 Associate,0,2026-06,,Active
+NV12443,Shalini Chauhan,T064,Female,L1 Associate,0,2026-06,2026-07,Exited
+NV12444,Nandini Menon,T065,Male,L3 Lead,0,2026-06,,Active
+NV12445,Nikhil Nair,T067,Female,L1 Associate,0,2026-06,2026-07,Exited
+NV12446,Pooja Krishnan,T071,Male,L1 Associate,0,2026-06,,Active
+NV12447,Divya Banerjee,T083,Male,L1 Associate,0,2026-06,,Active
+NV12448,Kavya Das,T084,Male,L1 Associate,0,2026-06,,Active
+NV12449,Pranav Iyer,T084,Female,L1 Associate,0,2026-06,2026-08,Exited
+NV12450,Naveen Singh,T088,Female,L3 Lead,0,2026-06,,Active
+NV12451,Suresh Joshi,T099,Male,L1 Associate,0,2026-06,,Active
+NV12452,Varun Banerjee,T107,Male,L2 Senior Associate,0,2026-06,,Active
+NV12453,Lakshmi Chauhan,T117,Male,L2 Senior Associate,0,2026-06,,Active
+NV12454,Rahul Khan,T119,Male,L2 Senior Associate,0,2026-06,,Active
+NV12455,Rahul Mehta,T120,Male,L2 Senior Associate,0,2026-06,,Active
+NV12456,Farah Nair,T124,Male,L1 Associate,0,2026-06,,Active
+NV12457,Tanvi Chauhan,T125,Female,L2 Senior Associate,0,2026-06,,Active
+NV12458,Siddharth Agarwal,T129,Female,L2 Senior Associate,0,2026-06,2026-07,Exited
+NV12459,Aditya Singh,T129,Male,L1 Associate,0,2026-06,,Active
+NV12460,Priya Subramanian,T130,Female,L2 Senior Associate,0,2026-06,,Active
+NV12461,Sana Joshi,T141,Male,L1 Associate,0,2026-06,,Active
+NV12462,Ajay Gupta,T153,Female,L1 Associate,0,2026-06,,Active
+NV12463,Sana Sharma,T153,Male,L2 Senior Associate,0,2026-06,,Active
+NV12464,Swati Sharma,T154,Male,L1 Associate,0,2026-06,,Active
+NV12465,Gayathri Rao,T155,Female,L1 Associate,0,2026-06,,Active
+NV12466,Divya Shaikh,T156,Female,L1 Associate,0,2026-06,,Active
+NV12467,Karthik Khan,T157,Female,L1 Associate,0,2026-06,,Active
+NV12468,Mohammed Menon,T160,Female,L2 Senior Associate,0,2026-06,,Active
+NV12469,Simran Subramanian,T162,Male,L1 Associate,0,2026-06,,Active
+NV12470,Ritika Mehta,T167,Female,L1 Associate,0,2026-06,,Active
+NV12471,Naveen Rao,T003,Male,L1 Associate,0,2026-07,,Active
+NV12472,Rahul Krishnan,T004,Male,L1 Associate,0,2026-07,,Active
+NV12473,Meera Gupta,T006,Male,L1 Associate,0,2026-07,,Active
+NV12474,Divya Mishra,T006,Male,L1 Associate,0,2026-07,,Active
+NV12475,Nandini Deshmukh,T008,Male,L1 Associate,0,2026-07,,Active
+NV12476,Ajay Das,T008,Male,L1 Associate,0,2026-07,,Active
+NV12477,Rohit Chauhan,T013,Female,L1 Associate,0,2026-07,,Active
+NV12478,Shalini Pillai,T018,Male,L1 Associate,0,2026-07,,Active
+NV12479,Shalini Banerjee,T021,Male,L1 Associate,0,2026-07,,Active
+NV12480,Sneha Reddy,T023,Male,L1 Associate,0,2026-07,,Active
+NV12481,Meera Banerjee,T033,Male,L1 Associate,0,2026-07,,Active
+NV12482,Rohit Agarwal,T033,Male,L1 Associate,0,2026-07,2026-08,Exited
+NV12483,Harish Das,T037,Male,L2 Senior Associate,0,2026-07,2026-10,Exited
+NV12484,Tanvi Joshi,T039,Male,L1 Associate,0,2026-07,,Active
+NV12485,Arjun Das,T041,Male,L1 Associate,0,2026-07,,Active
+NV12486,Jyoti Nair,T041,Male,L1 Associate,0,2026-07,,Active
+NV12487,Ritika Agarwal,T046,Male,L1 Associate,0,2026-07,,Active
+NV12488,Shalini Subramanian,T052,Female,L1 Associate,0,2026-07,,Active
+NV12489,Ritika Singh,T059,Male,L2 Senior Associate,0,2026-07,,Active
+NV12490,Naveen Banerjee,T064,Male,L2 Senior Associate,0,2026-07,,Active
+NV12491,Ravi Iyer,T067,Male,L2 Senior Associate,0,2026-07,,Active
+NV12492,Imran Reddy,T067,Female,L1 Associate,0,2026-07,,Active
+NV12493,Vikram Menon,T072,Female,L1 Associate,0,2026-07,,Active
+NV12494,Anjali Gupta,T072,Male,L1 Associate,0,2026-07,,Active
+NV12495,Meera Shaikh,T072,Female,L1 Associate,0,2026-07,,Active
+NV12496,Ishita Nair,T074,Female,L1 Associate,0,2026-07,,Active
+NV12497,Deepak Kulkarni,T076,Male,L3 Lead,0,2026-07,,Active
+NV12498,Abhishek Kulkarni,T078,Male,L1 Associate,0,2026-07,,Active
+NV12499,Ishita Shaikh,T079,Female,L2 Senior Associate,0,2026-07,,Active
+NV12500,Gaurav Agarwal,T081,Male,L2 Senior Associate,0,2026-07,,Active
+NV12501,Arjun Sharma,T082,Male,L1 Associate,0,2026-07,,Active
+NV12502,Naveen Mehta,T084,Male,L1 Associate,0,2026-07,,Active
+NV12503,Ananya Naidu,T087,Female,L2 Senior Associate,0,2026-07,,Active
+NV12504,Harish Patil,T096,Male,L1 Associate,0,2026-07,,Active
+NV12505,Prakash Gupta,T096,Female,L1 Associate,0,2026-07,,Active
+NV12506,Kunal Bhat,T101,Female,L1 Associate,0,2026-07,,Active
+NV12507,Varun Gupta,T105,Female,L2 Senior Associate,0,2026-07,,Active
+NV12508,Farah Gupta,T106,Male,L2 Senior Associate,0,2026-07,,Active
+NV12509,Gaurav Joshi,T106,Male,L3 Lead,0,2026-07,,Active
+NV12510,Gayathri Pillai,T115,Female,L2 Senior Associate,0,2026-07,,Active
+NV12511,Gayathri Sharma,T125,Male,L1 Associate,0,2026-07,,Active
+NV12512,Gayathri Joshi,T129,Male,L1 Associate,0,2026-07,,Active
+NV12513,Deepa Bhat,T129,Female,L1 Associate,0,2026-07,2026-10,Exited
+NV12514,Ishita Rao,T130,Male,L1 Associate,0,2026-07,,Active
+NV12515,Nandini Kulkarni,T131,Female,L2 Senior Associate,0,2026-07,,Active
+NV12516,Harini Nair,T134,Male,L3 Lead,0,2026-07,,Active
+NV12517,Ashwin Gupta,T141,Male,L1 Associate,0,2026-07,,Active
+NV12518,Priya Nair,T141,Male,L1 Associate,0,2026-07,,Active
+NV12519,Gaurav Rao,T142,Male,L1 Associate,0,2026-07,,Active
+NV12520,Varun Nair,T147,Female,L2 Senior Associate,0,2026-07,,Active
+NV12521,Nandini Chauhan,T149,Male,L1 Associate,0,2026-07,,Active
+NV12522,Tanvi Krishnan,T149,Female,L1 Associate,0,2026-07,,Active
+NV12523,Ritika Agarwal,T150,Female,L1 Associate,0,2026-07,,Active
+NV12524,Meera Das,T160,Female,L1 Associate,0,2026-07,,Active
+NV12525,Swati Joshi,T161,Male,L1 Associate,0,2026-07,,Active
+NV12526,Gayathri Mishra,T168,Male,L3 Lead,0,2026-07,,Active
+NV12527,Bhavna Kulkarni,T002,Male,L1 Associate,0,2026-08,,Active
+NV12528,Farah Naidu,T007,Male,L2 Senior Associate,0,2026-08,,Active
+NV12529,Farah Agarwal,T008,Female,L2 Senior Associate,0,2026-08,,Active
+NV12530,Imran Patil,T009,Female,L2 Senior Associate,0,2026-08,,Active
+NV12531,Sana Naidu,T012,Male,L2 Senior Associate,0,2026-08,,Active
+NV12532,Prakash Bhat,T031,Female,L1 Associate,0,2026-08,2026-10,Exited
+NV12533,Ritika Shaikh,T033,Male,L1 Associate,0,2026-08,,Active
+NV12534,Deepa Banerjee,T033,Male,L1 Associate,0,2026-08,,Active
+NV12535,Rohit Rao,T037,Female,L2 Senior Associate,0,2026-08,,Active
+NV12536,Kunal Shaikh,T041,Male,L2 Senior Associate,0,2026-08,,Active
+NV12537,Jyoti Iyer,T045,Female,L1 Associate,0,2026-08,,Active
+NV12538,Meera Gupta,T046,Female,L1 Associate,0,2026-08,,Active
+NV12539,Shalini Shaikh,T050,Female,L1 Associate,0,2026-08,2026-10,Exited
+NV12540,Nandini Patil,T050,Male,L1 Associate,0,2026-08,,Active
+NV12541,Ritika Shaikh,T057,Male,L3 Lead,0,2026-08,,Active
+NV12542,Swati Chauhan,T058,Female,L1 Associate,0,2026-08,,Active
+NV12543,Aditya Iyer,T062,Female,L2 Senior Associate,0,2026-08,,Active
+NV12544,Vikram Mishra,T063,Male,L2 Senior Associate,0,2026-08,,Active
+NV12545,Harish Krishnan,T065,Male,L2 Senior Associate,0,2026-08,,Active
+NV12546,Ananya Joshi,T068,Female,L2 Senior Associate,0,2026-08,,Active
+NV12547,Arjun Das,T069,Male,L1 Associate,0,2026-08,,Active
+NV12548,Varun Kulkarni,T083,Female,L1 Associate,0,2026-08,,Active
+NV12549,Ritika Menon,T084,Female,L1 Associate,0,2026-08,,Active
+NV12550,Manoj Iyer,T084,Male,L1 Associate,0,2026-08,2026-10,Exited
+NV12551,Ashwin Krishnan,T084,Female,L1 Associate,0,2026-08,,Active
+NV12552,Revathi Chauhan,T084,Female,L1 Associate,0,2026-08,,Active
+NV12553,Priya Das,T085,Male,L1 Associate,0,2026-08,,Active
+NV12554,Sanjay Kulkarni,T086,Female,L2 Senior Associate,0,2026-08,,Active
+NV12555,Gayathri Khan,T089,Female,L1 Associate,0,2026-08,,Active
+NV12556,Tanvi Deshmukh,T089,Male,L2 Senior Associate,0,2026-08,2026-10,Exited
+NV12557,Manoj Iyer,T093,Female,L1 Associate,0,2026-08,,Active
+NV12558,Deepak Mehta,T099,Male,L1 Associate,0,2026-08,,Active
+NV12559,Neha Singh,T105,Male,L1 Associate,0,2026-08,,Active
+NV12560,Ishita Menon,T107,Male,L1 Associate,0,2026-08,,Active
+NV12561,Sana Mehta,T122,Male,L2 Senior Associate,0,2026-08,,Active
+NV12562,Siddharth Menon,T123,Female,L2 Senior Associate,0,2026-08,,Active
+NV12563,Pranav Chauhan,T124,Male,L1 Associate,0,2026-08,,Active
+NV12564,Kunal Sharma,T128,Male,L1 Associate,0,2026-08,,Active
+NV12565,Arvind Mishra,T129,Male,L1 Associate,0,2026-08,,Active
+NV12566,Neha Nair,T129,Female,L2 Senior Associate,0,2026-08,,Active
+NV12567,Arjun Rao,T129,Male,L2 Senior Associate,0,2026-08,,Active
+NV12568,Abhishek Rao,T129,Male,L1 Associate,0,2026-08,,Active
+NV12569,Divya Agarwal,T134,Female,L1 Associate,0,2026-08,,Active
+NV12570,Sana Gupta,T143,Female,L1 Associate,0,2026-08,,Active
+NV12571,Priya Deshmukh,T147,Male,L1 Associate,0,2026-08,,Active
+NV12572,Arjun Singh,T148,Male,L2 Senior Associate,0,2026-08,,Active
+NV12573,Siddharth Menon,T149,Male,L1 Associate,0,2026-08,,Active
+NV12574,Anjali Joshi,T153,Male,L1 Associate,0,2026-08,,Active
+NV12575,Bhavna Iyer,T162,Male,L2 Senior Associate,0,2026-08,,Active
+NV12576,Swati Shaikh,T162,Male,L2 Senior Associate,0,2026-08,2026-10,Exited
+NV12577,Imran Chauhan,T164,Male,L2 Senior Associate,0,2026-08,,Active
+NV12578,Gaurav Pillai,T168,Male,L2 Senior Associate,0,2026-08,,Active
+NV12579,Kunal Reddy,T168,Male,L3 Lead,0,2026-08,,Active
+NV12580,Rohit Mehta,T173,Female,L1 Associate,0,2026-08,,Active
+NV12581,Ishita Iyer,T015,Female,L1 Associate,0,2026-09,,Active
+NV12582,Kunal Joshi,T020,Male,L2 Senior Associate,0,2026-09,,Active
+NV12583,Meera Subramanian,T020,Male,L1 Associate,0,2026-09,,Active
+NV12584,Swati Verma,T035,Male,L1 Associate,0,2026-09,2026-10,Exited
+NV12585,Sneha Pillai,T037,Female,L1 Associate,0,2026-09,,Active
+NV12586,Jyoti Joshi,T039,Male,L3 Lead,0,2026-09,,Active
+NV12587,Aishwarya Pillai,T051,Male,L1 Associate,0,2026-09,,Active
+NV12588,Arvind Reddy,T062,Female,L1 Associate,0,2026-09,,Active
+NV12589,Mohammed Banerjee,T063,Male,L1 Associate,0,2026-09,,Active
+NV12590,Farah Singh,T067,Male,L1 Associate,0,2026-09,,Active
+NV12591,Harini Nair,T068,Male,L1 Associate,0,2026-09,,Active
+NV12592,Kunal Verma,T069,Male,L1 Associate,0,2026-09,,Active
+NV12593,Ashwin Nair,T071,Male,L1 Associate,0,2026-09,,Active
+NV12594,Ashwin Deshmukh,T078,Female,L1 Associate,0,2026-09,,Active
+NV12595,Gayathri Chauhan,T084,Male,L1 Associate,0,2026-09,,Active
+NV12596,Pooja Nair,T084,Male,L1 Associate,0,2026-09,,Active
+NV12597,Ashwin Mishra,T087,Female,L1 Associate,0,2026-09,,Active
+NV12598,Revathi Iyer,T097,Male,L2 Senior Associate,0,2026-09,,Active
+NV12599,Varun Das,T097,Female,L1 Associate,0,2026-09,,Active
+NV12600,Arjun Sharma,T098,Female,L2 Senior Associate,0,2026-09,,Active
+NV12601,Ritika Reddy,T107,Male,L1 Associate,0,2026-09,,Active
+NV12602,Deepa Krishnan,T117,Female,L2 Senior Associate,0,2026-09,,Active
+NV12603,Lakshmi Reddy,T121,Female,L1 Associate,0,2026-09,,Active
+NV12604,Lakshmi Joshi,T124,Male,L2 Senior Associate,0,2026-09,,Active
+NV12605,Simran Joshi,T124,Male,L1 Associate,0,2026-09,,Active
+NV12606,Ravi Rao,T125,Female,L1 Associate,0,2026-09,,Active
+NV12607,Ashwin Kulkarni,T130,Female,L2 Senior Associate,0,2026-09,,Active
+NV12608,Naveen Chauhan,T131,Female,L1 Associate,0,2026-09,,Active
+NV12609,Ashwin Subramanian,T145,Female,L2 Senior Associate,0,2026-09,,Active
+NV12610,Ajay Banerjee,T147,Male,L1 Associate,0,2026-09,,Active
+NV12611,Lakshmi Mehta,T148,Female,L1 Associate,0,2026-09,,Active
+NV12612,Divya Pillai,T149,Male,L1 Associate,0,2026-09,,Active
+NV12613,Swati Deshmukh,T151,Female,L1 Associate,0,2026-09,,Active
+NV12614,Sana Menon,T154,Female,L1 Associate,0,2026-09,,Active
+NV12615,Priya Mishra,T155,Male,L1 Associate,0,2026-09,,Active
+NV12616,Aditya Verma,T157,Female,L1 Associate,0,2026-09,,Active
+NV12617,Ravi Joshi,T160,Female,L2 Senior Associate,0,2026-09,,Active
+NV12618,Sana Gupta,T167,Female,L1 Associate,0,2026-09,,Active
+NV12619,Manoj Agarwal,T168,Male,L1 Associate,0,2026-09,,Active
+NV12620,Arvind Rao,T002,Male,L1 Associate,0,2026-10,,Active
+NV12621,Ishita Joshi,T002,Female,L2 Senior Associate,0,2026-10,,Active
+NV12622,Anjali Kulkarni,T008,Male,L1 Associate,0,2026-10,,Active
+NV12623,Siddharth Menon,T008,Male,L1 Associate,0,2026-10,,Active
+NV12624,Suresh Sharma,T008,Male,L1 Associate,0,2026-10,,Active
+NV12625,Revathi Sharma,T012,Male,L1 Associate,0,2026-10,,Active
+NV12626,Priya Verma,T022,Male,L2 Senior Associate,0,2026-10,,Active
+NV12627,Nandini Sharma,T031,Male,L1 Associate,0,2026-10,,Active
+NV12628,Lakshmi Krishnan,T034,Male,L1 Associate,0,2026-10,,Active
+NV12629,Nikhil Bhat,T034,Male,L1 Associate,0,2026-10,,Active
+NV12630,Lakshmi Rao,T035,Male,L1 Associate,0,2026-10,,Active
+NV12631,Lakshmi Patil,T055,Female,L2 Senior Associate,0,2026-10,,Active
+NV12632,Harini Patil,T057,Male,L1 Associate,0,2026-10,,Active
+NV12633,Siddharth Singh,T063,Female,L1 Associate,0,2026-10,,Active
+NV12634,Sneha Reddy,T065,Female,L1 Associate,0,2026-10,,Active
+NV12635,Prakash Banerjee,T076,Male,L1 Associate,0,2026-10,,Active
+NV12636,Imran Menon,T078,Female,L1 Associate,0,2026-10,,Active
+NV12637,Varun Patil,T084,Female,L1 Associate,0,2026-10,,Active
+NV12638,Anjali Naidu,T084,Male,L1 Associate,0,2026-10,,Active
+NV12639,Naveen Menon,T087,Female,L1 Associate,0,2026-10,,Active
+NV12640,Farah Agarwal,T096,Female,L1 Associate,0,2026-10,,Active
+NV12641,Kunal Bhat,T096,Male,L1 Associate,0,2026-10,,Active
+NV12642,Bhavna Mehta,T099,Male,L2 Senior Associate,0,2026-10,,Active
+NV12643,Vikram Naidu,T106,Male,L2 Senior Associate,0,2026-10,,Active
+NV12644,Bhavna Bhat,T108,Male,L1 Associate,0,2026-10,,Active
+NV12645,Neha Mehta,T109,Female,L1 Associate,0,2026-10,,Active
+NV12646,Deepak Iyer,T109,Female,L1 Associate,0,2026-10,,Active
+NV12647,Rohit Mishra,T117,Female,L1 Associate,0,2026-10,,Active
+NV12648,Bhavna Bhat,T124,Male,L1 Associate,0,2026-10,,Active
+NV12649,Naveen Reddy,T124,Male,L3 Lead,0,2026-10,,Active
+NV12650,Harini Rao,T131,Female,L2 Senior Associate,0,2026-10,,Active
+NV12651,Ritika Sharma,T134,Female,L2 Senior Associate,0,2026-10,,Active
+NV12652,Suresh Deshmukh,T137,Male,L1 Associate,0,2026-10,,Active
+NV12653,Harish Mishra,T140,Female,L1 Associate,0,2026-10,,Active
+NV12654,Nikhil Joshi,T147,Male,L2 Senior Associate,0,2026-10,,Active
+NV12655,Pooja Khan,T157,Male,L2 Senior Associate,0,2026-10,,Active
+NV12656,Anjali Singh,T157,Female,L1 Associate,0,2026-10,,Active
+NV12657,Gayathri Banerjee,T160,Male,L1 Associate,0,2026-10,,Active
+NV12658,Aishwarya Shaikh,T161,Female,L1 Associate,0,2026-10,,Active
+NV12659,Simran Joshi,T167,Female,L2 Senior Associate,0,2026-10,,Active
+NV12660,Rohit Verma,T168,Male,L1 Associate,0,2026-10,,Active
+NV12661,Ajay Pillai,T168,Male,L1 Associate,0,2026-10,,Active
+NV12662,Varun Banerjee,T170,Male,L2 Senior Associate,0,2026-10,,Active
+NV12663,Karthik Verma,T171,Male,L1 Associate,0,2026-10,,Active

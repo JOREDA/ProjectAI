@@ -1,0 +1,349 @@
+review_period,team_id,manager_id,manager_name,department,avg_headcount,reportable_k5,attrition_annualised_pct,avg_complaint_score,complaint_score_change,person_related_complaints_pct,escalations,alarms,sessions_held,actions_agreed,actions_closed_on_time,actions_closed_pct,avg_manager_rating,manager_changed_in_period,team_risk_factor_0_100,review_note
+FY2025-26 (Apr 2025 - Mar 2026),T001,M001,Pooja Kulkarni,Engineering,18,True,11,1.7,-0.5,82,0,0,0,0,0,,3.96,True,55,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T002,M002,Simran Singh,Customer Support,14,True,42,2.0,-0.6,28,1,2,1,4,3,75.0,3.38,False,61,
+FY2025-26 (Apr 2025 - Mar 2026),T003,M003,Suresh Nair,Product,10,True,20,0.8,-2.0,20,0,2,2,6,3,50.0,3.27,False,36,
+FY2025-26 (Apr 2025 - Mar 2026),T004,M004,Sneha Agarwal,Engineering,19,True,21,1.4,-0.2,44,0,2,1,4,3,75.0,3.71,False,55,
+FY2025-26 (Apr 2025 - Mar 2026),T005,M005,Varun Subramanian,Customer Support,9,True,23,1.0,1.8,33,0,2,2,4,3,75.0,3.63,False,52,
+FY2025-26 (Apr 2025 - Mar 2026),T006,M006,Swati Kulkarni,Customer Support,15,True,14,2.4,0.5,32,0,1,1,2,1,50.0,3.64,False,64,
+FY2025-26 (Apr 2025 - Mar 2026),T007,M007,Sanjay Reddy,Engineering,6,True,0,1.7,-2.8,100,1,1,1,2,0,0.0,3.58,False,54,
+FY2025-26 (Apr 2025 - Mar 2026),T008,M008,Siddharth Singh,QA,11,True,27,1.1,1.0,29,0,2,2,5,3,60.0,2.22,False,54,
+FY2025-26 (Apr 2025 - Mar 2026),T009,M009,Aishwarya Mishra,Marketing,14,True,7,1.8,-1.5,20,0,0,0,0,0,,3.39,False,35,
+FY2025-26 (Apr 2025 - Mar 2026),T010,M010,Karthik Kulkarni,Engineering,5,True,0,1.3,-2.7,100,0,0,0,0,0,,3.3,False,32,
+FY2025-26 (Apr 2025 - Mar 2026),T011,M011,Sana Pillai,QA,12,True,8,2.3,-1.4,56,1,0,0,0,0,,3.68,False,50,
+FY2025-26 (Apr 2025 - Mar 2026),T012,M012,Ajay Sharma,Sales,15,True,41,2.9,-1.0,64,0,3,2,6,2,33.0,2.32,False,78,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T013,M013,Imran Banerjee,Engineering,11,True,53,3.4,-1.4,47,4,3,3,7,4,57.0,3.3,False,72,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T014,M014,Aditya Khan,Engineering,10,True,21,1.2,1.0,43,0,2,2,8,2,25.0,2.82,False,63,
+FY2025-26 (Apr 2025 - Mar 2026),T015,M015,Lakshmi Mishra,QA,12,True,0,1.0,0.0,29,0,0,0,0,0,,3.97,False,23,
+FY2025-26 (Apr 2025 - Mar 2026),T016,M016,Ishita Reddy,Operations,21,True,5,1.0,-0.5,42,1,0,0,0,0,,3.84,False,29,
+FY2025-26 (Apr 2025 - Mar 2026),T017,M017,Simran Iyer,Operations,4,False,0,0.8,-1.7,0,0,0,0,0,0,,4.15,False,11,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T018,M018,Naveen Das,Engineering,15,True,20,2.0,-0.7,41,0,2,1,1,1,100.0,4.16,False,55,
+FY2025-26 (Apr 2025 - Mar 2026),T019,M019,Aishwarya Singh,Product,7,True,0,1.4,0.0,40,1,1,1,4,1,25.0,3.75,False,44,
+FY2025-26 (Apr 2025 - Mar 2026),T020,M020,Mohammed Mehta,Engineering,18,True,6,1.4,-1.5,21,0,0,0,0,0,,4.27,False,28,
+FY2025-26 (Apr 2025 - Mar 2026),T021,M021,Rohit Iyer,Customer Support,6,True,52,1.2,-1.1,25,0,2,2,3,1,33.0,2.36,False,55,
+FY2025-26 (Apr 2025 - Mar 2026),T022,M022,Revathi Krishnan,Customer Support,4,False,0,2.5,5.8,60,0,0,0,0,0,,3.83,False,56,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T023,M023,Kunal Khan,Sales,12,True,0,1.3,0.6,71,1,0,0,0,0,,3.94,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T024,M024,Mohammed Bhat,Engineering,12,True,17,1.7,1.4,42,0,1,1,4,2,50.0,3.68,True,66,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T025,M025,Aditya Joshi,Customer Support,20,True,10,2.2,0.8,50,1,0,0,0,0,,3.56,False,59,
+FY2025-26 (Apr 2025 - Mar 2026),T026,M026,Harish Agarwal,Customer Support,13,True,15,0.8,1.0,60,1,0,0,0,0,,3.78,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T027,M027,Simran Banerjee,Customer Support,4,False,96,1.4,1.2,67,0,2,1,3,2,67.0,3.66,False,74,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T028,M028,Meera Reddy,Engineering,8,True,0,0.9,0.0,50,0,0,0,0,0,,4.19,False,28,
+FY2025-26 (Apr 2025 - Mar 2026),T029,M029,Gayathri Bhat,Engineering,9,True,11,1.6,0.0,62,0,1,1,1,1,100.0,3.14,False,53,
+FY2025-26 (Apr 2025 - Mar 2026),T030,M030,Sana Patil,Product,13,True,8,0.8,-0.2,80,0,0,0,0,0,,3.39,False,38,
+FY2025-26 (Apr 2025 - Mar 2026),T031,M031,Nikhil Deshmukh,Engineering,16,True,25,1.7,-0.6,57,0,1,1,2,2,100.0,3.28,False,59,
+FY2025-26 (Apr 2025 - Mar 2026),T032,M032,Gaurav Joshi,Sales,15,True,7,2.0,-1.1,38,1,0,0,0,0,,3.28,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T033,M033,Meera Mehta,Data & Analytics,8,True,13,1.5,1.2,29,0,1,0,0,0,,3.0,False,49,
+FY2025-26 (Apr 2025 - Mar 2026),T034,M034,Meera Chauhan,Operations,12,True,17,1.3,1.4,78,0,0,0,0,0,,4.38,False,59,
+FY2025-26 (Apr 2025 - Mar 2026),T035,M035,Pranav Banerjee,HR,20,True,10,1.6,1.4,47,1,1,1,3,2,67.0,2.95,False,59,
+FY2025-26 (Apr 2025 - Mar 2026),T036,M036,Imran Subramanian,Sales,18,True,0,0.7,-1.1,25,0,0,0,0,0,,4.3,False,13,
+FY2025-26 (Apr 2025 - Mar 2026),T037,M037,Aditya Khan,Engineering,16,True,0,0.9,-0.3,11,0,0,0,0,0,,3.39,False,18,
+FY2025-26 (Apr 2025 - Mar 2026),T038,M038,Gaurav Singh,Finance,13,True,8,1.6,-0.0,43,0,0,0,0,0,,3.52,False,45,
+FY2025-26 (Apr 2025 - Mar 2026),T039,M039,Nandini Kulkarni,QA,9,True,0,1.7,-1.1,71,1,0,0,0,0,,3.42,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T040,M040,Farah Reddy,Engineering,13,True,8,1.5,1.6,27,1,1,1,2,2,100.0,4.13,False,44,
+FY2025-26 (Apr 2025 - Mar 2026),T041,M041,Rohit Reddy,Customer Support,12,True,8,1.2,-0.3,20,0,0,0,0,0,,2.9,False,31,
+FY2025-26 (Apr 2025 - Mar 2026),T042,M042,Kunal Joshi,Customer Support,7,True,29,1.9,-0.5,38,0,2,2,2,1,50.0,3.41,False,64,
+FY2025-26 (Apr 2025 - Mar 2026),T043,M043,Nandini Mehta,HR,10,True,10,1.1,0.3,43,0,1,1,1,1,100.0,3.88,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T044,M044,Kunal Shaikh,HR,13,True,8,1.3,-0.5,50,0,0,0,0,0,,3.63,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T045,M045,Ananya Nair,Customer Support,6,True,47,1.4,1.2,80,0,2,2,3,2,67.0,2.96,False,74,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T046,M046,Revathi Agarwal,Engineering,12,True,17,0.8,-0.6,33,0,1,1,4,2,50.0,3.72,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T047,M047,Rohit Chauhan,Finance,9,True,11,1.1,-1.5,67,0,1,1,2,1,50.0,3.3,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T048,M048,Deepak Pillai,Customer Support,5,True,0,1.5,-0.7,40,0,0,0,0,0,,3.22,False,31,
+FY2025-26 (Apr 2025 - Mar 2026),T049,M049,Jyoti Mishra,Marketing,12,True,17,2.1,0.8,40,0,1,1,3,3,100.0,4.14,False,60,
+FY2025-26 (Apr 2025 - Mar 2026),T050,M050,Jyoti Reddy,Operations,10,True,0,1.1,0.6,50,0,1,1,2,2,100.0,4.04,False,33,
+FY2025-26 (Apr 2025 - Mar 2026),T051,M051,Farah Naidu,Engineering,16,True,0,1.0,0.0,33,0,0,0,0,0,,3.85,False,24,
+FY2025-26 (Apr 2025 - Mar 2026),T052,M052,Deepa Mehta,Customer Support,4,False,0,0.6,0.0,0,0,0,0,0,0,,4.31,False,15,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T053,M053,Aditya Reddy,Finance,11,True,0,0.6,-0.3,50,0,0,0,0,0,,4.27,False,23,
+FY2025-26 (Apr 2025 - Mar 2026),T054,M054,Prakash Das,Finance,11,True,0,1.2,0.3,44,0,0,0,0,0,,3.44,False,33,
+FY2025-26 (Apr 2025 - Mar 2026),T055,M055,Rahul Khan,Operations,9,True,11,1.2,2.1,33,0,1,1,4,4,100.0,3.51,False,45,
+FY2025-26 (Apr 2025 - Mar 2026),T056,M056,Nikhil Khan,QA,16,True,19,0.9,-0.5,88,0,1,1,2,2,100.0,3.55,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T057,M057,Ishita Sharma,Engineering,11,True,0,1.2,-2.1,38,0,0,0,0,0,,3.98,False,22,
+FY2025-26 (Apr 2025 - Mar 2026),T058,M058,Naveen Rao,Data & Analytics,10,True,31,1.4,-2.1,25,0,3,1,3,2,67.0,2.71,False,48,
+FY2025-26 (Apr 2025 - Mar 2026),T059,M059,Deepa Agarwal,QA,4,False,25,3.8,-1.7,9,0,0,0,0,0,,3.41,True,52,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T060,M060,Pranav Kulkarni,Customer Support,3,False,0,2.0,3.3,67,0,0,0,0,0,,3.49,False,54,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T061,M061,Neha Mehta,Marketing,12,True,0,1.0,0.8,0,0,0,0,0,0,,3.77,False,23,
+FY2025-26 (Apr 2025 - Mar 2026),T062,M062,Ajay Iyer,QA,18,True,11,0.8,-0.0,50,0,1,1,4,2,50.0,3.65,True,46,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T063,M063,Aditya Chauhan,Data & Analytics,17,True,0,1.4,-2.4,40,0,0,0,0,0,,4.25,False,26,
+FY2025-26 (Apr 2025 - Mar 2026),T064,M064,Gayathri Rao,Engineering,3,False,0,1.1,0.0,0,0,0,0,0,0,,3.97,False,22,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T065,M065,Nandini Deshmukh,Engineering,17,True,24,2.1,-0.0,26,0,3,3,7,3,43.0,3.1,False,65,
+FY2025-26 (Apr 2025 - Mar 2026),T066,M066,Simran Bhat,Finance,8,True,13,1.1,-0.4,0,0,1,1,4,2,50.0,3.93,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T067,M067,Priya Patil,Engineering,11,True,9,1.0,-0.9,43,0,0,0,0,0,,3.16,False,32,
+FY2025-26 (Apr 2025 - Mar 2026),T068,M068,Gayathri Pillai,Customer Support,16,True,19,1.5,-0.9,21,1,1,1,3,2,67.0,3.58,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T069,M069,Neha Nair,Customer Support,15,True,0,1.0,0.2,67,0,0,0,0,0,,3.41,False,33,
+FY2025-26 (Apr 2025 - Mar 2026),T070,M070,Nikhil Verma,Sales,11,True,0,1.9,-0.3,46,0,0,0,0,0,,3.99,True,41,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T071,M071,Kunal Iyer,Sales,13,True,24,2.7,1.2,69,0,2,2,3,1,33.0,2.33,False,84,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T072,M072,Imran Naidu,Operations,16,True,36,1.5,2.3,36,0,2,2,6,3,50.0,2.72,False,70,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T073,M073,Sneha Pillai,Finance,9,True,11,0.8,-0.4,0,0,1,0,0,0,,3.8,False,27,
+FY2025-26 (Apr 2025 - Mar 2026),T074,M074,Nandini Mishra,Engineering,13,True,8,0.9,1.0,25,0,0,0,0,0,,3.74,False,32,
+FY2025-26 (Apr 2025 - Mar 2026),T075,M075,Anjali Reddy,Customer Support,3,False,33,1.7,-2.2,33,0,0,0,0,0,,3.93,False,50,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T076,M076,Harish Reddy,Product,8,True,0,1.4,1.1,71,0,0,0,0,0,,3.31,False,44,
+FY2025-26 (Apr 2025 - Mar 2026),T077,M077,Aditya Singh,Customer Support,7,True,43,0.6,-1.4,33,0,2,2,7,7,100.0,3.2,False,37,
+FY2025-26 (Apr 2025 - Mar 2026),T078,M078,Rohit Singh,Finance,15,True,7,2.0,-0.4,39,0,0,0,0,0,,4.06,True,44,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T079,M079,Mohammed Nair,Engineering,13,True,8,0.5,-0.6,20,0,0,0,0,0,,3.87,False,20,
+FY2025-26 (Apr 2025 - Mar 2026),T080,M080,Farah Sharma,Sales,9,True,11,0.8,0.4,100,1,1,1,2,2,100.0,3.9,False,45,
+FY2025-26 (Apr 2025 - Mar 2026),T081,M081,Suresh Khan,Sales,14,True,14,1.6,-1.1,45,2,1,1,2,2,100.0,4.15,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T082,M082,Sneha Naidu,Operations,12,True,33,2.2,1.8,44,0,1,1,1,1,100.0,3.67,False,70,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T083,M083,Prakash Shaikh,Engineering,5,True,20,1.5,-4.0,50,0,2,2,6,4,67.0,2.9,False,52,
+FY2025-26 (Apr 2025 - Mar 2026),T084,M084,Neha Gupta,Engineering,17,True,35,2.3,2.4,45,1,3,3,7,5,71.0,2.5,False,78,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T085,M085,Meera Deshmukh,Engineering,10,True,0,1.2,-0.7,25,0,0,0,0,0,,3.39,False,22,
+FY2025-26 (Apr 2025 - Mar 2026),T086,M086,Vikram Kulkarni,Customer Support,13,True,31,2.2,-0.0,41,0,0,0,0,0,,2.98,True,63,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T087,M087,Ravi Khan,Operations,10,True,10,1.5,2.7,33,0,1,1,2,2,100.0,4.25,False,49,
+FY2025-26 (Apr 2025 - Mar 2026),T088,M088,Abhishek Joshi,Engineering,12,True,0,1.1,-2.2,71,1,0,0,0,0,,4.62,True,28,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T089,M089,Ananya Sharma,Product,12,True,0,1.5,-1.4,75,1,0,0,0,0,,3.75,False,37,
+FY2025-26 (Apr 2025 - Mar 2026),T090,M090,Imran Shaikh,Finance,14,True,35,0.8,0.4,33,0,1,1,4,3,75.0,3.92,True,49,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T091,M091,Priya Sharma,Marketing,8,True,12,0.6,-0.4,50,0,1,1,2,2,100.0,4.37,False,35,
+FY2025-26 (Apr 2025 - Mar 2026),T092,M092,Meera Patil,Data & Analytics,8,True,0,2.0,0.9,44,0,1,1,1,1,100.0,4.21,False,46,
+FY2025-26 (Apr 2025 - Mar 2026),T093,M093,Suresh Subramanian,Sales,12,True,0,1.7,-0.1,50,2,0,0,0,0,,4.51,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T094,M094,Pooja Patil,Engineering,14,True,7,1.2,2.0,36,0,0,0,0,0,,4.35,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T095,M095,Manoj Deshmukh,Engineering,7,True,44,1.5,-0.5,67,0,2,2,4,3,75.0,4.11,False,65,
+FY2025-26 (Apr 2025 - Mar 2026),T096,M096,Ishita Menon,Engineering,22,True,9,1.3,0.6,41,0,0,0,0,0,,3.18,False,43,
+FY2025-26 (Apr 2025 - Mar 2026),T097,M097,Anjali Iyer,Engineering,16,True,13,1.1,-0.6,30,1,1,1,2,2,100.0,4.22,False,35,
+FY2025-26 (Apr 2025 - Mar 2026),T098,M098,Rohit Shaikh,Engineering,16,True,0,1.2,1.0,67,1,0,0,0,0,,4.04,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T099,M099,Manoj Verma,Sales,15,True,7,1.7,0.2,12,0,0,0,0,0,,3.63,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T100,M100,Ashwin Banerjee,Engineering,16,True,6,1.0,0.2,30,0,0,0,0,0,,4.18,False,29,
+FY2025-26 (Apr 2025 - Mar 2026),T101,M101,Siddharth Sharma,Customer Support,7,True,0,2.2,1.0,12,0,1,1,1,1,100.0,3.9,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T102,M102,Sanjay Patil,Engineering,8,True,0,1.3,0.4,33,1,0,0,0,0,,3.72,False,31,
+FY2025-26 (Apr 2025 - Mar 2026),T103,M103,Bhavna Bhat,Operations,7,True,0,1.8,3.8,50,2,1,1,3,1,33.0,3.73,False,59,
+FY2025-26 (Apr 2025 - Mar 2026),T104,M104,Abhishek Mishra,Sales,12,True,0,1.3,0.3,56,0,0,0,0,0,,4.13,False,37,
+FY2025-26 (Apr 2025 - Mar 2026),T105,M105,Swati Khan,Engineering,12,True,57,1.4,2.3,33,1,3,3,11,10,91.0,3.18,False,63,
+FY2025-26 (Apr 2025 - Mar 2026),T106,M106,Meera Menon,Customer Support,10,True,59,3.3,0.6,53,0,4,4,9,6,67.0,3.77,True,81,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T107,M107,Deepa Menon,Engineering,12,True,0,1.3,0.6,60,0,0,0,0,0,,3.96,False,39,
+FY2025-26 (Apr 2025 - Mar 2026),T108,M108,Kavya Menon,Sales,3,False,0,0.8,-3.3,0,0,0,0,0,0,,3.05,False,9,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T109,M109,Harini Patil,Engineering,14,True,0,1.7,0.7,77,0,0,0,0,0,,3.89,True,48,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T110,M110,Shalini Iyer,Engineering,13,True,8,1.7,-0.3,42,1,0,0,0,0,,3.71,False,45,
+FY2025-26 (Apr 2025 - Mar 2026),T111,M111,Shalini Das,Product,10,True,10,1.6,1.0,22,0,1,1,2,0,0.0,4.03,True,60,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T112,M112,Nandini Iyer,Engineering,13,True,15,1.2,0.5,44,0,1,0,0,0,,3.43,False,48,
+FY2025-26 (Apr 2025 - Mar 2026),T113,M113,Karthik Subramanian,Engineering,4,False,0,0.6,-2.5,50,0,0,0,0,0,,3.81,False,17,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T114,M114,Swati Rao,Customer Support,4,False,51,3.8,1.9,22,0,0,0,0,0,,2.92,False,69,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T115,M115,Varun Singh,Customer Support,7,True,14,1.1,-1.4,0,0,1,1,2,2,100.0,3.65,True,30,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T116,M116,Mohammed Verma,Operations,6,True,0,1.0,-1.1,33,0,0,0,0,0,,3.33,False,19,
+FY2025-26 (Apr 2025 - Mar 2026),T117,M117,Shalini Chauhan,Engineering,11,True,53,3.0,-3.3,48,0,3,3,6,4,67.0,3.41,False,68,
+FY2025-26 (Apr 2025 - Mar 2026),T118,M118,Suresh Chauhan,Product,10,True,10,0.5,-0.7,33,0,1,1,1,1,100.0,4.45,False,25,
+FY2025-26 (Apr 2025 - Mar 2026),T119,M119,Divya Reddy,Customer Support,10,True,10,1.6,0.4,30,0,1,0,0,0,,4.05,False,45,
+FY2025-26 (Apr 2025 - Mar 2026),T120,M120,Imran Kulkarni,QA,17,True,18,0.8,-0.8,57,0,1,1,1,1,100.0,4.14,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T121,M121,Priya Reddy,Sales,7,True,14,0.8,1.4,50,0,1,1,2,0,0.0,3.61,False,61,
+FY2025-26 (Apr 2025 - Mar 2026),T122,M122,Suresh Singh,Operations,9,True,11,0.8,-0.7,25,0,1,1,1,0,0.0,3.66,False,42,
+FY2025-26 (Apr 2025 - Mar 2026),T123,M123,Ravi Mishra,Operations,15,True,13,1.4,-0.8,33,0,0,0,0,0,,4.14,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T124,M124,Gayathri Nair,Customer Support,10,True,53,2.5,-1.9,67,0,4,2,6,4,67.0,3.13,False,72,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T125,M125,Jyoti Singh,Customer Support,15,True,20,1.0,-0.9,20,0,1,1,1,1,100.0,3.7,False,34,
+FY2025-26 (Apr 2025 - Mar 2026),T126,M126,Kunal Singh,Operations,6,True,0,0.8,0.0,100,0,0,0,0,0,,4.04,False,32,
+FY2025-26 (Apr 2025 - Mar 2026),T127,M127,Harish Nair,Sales,10,True,10,2.2,1.3,46,0,1,1,3,2,67.0,3.84,True,64,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T128,M128,Ajay Mishra,Operations,13,True,0,1.3,1.0,60,1,0,0,0,0,,3.7,False,41,
+FY2025-26 (Apr 2025 - Mar 2026),T129,M129,Gayathri Pillai,Marketing,16,True,96,2.4,-3.1,41,0,4,4,9,5,56.0,2.72,False,68,
+FY2025-26 (Apr 2025 - Mar 2026),T130,M130,Shalini Shaikh,Sales,12,True,8,1.7,-0.8,73,0,0,0,0,0,,4.26,False,49,
+FY2025-26 (Apr 2025 - Mar 2026),T131,M131,Arvind Banerjee,Customer Support,14,True,29,1.8,-1.0,20,0,1,0,0,0,,3.38,False,50,
+FY2025-26 (Apr 2025 - Mar 2026),T132,M132,Farah Bhat,Customer Support,3,False,34,1.4,-3.3,50,0,0,0,0,0,,2.79,False,50,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T133,M133,Siddharth Pillai,Engineering,12,True,17,0.4,-0.3,67,0,0,0,0,0,,4.19,False,40,
+FY2025-26 (Apr 2025 - Mar 2026),T134,M134,Siddharth Joshi,Customer Support,11,True,47,1.7,0.3,36,0,2,2,3,0,0.0,3.55,False,76,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T135,M135,Suresh Deshmukh,Operations,18,True,34,1.2,0.5,54,0,2,2,3,1,33.0,3.35,True,68,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T136,M136,Nikhil Krishnan,Data & Analytics,4,False,0,1.2,-1.7,33,0,0,0,0,0,,2.95,False,22,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T137,M137,Deepak Mishra,Engineering,4,False,0,0.8,-1.7,50,0,0,0,0,0,,3.77,False,20,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T138,M138,Aishwarya Menon,Engineering,5,True,0,2.2,4.7,57,0,1,1,3,3,100.0,3.89,False,54,
+FY2025-26 (Apr 2025 - Mar 2026),T139,M139,Pooja Menon,Finance,10,True,0,1.2,-2.3,67,0,1,1,4,3,75.0,3.76,False,33,
+FY2025-26 (Apr 2025 - Mar 2026),T140,M140,Neha Krishnan,Operations,21,True,15,1.1,-1.3,27,0,1,1,2,2,100.0,3.82,False,33,
+FY2025-26 (Apr 2025 - Mar 2026),T141,M141,Bhavna Singh,Customer Support,15,True,13,1.8,1.3,41,0,1,1,3,1,33.0,3.06,False,67,
+FY2025-26 (Apr 2025 - Mar 2026),T142,M142,Manoj Rao,Data & Analytics,21,True,9,1.3,-0.1,38,1,0,0,0,0,,4.11,False,39,
+FY2025-26 (Apr 2025 - Mar 2026),T143,M143,Ritika Menon,Data & Analytics,11,True,0,0.8,0.0,100,1,0,0,0,0,,4.31,False,32,
+FY2025-26 (Apr 2025 - Mar 2026),T144,M144,Gayathri Menon,Sales,11,True,18,1.9,0.1,31,0,2,1,3,3,100.0,4.11,False,54,
+FY2025-26 (Apr 2025 - Mar 2026),T145,M145,Prakash Subramanian,Product,3,False,34,1.1,-2.2,0,0,0,0,0,0,,2.2,False,36,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T146,M146,Ashwin Bhat,Engineering,4,False,0,1.7,3.3,50,0,0,0,0,0,,3.09,False,48,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T147,M147,Karthik Krishnan,Operations,18,True,28,1.5,1.1,60,1,2,2,7,4,57.0,3.05,False,70,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T148,M148,Abhishek Agarwal,Customer Support,17,True,18,1.2,1.8,23,0,0,0,0,0,,3.97,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T149,M149,Siddharth Mehta,Data & Analytics,10,True,31,1.6,2.0,44,0,3,3,9,3,33.0,2.48,False,74,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T150,M150,Lakshmi Kulkarni,Engineering,5,False,21,2.0,0.7,40,1,1,1,1,1,100.0,4.1,False,61,"Team under 5 people - roll up to department, do not use"
+FY2025-26 (Apr 2025 - Mar 2026),T151,M151,Simran Khan,HR,13,True,8,1.9,-3.6,58,1,0,0,0,0,,4.11,False,44,
+FY2025-26 (Apr 2025 - Mar 2026),T152,M152,Rohit Iyer,Engineering,16,True,6,1.2,-0.3,64,0,0,0,0,0,,3.09,False,39,
+FY2025-26 (Apr 2025 - Mar 2026),T153,M153,Vikram Agarwal,Engineering,9,True,21,1.6,-0.5,50,0,3,1,4,2,50.0,4.06,False,62,
+FY2025-26 (Apr 2025 - Mar 2026),T154,M154,Karthik Kulkarni,Engineering,16,True,0,0.5,-0.9,40,0,0,0,0,0,,3.53,False,16,
+FY2025-26 (Apr 2025 - Mar 2026),T155,M155,Meera Nair,Product,15,True,0,1.0,0.0,40,0,0,0,0,0,,3.35,False,26,
+FY2025-26 (Apr 2025 - Mar 2026),T156,M156,Swati Joshi,HR,8,True,12,1.6,2.5,71,1,2,1,2,2,100.0,3.89,False,62,
+FY2025-26 (Apr 2025 - Mar 2026),T157,M157,Suresh Khan,Engineering,15,True,13,2.0,-2.0,62,0,1,1,4,1,25.0,3.74,False,64,
+FY2025-26 (Apr 2025 - Mar 2026),T158,M158,Sana Pillai,Operations,9,True,34,1.3,1.2,29,0,2,2,6,4,67.0,3.07,False,59,
+FY2025-26 (Apr 2025 - Mar 2026),T159,M159,Nikhil Mishra,QA,13,True,0,2.2,-0.8,40,1,1,1,4,3,75.0,4.06,False,42,
+FY2025-26 (Apr 2025 - Mar 2026),T160,M160,Priya Iyer,Product,16,True,0,0.7,0.8,14,0,0,0,0,0,,4.33,False,19,
+FY2025-26 (Apr 2025 - Mar 2026),T161,M161,Nikhil Pillai,Customer Support,12,True,25,2.0,-0.6,33,0,1,1,4,1,25.0,3.12,False,66,
+FY2025-26 (Apr 2025 - Mar 2026),T162,M162,Revathi Iyer,Finance,9,True,58,2.7,0.6,54,0,4,2,6,5,83.0,2.47,True,78,Manager changed - share the period between managers
+FY2025-26 (Apr 2025 - Mar 2026),T163,M163,Shalini Nair,Sales,9,True,0,1.5,-1.5,57,0,0,0,0,0,,4.16,False,34,
+FY2025-26 (Apr 2025 - Mar 2026),T164,M164,Harish Bhat,Marketing,7,True,29,2.1,-0.2,44,0,2,2,3,1,33.0,2.86,False,72,Discuss in year-end review
+FY2025-26 (Apr 2025 - Mar 2026),T165,M165,Ashwin Kulkarni,Engineering,15,True,7,1.5,-0.3,58,0,0,0,0,0,,4.33,False,45,
+FY2025-26 (Apr 2025 - Mar 2026),T166,M166,Divya Sharma,Engineering,12,True,0,0.7,-1.4,17,0,0,0,0,0,,4.14,False,11,
+FY2025-26 (Apr 2025 - Mar 2026),T167,M167,Jyoti Deshmukh,QA,10,True,10,1.7,1.0,23,0,1,1,1,1,100.0,4.14,False,47,
+FY2025-26 (Apr 2025 - Mar 2026),T168,M168,Sneha Pillai,QA,18,True,34,1.1,-1.5,18,0,3,3,8,5,62.0,2.98,False,44,
+FY2025-26 (Apr 2025 - Mar 2026),T169,M169,Karthik Verma,Customer Support,13,True,15,0.8,2.0,67,1,0,0,0,0,,3.46,False,50,
+FY2025-26 (Apr 2025 - Mar 2026),T170,M170,Aishwarya Kulkarni,Customer Support,14,True,22,0.7,-0.2,33,0,0,0,0,0,,4.07,False,37,
+FY2025-26 (Apr 2025 - Mar 2026),T171,M171,Mohammed Agarwal,Engineering,16,True,0,0.4,0.2,50,0,0,0,0,0,,4.05,False,24,
+FY2025-26 (Apr 2025 - Mar 2026),T172,M172,Nikhil Rao,Operations,7,True,0,0.5,0.0,50,0,0,0,0,0,,3.85,False,24,
+FY2025-26 (Apr 2025 - Mar 2026),T173,M173,Naveen Banerjee,Engineering,14,True,0,0.7,-1.0,50,0,0,0,0,0,,3.47,False,21,
+FY2025-26 (Apr 2025 - Mar 2026),T174,M174,Varun Nair,Engineering,10,True,21,1.1,0.7,43,0,2,2,2,1,50.0,3.44,False,57,
+FY2026-27 to date (Apr - Oct 2026),T001,M001,Pooja Kulkarni,Engineering,18,True,10,2.2,-0.3,14,0,1,1,2,2,100.0,3.91,True,35,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T002,M002,Simran Singh,Customer Support,14,True,38,2.9,1.3,42,1,1,1,3,0,0.0,3.23,True,79,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T003,M003,Suresh Nair,Product,10,True,34,2.7,2.0,33,0,2,2,7,6,86.0,3.24,False,64,
+FY2026-27 to date (Apr - Oct 2026),T004,M004,Sneha Agarwal,Engineering,19,True,27,2.0,-0.4,36,0,1,1,1,1,100.0,3.47,False,47,
+FY2026-27 to date (Apr - Oct 2026),T005,M005,Varun Subramanian,Customer Support,9,True,0,1.6,0.0,20,0,0,0,0,0,,3.64,False,26,
+FY2026-27 to date (Apr - Oct 2026),T006,M006,Swati Kulkarni,Customer Support,14,True,12,2.6,-0.4,46,0,0,0,0,0,,3.85,False,47,
+FY2026-27 to date (Apr - Oct 2026),T007,M007,Sanjay Reddy,Engineering,6,True,29,3.3,1.1,50,0,1,1,2,1,50.0,3.57,False,73,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T008,M008,Siddharth Singh,QA,11,True,114,0.8,-0.1,33,0,2,2,7,2,29.0,2.4,False,56,
+FY2026-27 to date (Apr - Oct 2026),T009,M009,Aishwarya Mishra,Marketing,13,True,13,1.4,-2.8,33,0,0,0,0,0,,3.6,False,28,
+FY2026-27 to date (Apr - Oct 2026),T010,M010,Karthik Kulkarni,Engineering,5,True,0,2.3,-4.0,75,0,1,1,2,2,100.0,3.51,False,36,
+FY2026-27 to date (Apr - Oct 2026),T011,M011,Sana Pillai,QA,12,True,14,2.5,-2.2,22,1,0,0,0,0,,3.77,False,38,
+FY2026-27 to date (Apr - Oct 2026),T012,M012,Ajay Sharma,Sales,15,True,23,1.6,-1.3,62,0,1,1,3,1,33.0,2.51,False,53,
+FY2026-27 to date (Apr - Oct 2026),T013,M013,Imran Banerjee,Engineering,12,True,15,5.7,3.3,27,4,2,1,1,1,100.0,3.26,False,60,
+FY2026-27 to date (Apr - Oct 2026),T014,M014,Aditya Khan,Engineering,10,True,0,1.4,0.0,80,0,0,0,0,0,,2.73,False,34,
+FY2026-27 to date (Apr - Oct 2026),T015,M015,Lakshmi Mishra,QA,12,True,14,1.9,1.7,50,0,0,0,0,0,,4.13,False,51,
+FY2026-27 to date (Apr - Oct 2026),T016,M016,Ishita Reddy,Operations,21,True,0,1.1,-1.0,38,0,0,0,0,0,,3.98,False,22,
+FY2026-27 to date (Apr - Oct 2026),T017,M017,Simran Iyer,Operations,4,False,0,1.4,-3.3,0,0,0,0,0,0,,3.55,True,13,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T018,M018,Naveen Das,Engineering,14,True,24,1.8,0.8,22,0,1,1,4,3,75.0,4.25,False,48,
+FY2026-27 to date (Apr - Oct 2026),T019,M019,Aishwarya Singh,Product,7,True,0,1.4,0.0,25,0,0,0,0,0,,3.84,False,25,
+FY2026-27 to date (Apr - Oct 2026),T020,M020,Mohammed Mehta,Engineering,18,True,19,2.1,-1.5,8,0,1,1,1,1,100.0,4.57,False,35,
+FY2026-27 to date (Apr - Oct 2026),T021,M021,Rohit Iyer,Customer Support,6,True,31,3.6,0.9,50,1,2,2,7,5,71.0,2.5,False,70,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T022,M022,Revathi Krishnan,Customer Support,4,False,43,1.1,-2.5,0,0,0,0,0,0,,3.67,False,29,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T023,M023,Kunal Khan,Sales,12,True,14,1.8,-0.8,11,0,0,0,0,0,,4.0,False,32,
+FY2026-27 to date (Apr - Oct 2026),T024,M024,Mohammed Bhat,Engineering,11,True,30,1.6,0.8,83,0,1,1,2,2,100.0,2.9,True,54,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T025,M025,Aditya Joshi,Customer Support,20,True,0,2.2,-0.8,47,0,0,0,0,0,,3.69,False,36,
+FY2026-27 to date (Apr - Oct 2026),T026,M026,Harish Agarwal,Customer Support,13,True,0,2.7,1.3,70,0,1,1,4,4,100.0,3.64,False,51,
+FY2026-27 to date (Apr - Oct 2026),T027,M027,Simran Banerjee,Customer Support,5,False,0,2.6,3.2,0,0,1,1,4,4,100.0,3.61,False,40,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T028,M028,Meera Reddy,Engineering,8,True,0,3.2,0.8,33,0,1,0,0,0,,4.27,False,46,
+FY2026-27 to date (Apr - Oct 2026),T029,M029,Gayathri Bhat,Engineering,9,True,0,0.9,-1.5,100,0,0,0,0,0,,3.03,False,25,
+FY2026-27 to date (Apr - Oct 2026),T030,M030,Sana Patil,Product,13,True,0,2.3,-2.9,60,0,1,1,2,1,50.0,3.52,False,43,
+FY2026-27 to date (Apr - Oct 2026),T031,M031,Nikhil Deshmukh,Engineering,16,True,54,2.0,2.7,27,0,2,1,3,2,67.0,3.51,False,65,
+FY2026-27 to date (Apr - Oct 2026),T032,M032,Gaurav Joshi,Sales,15,True,34,1.6,-1.6,33,0,1,1,2,1,50.0,3.29,False,47,
+FY2026-27 to date (Apr - Oct 2026),T033,M033,Meera Mehta,Data & Analytics,8,True,86,2.1,-0.8,33,0,2,2,5,3,60.0,3.01,False,61,
+FY2026-27 to date (Apr - Oct 2026),T034,M034,Meera Chauhan,Operations,12,True,30,1.5,-1.7,17,0,1,1,4,4,100.0,4.27,False,33,
+FY2026-27 to date (Apr - Oct 2026),T035,M035,Pranav Banerjee,HR,19,True,18,2.2,1.2,38,1,0,0,0,0,,3.1,False,51,
+FY2026-27 to date (Apr - Oct 2026),T036,M036,Imran Subramanian,Sales,18,True,0,1.2,-0.6,25,0,0,0,0,0,,4.3,False,20,
+FY2026-27 to date (Apr - Oct 2026),T037,M037,Aditya Khan,Engineering,15,True,44,2.4,-1.2,50,0,1,1,4,4,100.0,3.41,False,56,
+FY2026-27 to date (Apr - Oct 2026),T038,M038,Gaurav Singh,Finance,13,True,13,0.6,0.0,67,0,0,0,0,0,,3.64,False,34,
+FY2026-27 to date (Apr - Oct 2026),T039,M039,Nandini Kulkarni,QA,9,True,100,2.1,-0.1,40,1,2,2,5,2,40.0,3.67,True,69,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T040,M040,Farah Reddy,Engineering,13,True,13,1.5,0.0,0,0,0,0,0,0,,4.2,False,29,
+FY2026-27 to date (Apr - Oct 2026),T041,M041,Rohit Reddy,Customer Support,12,True,73,1.9,0.6,38,0,2,2,8,6,75.0,2.88,False,64,
+FY2026-27 to date (Apr - Oct 2026),T042,M042,Kunal Joshi,Customer Support,7,True,0,1.8,0.5,75,1,1,0,0,0,,3.19,False,41,
+FY2026-27 to date (Apr - Oct 2026),T043,M043,Nandini Mehta,HR,10,True,0,1.7,-0.7,40,1,0,0,0,0,,3.66,True,31,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T044,M044,Kunal Shaikh,HR,13,True,0,2.5,-1.8,27,0,0,0,0,0,,3.52,False,32,
+FY2026-27 to date (Apr - Oct 2026),T045,M045,Ananya Nair,Customer Support,6,True,0,1.8,-2.4,50,0,0,0,0,0,,3.08,False,30,
+FY2026-27 to date (Apr - Oct 2026),T046,M046,Revathi Agarwal,Engineering,12,True,58,2.9,-1.6,33,0,1,1,4,2,50.0,3.75,False,65,
+FY2026-27 to date (Apr - Oct 2026),T047,M047,Rohit Chauhan,Finance,9,True,0,1.7,1.9,33,0,0,0,0,0,,3.32,False,37,
+FY2026-27 to date (Apr - Oct 2026),T048,M048,Deepak Pillai,Customer Support,5,True,0,1.4,-3.3,50,0,0,0,0,0,,3.42,False,24,
+FY2026-27 to date (Apr - Oct 2026),T049,M049,Jyoti Mishra,Marketing,11,True,15,0.9,-0.8,50,0,0,0,0,0,,4.03,False,33,
+FY2026-27 to date (Apr - Oct 2026),T050,M050,Jyoti Reddy,Operations,10,True,52,1.7,-0.7,33,0,2,1,2,2,100.0,3.4,True,48,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T051,M051,Farah Naidu,Engineering,15,True,23,1.4,0.5,25,0,1,0,0,0,,3.9,True,39,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T052,M052,Deepa Mehta,Customer Support,4,False,43,1.4,1.7,0,0,0,0,0,0,,4.17,False,43,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T053,M053,Aditya Reddy,Finance,11,True,0,0.9,-1.5,25,0,0,0,0,0,,3.95,False,16,
+FY2026-27 to date (Apr - Oct 2026),T054,M054,Prakash Das,Finance,11,True,32,2.6,3.9,22,1,2,1,1,1,100.0,3.52,False,59,
+FY2026-27 to date (Apr - Oct 2026),T055,M055,Rahul Khan,Operations,9,True,19,2.5,1.7,43,0,1,1,3,3,100.0,2.98,True,57,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T056,M056,Nikhil Khan,QA,16,True,0,2.1,-1.1,36,0,0,0,0,0,,3.65,False,32,
+FY2026-27 to date (Apr - Oct 2026),T057,M057,Ishita Sharma,Engineering,11,True,64,1.0,-0.6,0,0,1,1,2,2,100.0,3.29,True,36,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T058,M058,Naveen Rao,Data & Analytics,10,True,18,2.7,0.1,50,0,2,2,7,6,86.0,2.57,False,57,
+FY2026-27 to date (Apr - Oct 2026),T059,M059,Deepa Agarwal,QA,4,False,133,4.9,0.3,0,0,0,0,0,0,,3.54,False,64,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T060,M060,Pranav Kulkarni,Customer Support,3,False,57,1.9,-3.3,100,0,0,0,0,0,,3.29,True,54,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T061,M061,Neha Mehta,Marketing,12,True,0,1.1,-1.4,0,0,0,0,0,0,,3.94,False,13,
+FY2026-27 to date (Apr - Oct 2026),T062,M062,Ajay Iyer,QA,18,True,49,2.1,-2.2,14,0,1,1,3,1,33.0,4.33,True,53,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T063,M063,Aditya Chauhan,Data & Analytics,17,True,31,2.2,-0.0,23,0,1,1,1,1,100.0,3.69,True,47,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T064,M064,Gayathri Rao,Engineering,3,False,126,1.9,-4.4,100,1,0,0,0,0,,4.08,False,58,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T065,M065,Nandini Deshmukh,Engineering,17,True,41,1.3,1.4,25,0,2,2,2,1,50.0,2.86,False,52,
+FY2026-27 to date (Apr - Oct 2026),T066,M066,Simran Bhat,Finance,8,True,0,1.6,-0.8,0,0,0,0,0,0,,3.87,False,20,
+FY2026-27 to date (Apr - Oct 2026),T067,M067,Priya Patil,Engineering,10,True,124,2.9,1.7,50,2,2,2,8,5,62.0,3.06,False,81,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T068,M068,Gayathri Pillai,Customer Support,16,True,44,1.2,0.2,50,0,2,2,2,1,50.0,3.62,True,56,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T069,M069,Neha Nair,Customer Support,15,True,23,2.1,-2.5,40,0,1,1,1,1,100.0,3.44,False,43,
+FY2026-27 to date (Apr - Oct 2026),T070,M070,Nikhil Verma,Sales,11,True,0,1.0,0.0,25,0,0,0,0,0,,4.08,False,21,
+FY2026-27 to date (Apr - Oct 2026),T071,M071,Kunal Iyer,Sales,12,True,71,1.2,1.4,40,0,2,2,8,4,50.0,2.16,False,61,
+FY2026-27 to date (Apr - Oct 2026),T072,M072,Imran Naidu,Operations,17,True,52,0.6,0.6,0,0,2,1,2,1,50.0,3.21,True,45,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T073,M073,Sneha Pillai,Finance,9,True,0,1.0,0.0,0,0,0,0,0,0,,3.8,False,17,
+FY2026-27 to date (Apr - Oct 2026),T074,M074,Nandini Mishra,Engineering,13,True,13,3.4,-1.4,33,0,1,0,0,0,,3.83,False,46,
+FY2026-27 to date (Apr - Oct 2026),T075,M075,Anjali Reddy,Customer Support,3,False,0,2.4,1.1,0,0,0,0,0,0,,3.89,False,35,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T076,M076,Harish Reddy,Product,8,True,43,2.0,2.1,17,0,2,2,2,1,50.0,3.34,False,61,
+FY2026-27 to date (Apr - Oct 2026),T077,M077,Aditya Singh,Customer Support,7,True,0,1.4,0.5,25,0,0,0,0,0,,3.16,False,27,
+FY2026-27 to date (Apr - Oct 2026),T078,M078,Rohit Singh,Finance,15,True,35,3.2,2.1,41,0,1,1,2,2,100.0,4.15,False,67,
+FY2026-27 to date (Apr - Oct 2026),T079,M079,Mohammed Nair,Engineering,13,True,13,1.9,-0.3,25,1,0,0,0,0,,3.96,False,37,
+FY2026-27 to date (Apr - Oct 2026),T080,M080,Farah Sharma,Sales,9,True,0,0.2,0.4,0,0,0,0,0,0,,3.85,False,15,
+FY2026-27 to date (Apr - Oct 2026),T081,M081,Suresh Khan,Sales,14,True,12,0.2,0.5,0,0,0,0,0,0,,3.93,False,22,
+FY2026-27 to date (Apr - Oct 2026),T082,M082,Sneha Naidu,Operations,12,True,0,1.1,-0.6,40,0,0,0,0,0,,3.36,False,24,
+FY2026-27 to date (Apr - Oct 2026),T083,M083,Prakash Shaikh,Engineering,5,True,69,4.6,2.7,50,0,2,2,6,1,17.0,3.0,False,90,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T084,M084,Neha Gupta,Engineering,17,True,119,3.2,-2.6,29,1,3,3,6,4,67.0,2.4,False,65,
+FY2026-27 to date (Apr - Oct 2026),T085,M085,Meera Deshmukh,Engineering,10,True,18,0.7,-1.3,67,0,1,1,2,1,50.0,3.45,False,41,
+FY2026-27 to date (Apr - Oct 2026),T086,M086,Vikram Kulkarni,Customer Support,14,True,12,1.7,0.2,38,1,0,0,0,0,,2.96,False,39,
+FY2026-27 to date (Apr - Oct 2026),T087,M087,Ravi Khan,Operations,10,True,72,2.2,0.4,50,1,3,1,4,3,75.0,4.32,False,68,
+FY2026-27 to date (Apr - Oct 2026),T088,M088,Abhishek Joshi,Engineering,12,True,14,1.6,-0.9,40,1,0,0,0,0,,4.57,False,37,
+FY2026-27 to date (Apr - Oct 2026),T089,M089,Ananya Sharma,Product,12,True,43,1.8,2.0,57,0,1,0,0,0,,3.49,False,61,
+FY2026-27 to date (Apr - Oct 2026),T090,M090,Imran Shaikh,Finance,15,True,0,1.6,-0.7,38,1,0,0,0,0,,3.81,False,28,
+FY2026-27 to date (Apr - Oct 2026),T091,M091,Priya Sharma,Marketing,8,True,0,0.4,-0.8,0,0,0,0,0,0,,4.41,False,11,
+FY2026-27 to date (Apr - Oct 2026),T092,M092,Meera Patil,Data & Analytics,8,True,0,1.4,-2.1,67,0,0,0,0,0,,4.25,False,27,
+FY2026-27 to date (Apr - Oct 2026),T093,M093,Suresh Subramanian,Sales,12,True,15,1.9,-0.5,29,1,0,0,0,0,,4.22,True,39,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T094,M094,Pooja Patil,Engineering,14,True,0,0.5,0.0,0,0,0,0,0,0,,4.21,False,14,
+FY2026-27 to date (Apr - Oct 2026),T095,M095,Manoj Deshmukh,Engineering,7,True,24,1.2,1.9,33,0,1,1,1,1,100.0,3.99,False,43,
+FY2026-27 to date (Apr - Oct 2026),T096,M096,Ishita Menon,Engineering,21,True,41,3.4,0.4,21,0,1,1,4,3,75.0,3.27,False,62,
+FY2026-27 to date (Apr - Oct 2026),T097,M097,Anjali Iyer,Engineering,16,True,22,2.9,-2.1,53,0,2,2,6,5,83.0,4.5,False,55,
+FY2026-27 to date (Apr - Oct 2026),T098,M098,Rohit Shaikh,Engineering,16,True,11,0.6,0.6,33,0,0,0,0,0,,3.84,False,29,
+FY2026-27 to date (Apr - Oct 2026),T099,M099,Manoj Verma,Sales,14,True,48,2.4,-0.1,45,1,2,2,6,3,50.0,3.22,False,66,
+FY2026-27 to date (Apr - Oct 2026),T100,M100,Ashwin Banerjee,Engineering,16,True,0,1.7,-0.2,20,0,0,0,0,0,,3.95,False,26,
+FY2026-27 to date (Apr - Oct 2026),T101,M101,Siddharth Sharma,Customer Support,7,True,51,2.1,3.3,50,0,1,1,1,1,100.0,3.75,False,66,
+FY2026-27 to date (Apr - Oct 2026),T102,M102,Sanjay Patil,Engineering,8,True,0,0.7,-0.8,0,0,0,0,0,0,,3.89,False,12,
+FY2026-27 to date (Apr - Oct 2026),T103,M103,Bhavna Bhat,Operations,7,True,0,1.4,1.4,33,1,0,0,0,0,,3.77,False,32,
+FY2026-27 to date (Apr - Oct 2026),T104,M104,Abhishek Mishra,Sales,12,True,14,0.7,0.3,33,0,0,0,0,0,,4.19,False,31,
+FY2026-27 to date (Apr - Oct 2026),T105,M105,Swati Khan,Engineering,12,True,28,2.8,-1.7,33,0,1,1,4,4,100.0,3.66,True,49,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T106,M106,Meera Menon,Customer Support,10,True,67,2.4,1.1,40,0,2,2,5,5,100.0,3.92,False,65,
+FY2026-27 to date (Apr - Oct 2026),T107,M107,Deepa Menon,Engineering,12,True,44,1.7,-0.0,0,0,1,1,3,2,67.0,3.98,False,48,
+FY2026-27 to date (Apr - Oct 2026),T108,M108,Kavya Menon,Sales,3,False,60,3.3,-7.8,67,0,0,0,0,0,,2.93,False,62,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T109,M109,Harini Patil,Engineering,14,True,25,1.6,1.7,25,1,1,1,2,2,100.0,4.02,False,46,
+FY2026-27 to date (Apr - Oct 2026),T110,M110,Shalini Iyer,Engineering,13,True,40,1.3,-1.4,17,0,2,1,1,1,100.0,3.92,False,33,
+FY2026-27 to date (Apr - Oct 2026),T111,M111,Shalini Das,Product,10,True,18,2.5,-2.9,38,0,2,1,3,0,0.0,4.04,False,58,
+FY2026-27 to date (Apr - Oct 2026),T112,M112,Nandini Iyer,Engineering,13,True,13,2.6,1.4,17,1,0,0,0,0,,3.51,False,47,
+FY2026-27 to date (Apr - Oct 2026),T113,M113,Karthik Subramanian,Engineering,4,False,0,2.5,2.5,67,0,0,0,0,0,,3.61,False,51,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T114,M114,Swati Rao,Customer Support,4,False,0,2.5,5.0,75,0,0,0,0,0,,2.7,False,53,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T115,M115,Varun Singh,Customer Support,7,True,77,1.7,0.0,25,0,2,1,4,2,50.0,3.89,True,59,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T116,M116,Mohammed Verma,Operations,6,True,0,1.9,-1.1,0,0,0,0,0,0,,3.23,False,23,
+FY2026-27 to date (Apr - Oct 2026),T117,M117,Shalini Chauhan,Engineering,10,True,69,3.4,1.6,33,0,2,2,5,4,80.0,3.41,False,73,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T118,M118,Suresh Chauhan,Product,10,True,0,1.3,1.7,40,0,0,0,0,0,,4.62,False,33,
+FY2026-27 to date (Apr - Oct 2026),T119,M119,Divya Reddy,Customer Support,11,True,16,2.6,0.3,20,0,0,0,0,0,,3.92,False,47,
+FY2026-27 to date (Apr - Oct 2026),T120,M120,Imran Kulkarni,QA,17,True,10,2.6,-0.9,27,0,0,0,0,0,,4.05,False,40,
+FY2026-27 to date (Apr - Oct 2026),T121,M121,Priya Reddy,Sales,7,True,24,0.6,-1.0,0,0,1,1,4,4,100.0,3.7,False,23,
+FY2026-27 to date (Apr - Oct 2026),T122,M122,Suresh Singh,Operations,9,True,19,1.6,1.8,17,0,1,1,4,2,50.0,3.83,False,49,
+FY2026-27 to date (Apr - Oct 2026),T123,M123,Ravi Mishra,Operations,15,True,35,2.4,0.2,25,0,1,0,0,0,,4.07,False,52,
+FY2026-27 to date (Apr - Oct 2026),T124,M124,Gayathri Nair,Customer Support,9,True,100,3.9,-2.2,45,0,2,2,3,2,67.0,3.3,False,70,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T125,M125,Jyoti Singh,Customer Support,14,True,24,2.5,2.0,23,0,1,1,3,3,100.0,3.51,False,54,
+FY2026-27 to date (Apr - Oct 2026),T126,M126,Kunal Singh,Operations,6,True,0,2.4,1.1,40,0,0,0,0,0,,4.08,False,43,
+FY2026-27 to date (Apr - Oct 2026),T127,M127,Harish Nair,Sales,10,True,0,2.9,0.0,62,1,1,1,2,1,50.0,4.03,False,54,
+FY2026-27 to date (Apr - Oct 2026),T128,M128,Ajay Mishra,Operations,13,True,27,0.8,-1.0,0,0,1,1,4,2,50.0,3.67,False,33,
+FY2026-27 to date (Apr - Oct 2026),T129,M129,Gayathri Pillai,Marketing,15,True,179,3.7,2.2,15,0,3,3,8,2,25.0,2.57,False,82,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T130,M130,Shalini Shaikh,Sales,12,True,43,1.5,1.4,33,0,1,1,3,2,67.0,4.24,False,55,
+FY2026-27 to date (Apr - Oct 2026),T131,M131,Arvind Banerjee,Customer Support,14,True,62,2.6,-0.3,13,0,2,1,4,3,75.0,3.28,False,58,
+FY2026-27 to date (Apr - Oct 2026),T132,M132,Farah Bhat,Customer Support,3,False,0,2.9,0.0,50,1,0,0,0,0,,3.17,False,45,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T133,M133,Siddharth Pillai,Engineering,12,True,0,1.4,0.6,17,0,0,0,0,0,,4.36,False,25,
+FY2026-27 to date (Apr - Oct 2026),T134,M134,Siddharth Joshi,Customer Support,10,True,85,3.0,-0.4,18,0,2,2,6,4,67.0,3.55,False,65,
+FY2026-27 to date (Apr - Oct 2026),T135,M135,Suresh Deshmukh,Operations,17,True,10,1.7,2.2,30,0,0,0,0,0,,3.53,False,42,
+FY2026-27 to date (Apr - Oct 2026),T136,M136,Nikhil Krishnan,Data & Analytics,4,False,86,2.9,3.3,25,0,0,0,0,0,,2.88,False,70,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T137,M137,Deepak Mishra,Engineering,4,False,44,0.7,0.0,100,0,0,0,0,0,,3.77,False,47,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T138,M138,Aishwarya Menon,Engineering,5,True,0,1.4,0.7,50,0,0,0,0,0,,3.88,False,34,
+FY2026-27 to date (Apr - Oct 2026),T139,M139,Pooja Menon,Finance,10,True,0,2.3,-0.7,50,0,0,0,0,0,,3.78,False,38,
+FY2026-27 to date (Apr - Oct 2026),T140,M140,Neha Krishnan,Operations,21,True,8,1.0,0.5,0,0,0,0,0,0,,3.89,False,24,
+FY2026-27 to date (Apr - Oct 2026),T141,M141,Bhavna Singh,Customer Support,14,True,24,3.1,1.4,44,0,1,1,4,1,25.0,3.05,False,74,Discuss in year-end review
+FY2026-27 to date (Apr - Oct 2026),T142,M142,Manoj Rao,Data & Analytics,22,True,8,1.6,0.4,8,0,0,0,0,0,,4.18,False,31,
+FY2026-27 to date (Apr - Oct 2026),T143,M143,Ritika Menon,Data & Analytics,11,True,16,1.2,1.5,75,0,0,0,0,0,,3.84,True,46,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T144,M144,Gayathri Menon,Sales,11,True,0,4.2,-3.6,31,2,1,0,0,0,,4.22,False,36,
+FY2026-27 to date (Apr - Oct 2026),T145,M145,Prakash Subramanian,Product,3,False,57,1.9,0.0,0,0,0,0,0,0,,2.24,False,47,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T146,M146,Ashwin Bhat,Engineering,4,False,0,1.8,4.2,100,0,0,0,0,0,,3.15,False,47,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T147,M147,Karthik Krishnan,Operations,17,True,49,1.5,-0.6,33,0,1,1,2,1,50.0,3.23,False,53,
+FY2026-27 to date (Apr - Oct 2026),T148,M148,Abhishek Agarwal,Customer Support,16,True,42,1.6,0.5,44,0,1,1,2,2,100.0,4.2,False,51,
+FY2026-27 to date (Apr - Oct 2026),T149,M149,Siddharth Mehta,Data & Analytics,9,True,73,5.0,-3.1,33,0,2,1,3,2,67.0,3.13,True,66,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T150,M150,Lakshmi Kulkarni,Engineering,5,False,35,2.3,2.7,0,0,2,2,4,4,100.0,4.04,False,52,"Team under 5 people - roll up to department, do not use"
+FY2026-27 to date (Apr - Oct 2026),T151,M151,Simran Khan,HR,13,True,13,1.3,-1.5,17,0,0,0,0,0,,4.34,False,23,
+FY2026-27 to date (Apr - Oct 2026),T152,M152,Rohit Iyer,Engineering,16,True,0,3.1,0.4,62,1,0,0,0,0,,2.94,False,49,
+FY2026-27 to date (Apr - Oct 2026),T153,M153,Vikram Agarwal,Engineering,10,True,72,2.5,0.4,38,0,3,3,4,3,75.0,4.14,False,68,
+FY2026-27 to date (Apr - Oct 2026),T154,M154,Karthik Kulkarni,Engineering,16,True,55,1.9,0.5,56,1,2,2,4,4,100.0,3.61,False,61,
+FY2026-27 to date (Apr - Oct 2026),T155,M155,Meera Nair,Product,15,True,23,1.4,-1.1,71,0,0,0,0,0,,3.14,False,41,
+FY2026-27 to date (Apr - Oct 2026),T156,M156,Swati Joshi,HR,8,True,22,1.3,0.4,25,0,1,1,2,2,100.0,4.0,False,36,
+FY2026-27 to date (Apr - Oct 2026),T157,M157,Suresh Khan,Engineering,14,True,48,2.4,-2.9,38,0,2,2,6,5,83.0,3.76,False,54,
+FY2026-27 to date (Apr - Oct 2026),T158,M158,Sana Pillai,Operations,9,True,0,0.6,0.0,50,0,1,1,3,1,33.0,3.01,False,35,
+FY2026-27 to date (Apr - Oct 2026),T159,M159,Nikhil Mishra,QA,13,True,13,2.3,-1.3,9,0,0,0,0,0,,3.78,False,34,
+FY2026-27 to date (Apr - Oct 2026),T160,M160,Priya Iyer,Product,16,True,43,2.2,-0.6,17,0,2,2,8,7,88.0,4.35,False,48,
+FY2026-27 to date (Apr - Oct 2026),T161,M161,Nikhil Pillai,Customer Support,12,True,44,1.2,1.1,20,0,1,1,1,1,100.0,3.02,False,43,
+FY2026-27 to date (Apr - Oct 2026),T162,M162,Revathi Iyer,Finance,8,True,44,4.0,2.2,55,1,2,2,6,2,33.0,2.7,True,84,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T163,M163,Shalini Nair,Sales,9,True,0,1.6,-0.7,75,1,0,0,0,0,,4.38,False,33,
+FY2026-27 to date (Apr - Oct 2026),T164,M164,Harish Bhat,Marketing,6,True,27,0.9,0.9,50,0,1,1,3,1,33.0,3.59,True,54,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T165,M165,Ashwin Kulkarni,Engineering,15,True,0,2.6,0.2,21,0,0,0,0,0,,4.43,False,37,
+FY2026-27 to date (Apr - Oct 2026),T166,M166,Divya Sharma,Engineering,12,True,0,0.8,-0.3,67,0,0,0,0,0,,4.12,False,27,
+FY2026-27 to date (Apr - Oct 2026),T167,M167,Jyoti Deshmukh,QA,10,True,70,2.9,0.7,20,0,3,3,7,6,86.0,4.22,False,65,
+FY2026-27 to date (Apr - Oct 2026),T168,M168,Sneha Pillai,QA,17,True,72,1.7,-1.6,27,0,1,1,2,0,0.0,3.11,False,62,
+FY2026-27 to date (Apr - Oct 2026),T169,M169,Karthik Verma,Customer Support,13,True,13,0.9,0.0,75,0,0,0,0,0,,3.43,False,36,
+FY2026-27 to date (Apr - Oct 2026),T170,M170,Aishwarya Kulkarni,Customer Support,14,True,25,1.4,0.2,17,0,0,0,0,0,,4.03,False,37,
+FY2026-27 to date (Apr - Oct 2026),T171,M171,Mohammed Agarwal,Engineering,16,True,22,1.4,-2.8,50,0,0,0,0,0,,3.93,False,36,
+FY2026-27 to date (Apr - Oct 2026),T172,M172,Nikhil Rao,Operations,7,True,0,1.2,1.9,33,0,0,0,0,0,,3.92,False,30,
+FY2026-27 to date (Apr - Oct 2026),T173,M173,Naveen Banerjee,Engineering,14,True,12,2.5,1.0,25,0,1,1,2,1,50.0,3.81,True,53,Manager changed - share the period between managers
+FY2026-27 to date (Apr - Oct 2026),T174,M174,Varun Nair,Engineering,10,True,0,4.4,1.0,25,0,2,2,3,0,0.0,3.53,False,61,

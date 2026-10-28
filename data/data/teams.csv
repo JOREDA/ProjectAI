@@ -1,0 +1,175 @@
+team_id,team_name,department,location,manager_id,manager_name,initial_headcount
+T001,Engineering Hyderabad 001,Engineering,Hyderabad,M001,Pooja Kulkarni,18
+T002,Customer Support Hyderabad 002,Customer Support,Hyderabad,M002,Simran Singh,15
+T003,Product Chennai 003,Product,Chennai,M003,Suresh Nair,10
+T004,Engineering Bengaluru 004,Engineering,Bengaluru,M004,Sneha Agarwal,19
+T005,Customer Support Coimbatore 005,Customer Support,Coimbatore,M005,Varun Subramanian,9
+T006,Customer Support Bengaluru 006,Customer Support,Bengaluru,M006,Swati Kulkarni,15
+T007,Engineering Chennai 007,Engineering,Chennai,M007,Sanjay Reddy,6
+T008,QA Bengaluru 008,QA,Bengaluru,M008,Siddharth Singh,12
+T009,Marketing Bengaluru 009,Marketing,Bengaluru,M009,Aishwarya Mishra,14
+T010,Engineering Hyderabad 010,Engineering,Hyderabad,M010,Karthik Kulkarni,5
+T011,QA Pune 011,QA,Pune,M011,Sana Pillai,12
+T012,Sales Hyderabad 012,Sales,Hyderabad,M012,Ajay Sharma,15
+T013,Engineering Hyderabad 013,Engineering,Hyderabad,M013,Imran Banerjee,12
+T014,Engineering Chennai 014,Engineering,Chennai,M014,Aditya Khan,10
+T015,QA Hyderabad 015,QA,Hyderabad,M015,Lakshmi Mishra,12
+T016,Operations Chennai 016,Operations,Chennai,M016,Ishita Reddy,21
+T017,Operations Gurugram 017,Operations,Gurugram,M017,Simran Iyer,4
+T018,Engineering Chennai 018,Engineering,Chennai,M018,Naveen Das,15
+T019,Product Coimbatore 019,Product,Coimbatore,M019,Aishwarya Singh,7
+T020,Engineering Hyderabad 020,Engineering,Hyderabad,M020,Mohammed Mehta,18
+T021,Customer Support Pune 021,Customer Support,Pune,M021,Rohit Iyer,6
+T022,Customer Support Bengaluru 022,Customer Support,Bengaluru,M022,Revathi Krishnan,4
+T023,Sales Hyderabad 023,Sales,Hyderabad,M023,Kunal Khan,12
+T024,Engineering Pune 024,Engineering,Pune,M024,Mohammed Bhat,12
+T025,Customer Support Bengaluru 025,Customer Support,Bengaluru,M025,Aditya Joshi,20
+T026,Customer Support Hyderabad 026,Customer Support,Hyderabad,M026,Harish Agarwal,13
+T027,Customer Support Bengaluru 027,Customer Support,Bengaluru,M027,Simran Banerjee,5
+T028,Engineering Pune 028,Engineering,Pune,M028,Meera Reddy,8
+T029,Engineering Chennai 029,Engineering,Chennai,M029,Gayathri Bhat,9
+T030,Product Chennai 030,Product,Chennai,M030,Sana Patil,13
+T031,Engineering Pune 031,Engineering,Pune,M031,Nikhil Deshmukh,16
+T032,Sales Pune 032,Sales,Pune,M032,Gaurav Joshi,15
+T033,Data & Analytics Hyderabad 033,Data & Analytics,Hyderabad,M033,Meera Mehta,8
+T034,Operations Bengaluru 034,Operations,Bengaluru,M034,Meera Chauhan,12
+T035,HR Hyderabad 035,HR,Hyderabad,M035,Pranav Banerjee,20
+T036,Sales Bengaluru 036,Sales,Bengaluru,M036,Imran Subramanian,18
+T037,Engineering Pune 037,Engineering,Pune,M037,Aditya Khan,16
+T038,Finance Coimbatore 038,Finance,Coimbatore,M038,Gaurav Singh,13
+T039,QA Chennai 039,QA,Chennai,M039,Nandini Kulkarni,9
+T040,Engineering Chennai 040,Engineering,Chennai,M040,Farah Reddy,13
+T041,Customer Support Hyderabad 041,Customer Support,Hyderabad,M041,Rohit Reddy,12
+T042,Customer Support Gurugram 042,Customer Support,Gurugram,M042,Kunal Joshi,7
+T043,HR Pune 043,HR,Pune,M043,Nandini Mehta,10
+T044,HR Gurugram 044,HR,Gurugram,M044,Kunal Shaikh,13
+T045,Customer Support Coimbatore 045,Customer Support,Coimbatore,M045,Ananya Nair,7
+T046,Engineering Chennai 046,Engineering,Chennai,M046,Revathi Agarwal,12
+T047,Finance Chennai 047,Finance,Chennai,M047,Rohit Chauhan,9
+T048,Customer Support Coimbatore 048,Customer Support,Coimbatore,M048,Deepak Pillai,5
+T049,Marketing Bengaluru 049,Marketing,Bengaluru,M049,Jyoti Mishra,12
+T050,Operations Chennai 050,Operations,Chennai,M050,Jyoti Reddy,10
+T051,Engineering Pune 051,Engineering,Pune,M051,Farah Naidu,16
+T052,Customer Support Bengaluru 052,Customer Support,Bengaluru,M052,Deepa Mehta,4
+T053,Finance Coimbatore 053,Finance,Coimbatore,M053,Aditya Reddy,11
+T054,Finance Chennai 054,Finance,Chennai,M054,Prakash Das,11
+T055,Operations Chennai 055,Operations,Chennai,M055,Rahul Khan,9
+T056,QA Hyderabad 056,QA,Hyderabad,M056,Nikhil Khan,16
+T057,Engineering Bengaluru 057,Engineering,Bengaluru,M057,Ishita Sharma,11
+T058,Data & Analytics Pune 058,Data & Analytics,Pune,M058,Naveen Rao,10
+T059,QA Bengaluru 059,QA,Bengaluru,M059,Deepa Agarwal,4
+T060,Customer Support Pune 060,Customer Support,Pune,M060,Pranav Kulkarni,3
+T061,Marketing Chennai 061,Marketing,Chennai,M061,Neha Mehta,12
+T062,QA Gurugram 062,QA,Gurugram,M062,Ajay Iyer,18
+T063,Data & Analytics Hyderabad 063,Data & Analytics,Hyderabad,M063,Aditya Chauhan,17
+T064,Engineering Bengaluru 064,Engineering,Bengaluru,M064,Gayathri Rao,3
+T065,Engineering Coimbatore 065,Engineering,Coimbatore,M065,Nandini Deshmukh,18
+T066,Finance Gurugram 066,Finance,Gurugram,M066,Simran Bhat,8
+T067,Engineering Pune 067,Engineering,Pune,M067,Priya Patil,11
+T068,Customer Support Coimbatore 068,Customer Support,Coimbatore,M068,Gayathri Pillai,16
+T069,Customer Support Bengaluru 069,Customer Support,Bengaluru,M069,Neha Nair,15
+T070,Sales Coimbatore 070,Sales,Coimbatore,M070,Nikhil Verma,11
+T071,Sales Coimbatore 071,Sales,Coimbatore,M071,Kunal Iyer,13
+T072,Operations Chennai 072,Operations,Chennai,M072,Imran Naidu,17
+T073,Finance Bengaluru 073,Finance,Bengaluru,M073,Sneha Pillai,9
+T074,Engineering Hyderabad 074,Engineering,Hyderabad,M074,Nandini Mishra,13
+T075,Customer Support Bengaluru 075,Customer Support,Bengaluru,M075,Anjali Reddy,3
+T076,Product Chennai 076,Product,Chennai,M076,Harish Reddy,8
+T077,Customer Support Gurugram 077,Customer Support,Gurugram,M077,Aditya Singh,7
+T078,Finance Bengaluru 078,Finance,Bengaluru,M078,Rohit Singh,15
+T079,Engineering Pune 079,Engineering,Pune,M079,Mohammed Nair,13
+T080,Sales Pune 080,Sales,Pune,M080,Farah Sharma,9
+T081,Sales Gurugram 081,Sales,Gurugram,M081,Suresh Khan,14
+T082,Operations Bengaluru 082,Operations,Bengaluru,M082,Sneha Naidu,13
+T083,Engineering Bengaluru 083,Engineering,Bengaluru,M083,Prakash Shaikh,5
+T084,Engineering Hyderabad 084,Engineering,Hyderabad,M084,Neha Gupta,19
+T085,Engineering Coimbatore 085,Engineering,Coimbatore,M085,Meera Deshmukh,10
+T086,Customer Support Bengaluru 086,Customer Support,Bengaluru,M086,Vikram Kulkarni,14
+T087,Operations Bengaluru 087,Operations,Bengaluru,M087,Ravi Khan,10
+T088,Engineering Chennai 088,Engineering,Chennai,M088,Abhishek Joshi,12
+T089,Product Bengaluru 089,Product,Bengaluru,M089,Ananya Sharma,12
+T090,Finance Hyderabad 090,Finance,Hyderabad,M090,Imran Shaikh,15
+T091,Marketing Hyderabad 091,Marketing,Hyderabad,M091,Priya Sharma,8
+T092,Data & Analytics Coimbatore 092,Data & Analytics,Coimbatore,M092,Meera Patil,8
+T093,Sales Bengaluru 093,Sales,Bengaluru,M093,Suresh Subramanian,12
+T094,Engineering Coimbatore 094,Engineering,Coimbatore,M094,Pooja Patil,14
+T095,Engineering Coimbatore 095,Engineering,Coimbatore,M095,Manoj Deshmukh,7
+T096,Engineering Bengaluru 096,Engineering,Bengaluru,M096,Ishita Menon,22
+T097,Engineering Pune 097,Engineering,Pune,M097,Anjali Iyer,16
+T098,Engineering Hyderabad 098,Engineering,Hyderabad,M098,Rohit Shaikh,16
+T099,Sales Hyderabad 099,Sales,Hyderabad,M099,Manoj Verma,15
+T100,Engineering Hyderabad 100,Engineering,Hyderabad,M100,Ashwin Banerjee,16
+T101,Customer Support Pune 101,Customer Support,Pune,M101,Siddharth Sharma,7
+T102,Engineering Coimbatore 102,Engineering,Coimbatore,M102,Sanjay Patil,8
+T103,Operations Chennai 103,Operations,Chennai,M103,Bhavna Bhat,7
+T104,Sales Coimbatore 104,Sales,Coimbatore,M104,Abhishek Mishra,12
+T105,Engineering Chennai 105,Engineering,Chennai,M105,Swati Khan,13
+T106,Customer Support Pune 106,Customer Support,Pune,M106,Meera Menon,11
+T107,Engineering Chennai 107,Engineering,Chennai,M107,Deepa Menon,12
+T108,Sales Bengaluru 108,Sales,Bengaluru,M108,Kavya Menon,3
+T109,Engineering Bengaluru 109,Engineering,Bengaluru,M109,Harini Patil,14
+T110,Engineering Hyderabad 110,Engineering,Hyderabad,M110,Shalini Iyer,13
+T111,Product Pune 111,Product,Pune,M111,Shalini Das,10
+T112,Engineering Hyderabad 112,Engineering,Hyderabad,M112,Nandini Iyer,13
+T113,Engineering Pune 113,Engineering,Pune,M113,Karthik Subramanian,4
+T114,Customer Support Bengaluru 114,Customer Support,Bengaluru,M114,Swati Rao,4
+T115,Customer Support Bengaluru 115,Customer Support,Bengaluru,M115,Varun Singh,7
+T116,Operations Hyderabad 116,Operations,Hyderabad,M116,Mohammed Verma,6
+T117,Engineering Chennai 117,Engineering,Chennai,M117,Shalini Chauhan,12
+T118,Product Hyderabad 118,Product,Hyderabad,M118,Suresh Chauhan,10
+T119,Customer Support Coimbatore 119,Customer Support,Coimbatore,M119,Divya Reddy,11
+T120,QA Chennai 120,QA,Chennai,M120,Imran Kulkarni,17
+T121,Sales Bengaluru 121,Sales,Bengaluru,M121,Priya Reddy,7
+T122,Operations Bengaluru 122,Operations,Bengaluru,M122,Suresh Singh,9
+T123,Operations Chennai 123,Operations,Chennai,M123,Ravi Mishra,15
+T124,Customer Support Gurugram 124,Customer Support,Gurugram,M124,Gayathri Nair,10
+T125,Customer Support Gurugram 125,Customer Support,Gurugram,M125,Jyoti Singh,15
+T126,Operations Chennai 126,Operations,Chennai,M126,Kunal Singh,6
+T127,Sales Pune 127,Sales,Pune,M127,Harish Nair,10
+T128,Operations Gurugram 128,Operations,Gurugram,M128,Ajay Mishra,13
+T129,Marketing Bengaluru 129,Marketing,Bengaluru,M129,Gayathri Pillai,17
+T130,Sales Gurugram 130,Sales,Gurugram,M130,Shalini Shaikh,12
+T131,Customer Support Chennai 131,Customer Support,Chennai,M131,Arvind Banerjee,14
+T132,Customer Support Pune 132,Customer Support,Pune,M132,Farah Bhat,3
+T133,Engineering Hyderabad 133,Engineering,Hyderabad,M133,Siddharth Pillai,12
+T134,Customer Support Chennai 134,Customer Support,Chennai,M134,Siddharth Joshi,11
+T135,Operations Pune 135,Operations,Pune,M135,Suresh Deshmukh,18
+T136,Data & Analytics Pune 136,Data & Analytics,Pune,M136,Nikhil Krishnan,4
+T137,Engineering Gurugram 137,Engineering,Gurugram,M137,Deepak Mishra,4
+T138,Engineering Coimbatore 138,Engineering,Coimbatore,M138,Aishwarya Menon,5
+T139,Finance Hyderabad 139,Finance,Hyderabad,M139,Pooja Menon,10
+T140,Operations Gurugram 140,Operations,Gurugram,M140,Neha Krishnan,21
+T141,Customer Support Bengaluru 141,Customer Support,Bengaluru,M141,Bhavna Singh,15
+T142,Data & Analytics Gurugram 142,Data & Analytics,Gurugram,M142,Manoj Rao,22
+T143,Data & Analytics Chennai 143,Data & Analytics,Chennai,M143,Ritika Menon,11
+T144,Sales Coimbatore 144,Sales,Coimbatore,M144,Gayathri Menon,11
+T145,Product Pune 145,Product,Pune,M145,Prakash Subramanian,3
+T146,Engineering Pune 146,Engineering,Pune,M146,Ashwin Bhat,4
+T147,Operations Gurugram 147,Operations,Gurugram,M147,Karthik Krishnan,18
+T148,Customer Support Bengaluru 148,Customer Support,Bengaluru,M148,Abhishek Agarwal,17
+T149,Data & Analytics Bengaluru 149,Data & Analytics,Bengaluru,M149,Siddharth Mehta,10
+T150,Engineering Pune 150,Engineering,Pune,M150,Lakshmi Kulkarni,5
+T151,HR Pune 151,HR,Pune,M151,Simran Khan,13
+T152,Engineering Chennai 152,Engineering,Chennai,M152,Rohit Iyer,16
+T153,Engineering Bengaluru 153,Engineering,Bengaluru,M153,Vikram Agarwal,10
+T154,Engineering Chennai 154,Engineering,Chennai,M154,Karthik Kulkarni,16
+T155,Product Chennai 155,Product,Chennai,M155,Meera Nair,15
+T156,HR Coimbatore 156,HR,Coimbatore,M156,Swati Joshi,8
+T157,Engineering Pune 157,Engineering,Pune,M157,Suresh Khan,15
+T158,Operations Coimbatore 158,Operations,Coimbatore,M158,Sana Pillai,9
+T159,QA Bengaluru 159,QA,Bengaluru,M159,Nikhil Mishra,13
+T160,Product Gurugram 160,Product,Gurugram,M160,Priya Iyer,16
+T161,Customer Support Pune 161,Customer Support,Pune,M161,Nikhil Pillai,12
+T162,Finance Pune 162,Finance,Pune,M162,Revathi Iyer,9
+T163,Sales Bengaluru 163,Sales,Bengaluru,M163,Shalini Nair,9
+T164,Marketing Gurugram 164,Marketing,Gurugram,M164,Harish Bhat,7
+T165,Engineering Gurugram 165,Engineering,Gurugram,M165,Ashwin Kulkarni,15
+T166,Engineering Hyderabad 166,Engineering,Hyderabad,M166,Divya Sharma,12
+T167,QA Bengaluru 167,QA,Bengaluru,M167,Jyoti Deshmukh,10
+T168,QA Gurugram 168,QA,Gurugram,M168,Sneha Pillai,18
+T169,Customer Support Coimbatore 169,Customer Support,Coimbatore,M169,Karthik Verma,13
+T170,Customer Support Hyderabad 170,Customer Support,Hyderabad,M170,Aishwarya Kulkarni,14
+T171,Engineering Coimbatore 171,Engineering,Coimbatore,M171,Mohammed Agarwal,16
+T172,Operations Gurugram 172,Operations,Gurugram,M172,Nikhil Rao,7
+T173,Engineering Bengaluru 173,Engineering,Bengaluru,M173,Naveen Banerjee,14
+T174,Engineering Hyderabad 174,Engineering,Hyderabad,M174,Varun Nair,10

@@ -1,0 +1,160 @@
+PROJECT: AI-POWERED ANONYMOUS EMPLOYEE FEEDBACK SYSTEM (HR)
+
+CLIENT BRIEF (the app must satisfy every line of this)
+Your team has been hired by the HR head of a 2,000-person Indian company. Employees can leave anonymous feedback, but most don't trust that it's truly anonymous, and HR can't read thousands of comments each quarter.
+* An LLM strips identifying details from each comment (names, project codes, "my manager in the Pune office") and rewrites it without changing its meaning.
+* The LLM then classifies comments by theme (eg pay, workload, manager behaviour), sentiment and severity, and flags serious issues like harassment for escalation.
+* A predictive model estimates attrition risk at team level, not individual level. High-risk teams get a short summary for HR with the main themes.
+* Demo must show: one routine comment, one comment that needs anonymising, one escalation, one edge case (eg a comment that identifies its writer even after names are removed).
+
+The system has THREE models, and all three must be built:
+1. **Anonymisation model (LLM, Groq):** two privacy layers - Call A removes direct identifiers, Call B removes clues that could still identify the writer (section 4).
+2. **Classification model (LLM, Groq):** Call C labels each comment - theme, policy vs person, sentiment, severity, escalation (section 4).
+3. **Attrition risk model (predictive, scikit-learn):** scores each team's risk of losing 10%+ of its people in the next 3 months, with reasons. High-risk teams also get a short LLM-written summary for HR with their main themes (Call D, section 7).
+
+Build a Streamlit app for a fictional 2,000-person company. Employees submit feedback; a Groq-hosted LLM anonymises it in two layers and classifies it; the writer checks the rewrite before it is stored; HR sees only anonymised, aggregated results; a predictive model flags teams likely to lose people in the next 3 months so HR can hold a listening session first. All data is synthetic and already provided.
+
+HARD REQUIREMENTS
+
+1. **Python only. Streamlit UI.** The app must run via `streamlit run app.py` as the sole entry point. Put code in small modules (`llm_pipeline.py`, `guardrails.py`, `risk_model.py`, `data_loader.py`) imported by `app.py`.
+
+2. **Inputs (required in the project root, exact paths):**
+* `data/data/feedback_comments.csv`, `data/data/team_monthly_panel.csv`, `data/data/teams.csv`, `data/data/employees_hris.csv`, `data/data/listening_sessions.csv`, `data/data/manager_yearend_review.csv`, `data/data/hr_review_disputes.csv`, `data/data/policy_events.csv`, `data/data/identity_vault_SEALED.csv`.
+* `data/llm/llm_output_schema.json` (the exact JSON every processed comment must match), `data/llm/redaction_lists.json` (names, employee ID pattern, project codes, clients, offices), `data/llm/test_set_input.jsonl` and `data/llm/test_set_gold.jsonl` (502-comment evaluation set and its correct answers).
+* Rule files (see section 6): `anonymisation-rules.md`, `classification-rules.md`, `hr-policy.md`.
+* The Groq API key, read in this order: `st.secrets["groq_api_key"]` (Streamlit Community Cloud), then the `GROQ_API_KEY` environment variable (load `.env` with `python-dotenv`), then `credentials.json` -> `{"groq_api_key": "gsk_..."}` (local). Use the first one found. Never hard-code, print, log or display the key. Add `credentials.json`, `.env`, `.streamlit/secrets.toml` and `cache/` to `.gitignore`.
+* Provide a `requirements.txt` (streamlit, pandas, numpy, scikit-learn, joblib, groq, jsonschema, pydantic, python-dotenv).
+* NEVER load `data/data/answer_key_hidden_drivers.csv` (it is for the team's own Q&A only).
+* If any required file is missing, or no valid `groq_api_key` is found, show a clean `st.error()` naming exactly what is missing and stop. No stack traces.
+* Read CSVs with `keep_default_na=False, na_values=[""]` and treat `identity_token`, `receipt_code` and IDs as strings.
+
+3. **Data rules (privacy by design):**
+* HR-facing views must NEVER show `raw_text`, `gold_layer1_text`, `employee_id_hidden`, the vault, or exact dates. Show `final_text` only, and dates only as the half-month `submission_window` (e.g. "2026-03 (01-15)").
+* Minimum group size: never show team-level comment counts, scores, themes or risk for a team with fewer people than the `min_group_size` in `hr-policy.md` (default 5). Roll those teams up into "Other teams (department)". Enforce this in one Python function used by every HR view.
+* Historical comments in `feedback_comments.csv` are treated as already processed: use `gold_final_text` and the `gold_*` labels as their stored results in dashboards. Only new submissions (Submit tab) and the Evaluation tab call the LLM. This keeps the free-tier quota for what matters.
+* The model works on team-months only. It never scores an individual employee.
+
+4. **LLM pipeline (three roles, each its own call):**
+For every comment the pipeline runs these steps in order. Python supplies facts, enforces guardrails and merges results; the LLM does the language work.
+* **Step 0 - Python pre-pass (deterministic):** strip control characters; reject empty, test/spam (fewer than 3 real words) or over-2,000-character comments; replace anything on `redaction_lists.json` (full names, first names, `NV\d{5}` IDs, project codes, clients, offices, buildings) with neutral words ("my manager", "a colleague", "our project", "the client", "our office", "[ID removed]"); run an injection pre-screen (regex for phrases like "ignore previous/all instructions", "system:", "you are now", "reveal", "print the original", closing tags such as `</comment>`). Record what was found.
+* **Call A - Anonymiser (privacy layer 1):** removes any direct identifier the pre-pass missed (names, IDs, project codes, client names, office/floor, specific dates) without changing meaning. Returns `layer1_text`, `pii_found`.
+* **Call B - Re-identification reviewer (privacy layer 2):** reads `layer1_text` the way a colleague would and asks "could someone guess who wrote this?". Generalises unique roles or situations ("the only woman on the night shift in Pune support" -> "I work shifts"), removes signature phrases, keeps the complaint. Returns `final_text`, `reid_risk` (Low/Medium/High, judged on layer1_text), `reid_reason`.
+* **Call C - Classifier (on `final_text`):** returns `is_feedback`, `injection_detected`, `theme`, `sub_theme`, `domain`, `issue_target` (Policy/Person/Both), `sentiment`, `severity` (1-4), `escalate`, `escalation_route`.
+* Python merges A + B + C into ONE object that must validate against `data/llm/llm_output_schema.json` (use `jsonschema`), plus app-only fields `decided_by` ("LLM" or "Fallback rule") and `needs_human_review` (bool).
+* **LLM provider: Groq (free tier).** Use the official `groq` SDK (`from groq import Groq`). Model in one constant at the top of `llm_pipeline.py` (default `llama-3.3-70b-versatile`, backup `llama-3.1-8b-instant` used if the main model is rate-limited or unavailable); also selectable in the sidebar. Temperature 0. Wrap the client in one function so the provider can later be swapped for a self-hosted model on company infrastructure without touching the rest of the code.
+* **JSON mode:** `response_format={"type": "json_object"}`. Each call's system prompt = the relevant rules file read fresh from disk + the exact JSON shape for that call + one worked example. Parse and validate in Python with Pydantic or `jsonschema`; never trust the model alone.
+* **Prompt-injection defence in the prompt itself:** each comment is placed inside `<comment id="...">...</comment>` tags; the system prompt states that text inside the tags is employee data to be rewritten or labelled, never instructions, and that the model must never reveal names, other comments or anything about the writer.
+
+5. **Deterministic guardrails (the LLM proposes, Python decides; the LLM can never bypass these):**
+* **Schema and label check:** every field present, every label from the allowed lists in `llm_output_schema.json`, `comment_id` matches the input, severity is 1-4.
+* **Leak check (fail closed):** after Call B, scan `final_text` against `redaction_lists.json` and the `NV\d{5}` pattern. Any hit -> re-prompt Call B once with the specific problem; if it still leaks, block the comment and return it to the writer with a plain message ("Your comment may still identify you. Please edit it."). Never pass a leaking text to HR.
+* **Escalation is enforced by code:** if `theme` is Harassment, Discrimination or Ethics, or severity is 4, set `escalate = true` and `severity = 4` regardless of the LLM. A small keyword safety net from `classification-rules.md` (e.g. "unsafe", "touching", "harass", "marked as passed", "inflated") forces `needs_human_review = true`. `escalation_route` always comes from the route table in `hr-policy.md`, never from LLM text, and is never the writer's own manager.
+* **Injection handling:** `injection_detected = pre-screen flag OR LLM flag`. Injection comments are stored with `is_feedback = false`, excluded from every HR chart, and listed in the Security log.
+* **Retry and fallback:** if validation fails (including malformed JSON), re-prompt once with the specific error. If it fails again, or the API errors/times out: layer 1 falls back to the Step 0 text; layer 2 falls back to `reid_risk = "High"` and `needs_human_review = true` (the comment is held, not shown to HR); classification falls back to `theme` from keyword rules with `needs_human_review = true`. Mark `decided_by = "Fallback rule"` and show a quiet `st.warning()` with the fallback count.
+* **Batching and isolation:** live submissions are processed one comment per call. In the Evaluation tab, comments may be batched (default 4 per call, configurable in the sidebar), but any comment flagged by the injection pre-screen is always sent alone, so one malicious comment cannot affect the labels of others. Results are validated per `comment_id`.
+* **Free-tier rate limits:** add a small delay between calls; on HTTP 429 wait for `retry-after` if given, else exponential backoff (2s, 4s, 8s, max 5 attempts), showing a quiet "Rate limit reached, retrying shortly..." inside the spinner. If the daily quota is exhausted, stop gracefully, keep finished results, mark the rest "Not evaluated", and explain that the run can resume later.
+* **Caching:** cache every LLM result in `st.session_state` AND on disk in `cache/llm_results.jsonl`, keyed by (`comment_id`, model, hash of the rules files). Reruns, filter changes and repeated clicks must never call the LLM again for a cached key. Editing a rules file changes the hash, so those comments are re-processed on the next run.
+* **Never show raw LLM responses, prompts or reasoning in the UI.** Only validated fields are shown.
+
+6. **Markdown rule files (the system's policy, read fresh from disk on every run, never cached across runs):**
+Changing these files must change the system's behaviour with no code change. Provide clear starter versions:
+* `anonymisation-rules.md`: what counts as a direct identifier (layer 1) and as an indirect clue (layer 2), how to replace each, what must be kept (the complaint, its severity, its target), worked before/after examples including Hinglish.
+* `classification-rules.md`: the exact theme list, matching `llm_output_schema.json`: Workload, Pay, Career growth, Manager behaviour, Work location, Leave & time off, Facilities, Team culture, Harassment, Discrimination, Ethics, Positive feedback, Prompt injection attempt, No content. The domain each theme rolls up to: Work conditions (Workload, Leave & time off, Facilities, Work location), Rewards (Pay, Career growth), People & leadership (Manager behaviour, Team culture), Conduct & safety (Harassment, Discrimination, Ethics), Positive, Not feedback. How to decide Policy vs Person vs Both. Severity scale 1 Low, 2 Medium, 3 High (burnout, resignation intent, public humiliation), 4 Critical (harassment, discrimination, ethics). Sarcasm is negative. The escalation keyword safety net.
+* `hr-policy.md`: `min_group_size` (5); alarm rules (model risk threshold, default 0.50; historical rule, exits in the last 3 months >= 10% of headcount; complaint-score spike, top 5% of 3-month averages); listening-session target (held within 14 days); escalation route table (Harassment -> Internal Committee (POSH) via HR; Discrimination -> HR Ethics desk; Ethics -> HR Ethics desk / Compliance); year-end team risk factor weights (attrition 30%, complaint score 25%, trend 15%, person-related share 15%, actions not closed 15%; team level only); monthly dispute window (first 7 days of each month); vault unseal rule (Critical escalation only, two different approvers, a written reason, every access logged); retraining cadence (quarterly); team summary rules for Call D (2-3 sentences, max 80 words, plain English, use only the numbers given, never quote a comment or name anyone, end with the one issue to raise first in the listening session).
+
+7. **Attrition risk model (team level):**
+* Reproduce the logic in `train_model_v1.py` (provided in the repo) inside `risk_model.py`: unit = team x month, teams with headcount >= `min_group_size` only; target `target_high_risk_next_3m`; the same 22 features (HR signals plus 3-month comment signals); `LogisticRegression(class_weight="balanced")` in a `StandardScaler` pipeline. Train once with `st.cache_resource` and save to `models/attrition_model.joblib`.
+* Time-based split, never shuffled: train Nov 2024 - Dec 2025, test Jan - Jul 2026. Baseline = the historical-rate rule (flag if exits in the last 3 months >= 10%). Expected result on the provided data: baseline precision 43%, recall 30%; model precision 42%, recall 59%. If the numbers differ by more than 2 points, show a quiet warning.
+* **Reasons per team:** for each flagged team show the top 3 drivers pushing risk up (coefficient x standardised value), in plain words ("Manager rating", "Overtime hours / week", "Pay vs market").
+* **Retraining:** a "Train on data up to" month selector (default Dec 2025). Show test results on the 3 months after the cutoff, so retraining after the April 2026 return-to-office mandate visibly improves recall.
+* The "current month" is the latest month in the data (Oct 2026), not the system date.
+* **Short summary for each high-risk team (required by the brief):** for every team on alarm in the selected month, produce a summary card for HR with: risk score, the 3 model reasons, the top 3 complaint themes from the team's last 3 months (with counts), the Policy vs Person split, the complaint-score trend, and a 2-3 sentence plain-English summary.
+  * The 2-3 sentences are written by the LLM (**Call D - Team summariser**, rules in `hr-policy.md`), given ONLY these aggregates and up to 5 of the team's anonymised `final_text` comments, never raw text or IDs. It must not quote a comment word for word, name anyone, or invent numbers.
+  * Python validates the summary: leak check against `redaction_lists.json`, every number in the text must appear in the aggregates, max 80 words. If it fails after one retry, use a template summary built from the aggregates ("Risk 78%. Main issues: Workload (6), Manager behaviour (4), mostly person-related. Complaint score rising.") and mark it "Fallback rule".
+  * No summary for teams under `min_group_size`. Cache summaries like other LLM results.
+
+8. **No email integration.** Gmail is not used. Escalations and session alerts are written to the in-app Escalation queue and Audit log only.
+
+---
+
+## APP STRUCTURE (TABS)
+
+Sidebar: view selector ("Employee", "HR", "Ombudsperson"), model choice, evaluation batch size, "Clear cache" button, and a fixed caption: "Educational prototype with synthetic data. Not HR or legal advice."
+
+**Employee view**
+1. **Submit feedback:** text box; anonymity choice (Sealed token - default / Fully anonymous / Use my name, with a one-line explanation of each). On submit, run the pipeline inside `st.spinner("Anonymising your feedback...")`, then show the writer their original and the anonymised `final_text` side by side with three buttons: **Approve**, **Edit** (opens an editable box; the edited text is re-checked by the leak check), **Reject - meaning changed** (comment is not stored). Only approved comments are stored (session state). On approval show a receipt code (and, for Sealed token, a token rotated each quarter; write the token -> employee link only to the in-memory vault). Store the date as a half-month window. Four "Try a demo comment" buttons pre-fill the four demo cases from `feedback_comments.csv`: a routine comment, one that needs anonymising (contains names/project codes), one that must be escalated, and one that still identifies the writer after names are removed (`edge_case_type = "Re-identifiable after redaction"`).
+2. **Monthly review window ("argue with HR"):** enter a receipt code or token, pick the comment, choose a reason (Theme is wrong / Severity too low / Severity too high / Rewrite changed my meaning / Should be policy not person / Should be person not policy / Was not escalated but should be) and add a note. Identity is never asked for. Outside the window set in `hr-policy.md`, show when the next window opens.
+
+**HR view**
+3. **Overview:** KPI cards (comments this month, negative share, open escalations, teams on alarm, average complaint score) and a monthly complaint-score trend by department.
+4. **What people are saying:** a "View as" selector: HR business partner (sub-theme), HR head (theme), Leadership (domain), so complaints get more general higher up. Policy vs Person split. Filters: department, month range, theme, issue target. A table of anonymised comments (`final_text`, theme, issue target, severity, submission window, anonymity mode) with names shown only for "Use my name" comments.
+5. **Team risk & listening sessions:** for the selected month, a table of teams with risk score, alarm flag and the 3 reasons; small teams rolled up. Below the table, the summary card for each high-risk team (section 7), most at risk first. A "Schedule listening session" button for alarmed teams adds a row to the session log. Below it, `data/data/listening_sessions.csv` plus new rows: alarm reason, held or not, days to session, actions agreed vs closed, pulse before vs after, exits after.
+6. **Escalation queue:** every escalated or `needs_human_review` comment with its fixed route, status (New / In review / Closed) and the comment's theme and severity. Never shows the writer.
+7. **Disputes:** the monthly review queue (`data/data/hr_review_disputes.csv` plus new ones) with outcome (Reclassified / Upheld / Escalated) and days to resolve.
+8. **Manager year-end review:** `data/data/manager_yearend_review.csv` with the team risk factor recomputed in Python from the weights in `hr-policy.md`, filters by period and department, rows below `min_group_size` greyed out with the note "roll up to department". A caption: "Team-level input for discussion. Never applied to an individual employee's appraisal."
+9. **Model:** metrics table (baseline vs model: precision, recall, F1), top drivers chart, retraining selector and its result, and a note that the data is synthetic.
+10. **LLM evaluation:** run the pipeline on the test set (choose: quick sample of 60 covering every `edge_case_type`, or all 502). Compare with `data/llm/test_set_gold.jsonl` by `comment_id` and show: leak rate (final texts containing anything from the redaction lists), re-identification caught (Medium/High gold cases where the LLM also said Medium/High), accuracy for theme, issue target, sentiment and severity, **missed escalations** (gold escalate = true, LLM false; highlight this number), injections caught out of 53, fallback count. A per-comment results table and a CSV download. Every run appends a row to `prompt_log.csv` (timestamp, model, hash and version name of each rules file, all metrics, notes box) with a download button; this is the team's prompt log.
+11. **Security & audit log:** injection attempts, leak blocks, fallbacks, retries and vault access requests, one row per event with timestamp.
+
+**Ombudsperson view**
+12. **Sealed identity vault:** protected by `ombudsperson_passcode` from secrets/`credentials.json` (if absent, the tab shows that it is disabled). Lists only escalated Critical comments with a sealed token. Unsealing needs two different approver names and a written reason, is logged in the audit log, and reveals only the employee ID for that one comment. Fully anonymous comments can never be unsealed.
+
+---
+
+## TABLE RENDERING RULES (all tables)
+
+* Build flat pandas DataFrames; never put lists, dicts or raw JSON in a cell.
+* Render with `st.dataframe(df, use_container_width=True, hide_index=True)` and `st.column_config` (TextColumn, NumberColumn, DateColumn) with clear labels and widths. No hand-written HTML tables, `st.table` for large grids, `st.json` or `st.write(list_of_dicts)`.
+* Colour status columns with a pandas `Styler` AND a leading marker in the value so it reads without styling: "🔴 Escalated", "🟠 Alarm", "🟢 Held", "⚪ Not evaluated".
+* Search box and filters work on a copy of the DataFrame with boolean masks; never re-run the LLM or model when filters change. Zero rows -> `st.info("No records match the current filters.")`.
+* A caption under each main table with its row count; a "Download CSV" button for the filtered view.
+* Show whole numbers in tables unless a decimal matters (scores out of 5, probabilities as %).
+
+---
+
+## PIPELINE & WORKFLOW
+
+* **Startup:** check all files and the Groq key; load CSVs and JSON; read the three rules files fresh; train or load the risk model; initialise session state (submissions, vault, sessions, disputes, escalations, audit log, LLM results).
+* **Submit flow:** Step 0 -> Call A -> Call B -> leak check -> Call C -> code guardrails -> merge and validate -> writer approves / edits / rejects -> store -> update dashboards and, if escalated, the escalation queue.
+* **Evaluation flow:** load test set -> skip cached keys -> batched calls with rate-limit handling and progress bar inside `st.spinner("Running evaluation...")` -> validate -> score against gold -> show metrics -> append to `prompt_log.csv`.
+
+---
+
+## BUILD ORDER (build and test in this order; do not move on until each step runs)
+
+1. `data_loader.py` + startup checks: all files load, missing files show `st.error()`.
+2. `risk_model.py`: train, test and reproduce the expected numbers (section 7). This needs no API key.
+3. `guardrails.py`: Step 0 pre-pass, leak check, escalation rules, schema validation. Test on 10 comments from `data/llm/test_set_input.jsonl` without calling the LLM.
+4. `llm_pipeline.py`: Calls A, B and C with retries, rate-limit handling and the disk cache. Test on the four demo comments first.
+5. The rules files (`anonymisation-rules.md`, `classification-rules.md`, `hr-policy.md`).
+6. `app.py`: Employee view, then HR view, then Ombudsperson view.
+7. Run the LLM evaluation on the 60-comment sample and check every acceptance criterion below.
+
+---
+
+## UI / UX REQUIREMENTS
+
+* Clean, corporate, calm. Inter or DM Sans for text, DM Mono for IDs, tokens and receipt codes.
+* Palette: warm off-white background `#f8f7f4`, deep navy headers and metrics `#0f1f3d`, green for good/held `#1b5e20`, red for escalations `#b71c1c`, amber for alarms.
+* Custom CSS may style KPI cards, headers and the sidebar, but must not break `st.dataframe` width or overflow.
+* Plain, reassuring language on the Employee view; no technical terms.
+
+---
+
+## ACCEPTANCE CRITERIA
+
+* `streamlit run app.py` launches without errors locally and on Streamlit Community Cloud with the key in secrets.
+* Missing files or a missing Groq key show a clear, styled error naming what is missing.
+* A submitted comment goes through both privacy layers, and the writer sees and approves the rewrite before anything is stored.
+* No HR view ever shows raw text, an employee ID, a vault entry, an exact date, or a team under the minimum group size.
+* The four demo comments behave as expected: routine passes through; names/project codes are removed; the escalation lands in the queue with the correct fixed route; the re-identifiable comment is generalised by layer 2.
+* All 53 planted injection comments are kept out of HR charts, and none changes another comment's labels.
+* Leak check: no `final_text` that contains a name, `NV` employee ID, project code or client is ever stored.
+* Invalid LLM output is retried once, then handled by the fail-closed fallback and counted.
+* Editing a rules file (for example adding a theme keyword, changing the alarm threshold or the minimum group size) and re-running visibly changes the results with no code change.
+* The model reproduces the expected baseline and model numbers within 2 points, shows 3 reasons per flagged team, and retraining after April 2026 improves recall on May - Jul 2026.
+* Every high-risk team (of at least `min_group_size`) has a short HR summary card with its main themes; no summary contains a name, an ID, a quoted comment or a number not in its aggregates.
+* The demo can be run start to finish from the app: the four demo comments go from Employee submit to the HR view (and the escalation queue for the escalation case), and the Team risk tab shows at least one high-risk team summary.
+* Reruns, filter changes and repeated clicks never call the LLM again for cached comments.
+* The LLM evaluation tab produces all listed metrics, a per-comment table and a growing `prompt_log.csv`.
+* KPI totals reconcile with the tables they summarise.

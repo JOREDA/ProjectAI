@@ -1,0 +1,8 @@
+credentials.json
+.env
+.streamlit/secrets.toml
+cache/
+__pycache__/
+*.pyc
+models/
+data/data/answer_key_hidden_drivers.csv

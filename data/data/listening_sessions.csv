@@ -1,0 +1,331 @@
+session_id,team_id,manager_id,department,location,alarm_month,alarm_reason,exit_rate_last_3m_pct,complaint_score_3m,session_status,held_within_days,attendees,top_issue_1,top_issue_2,main_issue_type,actions_agreed,actions_closed_on_time,pulse_before,pulse_avg_next_3m,exits_next_3m
+S0001,T001,M001,Engineering,Hyderabad,2024-12,Historical exits >= 10% (last 3 months),12,0.0,Held,20.0,10,Workload,,Policy,3,2,3.16,3.35,0.0
+S0002,T001,M001,Engineering,Hyderabad,2026-04,Historical exits >= 10% (last 3 months),12,1.7,Held,19.0,15,Manager behaviour,Pay,Person,2,2,2.96,3.17,0.0
+S0003,T002,M002,Customer Support,Hyderabad,2025-03,Historical exits >= 10% (last 3 months),21,2.5,Held,11.0,9,Pay,Workload,Policy,1,1,3.21,3.29,2.0
+S0004,T002,M002,Customer Support,Hyderabad,2025-06,Historical exits >= 10% (last 3 months),13,2.9,Held,11.0,11,Pay,Facilities,Policy,4,3,3.47,3.01,0.0
+S0005,T002,M002,Customer Support,Hyderabad,2025-12,Historical exits >= 10% (last 3 months),20,0.4,Not held,,0,Leave & time off,,Policy,0,0,3.14,3.06,1.0
+S0006,T002,M002,Customer Support,Hyderabad,2026-09,Historical exits >= 10% (last 3 months),14,3.3,Held,14.0,8,Workload,Manager behaviour,Policy,3,0,2.5,2.35,
+S0007,T003,M003,Product,Chennai,2024-11,Complaint score spike,0,4.0,Held,14.0,5,Workload,Manager behaviour,Person,4,4,3.3,3.17,0.0
+S0008,T003,M003,Product,Chennai,2025-09,Historical exits >= 10% (last 3 months),10,0.0,Held,11.0,8,Workload,,Policy,4,1,3.27,3.16,0.0
+S0009,T003,M003,Product,Chennai,2026-01,Historical exits >= 10% (last 3 months),10,0.7,Held,12.0,5,Workload,,Policy,2,2,3.33,3.21,0.0
+S0010,T003,M003,Product,Chennai,2026-06,Historical exits >= 10% (last 3 months),10,1.0,Held,16.0,7,Work location,Facilities,Policy,4,3,2.94,2.98,1.0
+S0011,T003,M003,Product,Chennai,2026-09,Historical exits >= 10% and complaint spike,10,4.0,Held,18.0,6,Work location,Workload,Policy,3,3,3.22,2.68,
+S0012,T004,M004,Engineering,Bengaluru,2025-08,Historical exits >= 10% (last 3 months),11,1.1,Not held,,0,Team culture,Manager behaviour,Person,0,0,3.54,3.4,1.0
+S0013,T004,M004,Engineering,Bengaluru,2025-12,Historical exits >= 10% (last 3 months),11,1.3,Held,19.0,16,Pay,Work location,Policy,4,3,3.08,3.48,0.0
+S0014,T004,M004,Engineering,Bengaluru,2026-06,Historical exits >= 10% (last 3 months),11,2.3,Held,13.0,17,Pay,Workload,Policy,1,1,2.9,2.9,1.0
+S0015,T005,M005,Customer Support,Coimbatore,2025-06,Historical exits >= 10% (last 3 months),11,0.7,Held,14.0,6,Pay,,Policy,3,3,3.37,3.28,1.0
+S0016,T005,M005,Customer Support,Coimbatore,2025-09,Historical exits >= 10% (last 3 months),12,0.8,Held,5.0,5,Workload,,Policy,1,0,3.28,3.23,0.0
+S0017,T006,M006,Customer Support,Bengaluru,2025-02,Complaint score spike,0,4.2,Not held,,0,Workload,Leave & time off,Policy,0,0,2.66,3.03,0.0
+S0018,T006,M006,Customer Support,Bengaluru,2025-07,Complaint score spike,0,4.0,Held,14.0,12,Pay,Workload,Policy,2,1,2.52,2.86,1.0
+S0019,T007,M007,Engineering,Chennai,2025-03,Historical exits >= 10% and complaint spike,17,4.4,Held,11.0,4,Workload,Career growth,Policy,3,0,3.18,3.2,0.0
+S0020,T007,M007,Engineering,Chennai,2025-08,Complaint score spike,0,3.9,Held,21.0,5,Manager behaviour,Harassment,Person,2,0,3.33,3.48,0.0
+S0021,T007,M007,Engineering,Chennai,2026-08,Historical exits >= 10% (last 3 months),17,0.0,Held,19.0,3,Pay,,Policy,2,1,3.14,3.1,
+S0022,T008,M008,QA,Bengaluru,2025-02,Historical exits >= 10% (last 3 months),17,1.9,Held,20.0,9,Pay,Work location,Policy,2,2,2.97,2.75,0.0
+S0023,T008,M008,QA,Bengaluru,2025-08,Historical exits >= 10% (last 3 months),18,0.8,Held,6.0,8,Facilities,Workload,Policy,3,2,2.97,2.86,1.0
+S0024,T008,M008,QA,Bengaluru,2025-12,Historical exits >= 10% (last 3 months),10,0.9,Held,19.0,8,Pay,,Policy,2,1,2.97,2.79,0.0
+S0025,T008,M008,QA,Bengaluru,2026-05,Historical exits >= 10% (last 3 months),17,1.2,Held,10.0,6,Manager behaviour,Pay,Person,4,1,2.5,2.63,2.0
+S0026,T008,M008,QA,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),20,1.3,Held,11.0,6,Work location,Manager behaviour,Policy,3,1,2.66,2.82,
+S0027,T010,M010,Engineering,Hyderabad,2024-11,Complaint score spike,0,4.0,Held,3.0,3,Manager behaviour,,Person,1,1,3.39,3.47,0.0
+S0028,T010,M010,Engineering,Hyderabad,2025-02,Complaint score spike,0,4.0,Held,21.0,3,Team culture,Harassment,Person,2,1,3.46,3.68,0.0
+S0029,T010,M010,Engineering,Hyderabad,2026-06,Complaint score spike,0,4.0,Held,19.0,4,Team culture,Manager behaviour,Person,2,2,3.05,3.18,0.0
+S0030,T012,M012,Sales,Hyderabad,2025-06,Complaint score spike,0,3.8,Held,9.0,13,Workload,Manager behaviour,Person,4,2,3.04,2.99,1.0
+S0031,T012,M012,Sales,Hyderabad,2025-12,Historical exits >= 10% (last 3 months),20,1.6,Not held,,0,Workload,Manager behaviour,Policy,0,0,2.84,2.85,2.0
+S0032,T012,M012,Sales,Hyderabad,2026-03,Historical exits >= 10% (last 3 months),13,2.8,Held,20.0,13,Workload,Manager behaviour,Both,2,0,2.93,2.81,0.0
+S0033,T012,M012,Sales,Hyderabad,2026-08,Historical exits >= 10% (last 3 months),13,1.5,Held,5.0,13,Workload,Work location,Policy,3,1,2.8,2.64,
+S0034,T013,M013,Engineering,Hyderabad,2025-07,Complaint score spike,9,5.2,Held,14.0,8,Pay,Workload,Policy,4,2,3.03,2.89,2.0
+S0035,T013,M013,Engineering,Hyderabad,2025-10,Historical exits >= 10% and complaint spike,20,4.7,Held,7.0,7,Manager behaviour,Ethics,Person,1,0,2.71,3.12,2.0
+S0036,T013,M013,Engineering,Hyderabad,2026-01,Historical exits >= 10% (last 3 months),17,1.5,Held,9.0,9,Workload,Career growth,Policy,2,2,3.27,2.94,0.0
+S0037,T013,M013,Engineering,Hyderabad,2026-04,Complaint score spike,0,4.7,Held,8.0,8,Harassment,Manager behaviour,Person,1,1,2.81,2.92,1.0
+S0038,T013,M013,Engineering,Hyderabad,2026-08,Complaint score spike,0,5.0,Not held,,0,Pay,Work location,Policy,0,0,3.22,2.6,
+S0039,T014,M014,Engineering,Chennai,2025-06,Historical exits >= 10% (last 3 months),10,0.0,Held,12.0,8,Pay,,Policy,4,1,3.02,3.09,1.0
+S0040,T014,M014,Engineering,Chennai,2025-09,Historical exits >= 10% (last 3 months),11,1.3,Held,11.0,6,Pay,Manager behaviour,Policy,4,1,3.2,3.17,0.0
+S0041,T018,M018,Engineering,Chennai,2025-12,Complaint score spike,7,4.0,Not held,,0,Workload,Leave & time off,Policy,0,0,3.11,3.34,2.0
+S0042,T018,M018,Engineering,Chennai,2026-03,Historical exits >= 10% (last 3 months),13,0.7,Held,11.0,14,Workload,Facilities,Policy,1,1,3.41,3.13,2.0
+S0043,T018,M018,Engineering,Chennai,2026-06,Historical exits >= 10% (last 3 months),14,1.4,Held,18.0,12,Work location,Team culture,Policy,4,3,3.23,3.31,0.0
+S0044,T019,M019,Product,Coimbatore,2025-08,Complaint score spike,0,3.8,Held,21.0,5,Workload,Harassment,Policy,4,1,3.96,3.88,0.0
+S0045,T020,M020,Engineering,Hyderabad,2026-09,Historical exits >= 10% (last 3 months),11,1.5,Held,3.0,16,Work location,Pay,Policy,1,1,3.24,3.27,
+S0046,T021,M021,Customer Support,Pune,2024-11,Complaint score spike,0,6.7,Held,5.0,4,Pay,Workload,Policy,3,1,2.64,2.54,0.0
+S0047,T021,M021,Customer Support,Pune,2025-06,Historical exits >= 10% (last 3 months),17,1.1,Held,15.0,6,Pay,,Policy,2,0,2.59,2.26,2.0
+S0048,T021,M021,Customer Support,Pune,2025-09,Historical exits >= 10% (last 3 months),40,2.7,Held,14.0,3,Workload,Leave & time off,Policy,1,1,2.27,2.4,0.0
+S0049,T021,M021,Customer Support,Pune,2026-04,Historical exits >= 10% (last 3 months),17,1.1,Held,10.0,5,Workload,,Policy,3,2,2.43,2.29,0.0
+S0050,T021,M021,Customer Support,Pune,2026-07,Complaint score spike,0,4.0,Held,5.0,4,Workload,Manager behaviour,Person,4,3,2.25,2.15,0.0
+S0051,T024,M024,Engineering,Pune,2025-07,Historical exits >= 10% (last 3 months),17,3.3,Held,12.0,6,Workload,Pay,Policy,4,2,3.16,3.32,0.0
+S0052,T024,M024,Engineering,Pune,2026-04,Historical exits >= 10% (last 3 months),17,2.5,Held,3.0,7,Workload,Leave & time off,Policy,2,2,3.07,2.68,0.0
+S0053,T026,M026,Customer Support,Hyderabad,2026-09,Complaint score spike,0,4.4,Held,13.0,10,Workload,Work location,Both,4,4,3.04,3.22,
+S0054,T027,M027,Customer Support,Bengaluru,2025-02,Complaint score spike,0,4.0,Held,15.0,3,Pay,Workload,Policy,1,1,2.82,3.16,2.0
+S0055,T027,M027,Customer Support,Bengaluru,2025-06,Historical exits >= 10% (last 3 months),40,1.3,Not held,,0,Pay,,Policy,0,0,3.04,2.91,1.0
+S0056,T027,M027,Customer Support,Bengaluru,2025-09,Historical exits >= 10% (last 3 months),20,0.0,Held,18.0,4,Pay,,Policy,3,2,2.79,2.96,0.0
+S0057,T027,M027,Customer Support,Bengaluru,2026-09,Complaint score spike,0,4.0,Held,13.0,4,Pay,Work location,Policy,4,4,2.73,2.5,
+S0058,T028,M028,Engineering,Pune,2026-07,Complaint score spike,0,4.2,Not held,,0,Workload,Team culture,Policy,0,0,2.82,3.14,0.0
+S0059,T029,M029,Engineering,Chennai,2025-08,Historical exits >= 10% and complaint spike,11,4.8,Held,3.0,6,Workload,Career growth,Person,1,1,2.81,3.08,0.0
+S0060,T030,M030,Product,Chennai,2026-05,Complaint score spike,0,4.9,Held,14.0,8,Workload,Work location,Policy,2,1,3.22,3.11,0.0
+S0061,T031,M031,Engineering,Pune,2025-11,Historical exits >= 10% (last 3 months),12,1.7,Held,18.0,14,Workload,Leave & time off,Policy,2,2,2.88,3.26,0.0
+S0062,T031,M031,Engineering,Pune,2026-06,Historical exits >= 10% (last 3 months),12,0.8,Not held,,0,Work location,,Policy,0,0,2.71,2.86,1.0
+S0063,T031,M031,Engineering,Pune,2026-10,Historical exits >= 10% (last 3 months),19,3.5,Held,13.0,12,Work location,Workload,Policy,3,2,3.11,,
+S0064,T032,M032,Sales,Pune,2026-05,Historical exits >= 10% (last 3 months),13,2.4,Held,15.0,13,Manager behaviour,Leave & time off,Policy,2,1,3.49,3.15,1.0
+S0065,T033,M033,Data & Analytics,Hyderabad,2025-01,Historical exits >= 10% (last 3 months),12,2.5,Held,9.0,7,Workload,Facilities,Person,2,1,2.85,3.36,0.0
+S0066,T033,M033,Data & Analytics,Hyderabad,2025-05,Historical exits >= 10% (last 3 months),12,0.0,Not held,,0,Pay,,Policy,0,0,3.23,3.07,0.0
+S0067,T033,M033,Data & Analytics,Hyderabad,2026-07,Historical exits >= 10% (last 3 months),25,1.7,Held,3.0,5,Pay,Work location,Policy,2,1,3.26,3.02,2.0
+S0068,T033,M033,Data & Analytics,Hyderabad,2026-10,Historical exits >= 10% (last 3 months),25,1.7,Held,20.0,5,Work location,Manager behaviour,Policy,3,2,2.94,,
+S0069,T034,M034,Operations,Bengaluru,2026-10,Historical exits >= 10% (last 3 months),18,0.6,Held,15.0,7,Workload,,Policy,4,4,3.55,,
+S0070,T035,M035,HR,Hyderabad,2025-01,Historical exits >= 10% (last 3 months),11,1.0,Held,15.0,13,Career growth,Team culture,Policy,1,0,3.17,3.28,0.0
+S0071,T035,M035,HR,Hyderabad,2026-03,Historical exits >= 10% (last 3 months),11,2.7,Held,13.0,12,Workload,Team culture,Person,3,2,3.22,3.2,1.0
+S0072,T037,M037,Engineering,Pune,2025-02,Historical exits >= 10% (last 3 months),12,1.0,Held,11.0,13,Career growth,,Both,4,4,3.11,3.17,0.0
+S0073,T037,M037,Engineering,Pune,2026-07,Historical exits >= 10% (last 3 months),20,2.6,Held,8.0,13,Manager behaviour,Work location,Person,4,4,3.18,3.27,1.0
+S0074,T039,M039,QA,Chennai,2024-11,Complaint score spike,0,5.6,Held,5.0,5,Workload,,Person,3,3,3.24,3.23,1.0
+S0075,T039,M039,QA,Chennai,2025-02,Historical exits >= 10% (last 3 months),11,1.8,Not held,,0,Workload,Career growth,Policy,0,0,3.24,3.25,0.0
+S0076,T039,M039,QA,Chennai,2026-05,Historical exits >= 10% (last 3 months),22,0.0,Held,8.0,7,Workload,,Policy,4,2,3.35,3.18,1.0
+S0077,T039,M039,QA,Chennai,2026-08,Historical exits >= 10% and complaint spike,11,3.8,Held,11.0,6,Workload,Leave & time off,Both,1,0,3.23,3.11,
+S0078,T040,M040,Engineering,Chennai,2026-01,Complaint score spike,0,3.8,Held,4.0,11,Workload,Ethics,Policy,2,2,3.5,3.34,0.0
+S0079,T041,M041,Customer Support,Hyderabad,2026-06,Historical exits >= 10% (last 3 months),17,1.1,Held,15.0,6,Career growth,Workload,Both,4,3,2.63,2.77,2.0
+S0080,T041,M041,Customer Support,Hyderabad,2026-09,Historical exits >= 10% (last 3 months),17,3.2,Held,17.0,7,Pay,Manager behaviour,Policy,4,3,2.85,2.75,
+S0081,T042,M042,Customer Support,Gurugram,2025-04,Historical exits >= 10% (last 3 months),14,1.4,Held,17.0,4,Manager behaviour,,Person,1,0,3.0,2.96,0.0
+S0082,T042,M042,Customer Support,Gurugram,2025-08,Historical exits >= 10% (last 3 months),14,1.9,Held,18.0,6,Workload,,Person,1,1,2.94,3.0,0.0
+S0083,T042,M042,Customer Support,Gurugram,2026-08,Complaint score spike,0,3.8,Not held,,0,Manager behaviour,Career growth,Person,0,0,3.11,3.05,
+S0084,T043,M043,HR,Pune,2024-11,Historical exits >= 10% (last 3 months),10,0.0,Not held,,0,Pay,,Policy,0,0,3.66,3.32,0.0
+S0085,T043,M043,HR,Pune,2025-09,Historical exits >= 10% (last 3 months),10,1.3,Held,17.0,8,Workload,Pay,Person,1,1,3.33,3.4,0.0
+S0086,T045,M045,Customer Support,Coimbatore,2024-11,Complaint score spike,0,5.7,Held,17.0,6,Team culture,Workload,Person,4,2,2.63,3.19,0.0
+S0087,T045,M045,Customer Support,Coimbatore,2025-05,Historical exits >= 10% (last 3 months),14,1.0,Held,10.0,4,Career growth,,Both,1,1,3.09,3.06,0.0
+S0088,T045,M045,Customer Support,Coimbatore,2025-09,Historical exits >= 10% (last 3 months),29,0.0,Held,13.0,5,Workload,,Policy,2,1,2.94,3.1,0.0
+S0089,T046,M046,Engineering,Chennai,2025-07,Historical exits >= 10% (last 3 months),18,0.6,Held,10.0,10,Career growth,,Both,4,2,3.21,3.07,0.0
+S0090,T046,M046,Engineering,Chennai,2026-07,Historical exits >= 10% (last 3 months),25,3.6,Held,5.0,11,Pay,Workload,Policy,4,2,3.03,3.12,1.0
+S0091,T047,M047,Finance,Chennai,2026-02,Historical exits >= 10% (last 3 months),11,0.7,Held,16.0,8,Career growth,,Both,2,1,3.57,3.34,0.0
+S0092,T049,M049,Marketing,Bengaluru,2024-11,Complaint score spike,0,4.2,Held,4.0,7,Workload,,Policy,2,0,3.2,3.29,0.0
+S0093,T049,M049,Marketing,Bengaluru,2025-06,Historical exits >= 10% (last 3 months),17,2.5,Held,13.0,10,Workload,Career growth,Policy,3,3,3.35,3.32,0.0
+S0094,T050,M050,Operations,Chennai,2025-01,Historical exits >= 10% (last 3 months),10,1.0,Held,20.0,8,Facilities,Team culture,Policy,2,2,3.35,3.17,1.0
+S0095,T050,M050,Operations,Chennai,2025-04,Historical exits >= 10% (last 3 months),11,1.5,Held,11.0,6,Workload,,Policy,2,2,3.42,3.31,0.0
+S0096,T050,M050,Operations,Chennai,2026-07,Historical exits >= 10% (last 3 months),10,0.7,Held,16.0,5,Work location,,Policy,2,2,2.94,2.87,2.0
+S0097,T050,M050,Operations,Chennai,2026-10,Historical exits >= 10% (last 3 months),20,1.3,Not held,,0,Team culture,Pay,Person,0,0,2.83,,
+S0098,T051,M051,Engineering,Pune,2026-07,Historical exits >= 10% (last 3 months),13,2.0,Not held,,0,Pay,Work location,Policy,0,0,3.4,3.52,0.0
+S0099,T054,M054,Finance,Chennai,2026-05,Historical exits >= 10% (last 3 months),20,1.2,Not held,,0,Career growth,Work location,Both,0,0,3.39,3.34,0.0
+S0100,T054,M054,Finance,Chennai,2026-10,Complaint score spike,0,4.5,Held,10.0,6,Workload,Facilities,Policy,1,1,3.59,,
+S0101,T055,M055,Operations,Chennai,2025-12,Historical exits >= 10% (last 3 months),11,1.5,Held,12.0,5,Leave & time off,Team culture,Policy,4,4,2.89,3.28,0.0
+S0102,T055,M055,Operations,Chennai,2026-09,Historical exits >= 10% (last 3 months),11,3.0,Held,12.0,7,Workload,Manager behaviour,Policy,3,3,3.16,2.89,
+S0103,T056,M056,QA,Hyderabad,2025-06,Historical exits >= 10% (last 3 months),12,0.9,Held,13.0,12,Workload,Career growth,Person,2,2,3.54,3.5,0.0
+S0104,T057,M057,Engineering,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),10,2.4,Held,13.0,9,Work location,Pay,Policy,2,2,3.0,2.9,
+S0105,T058,M058,Data & Analytics,Pune,2025-01,Historical exits >= 10% (last 3 months),20,0.3,Held,6.0,6,Facilities,,Policy,2,2,2.64,3.15,1.0
+S0106,T058,M058,Data & Analytics,Pune,2025-04,Historical exits >= 10% (last 3 months),10,0.7,Not held,,0,Pay,,Policy,0,0,3.17,3.07,1.0
+S0107,T058,M058,Data & Analytics,Pune,2025-07,Historical exits >= 10% (last 3 months),10,1.5,Not held,,0,Workload,Pay,Person,0,0,3.18,2.92,1.0
+S0108,T058,M058,Data & Analytics,Pune,2025-10,Historical exits >= 10% (last 3 months),10,2.1,Held,21.0,7,Workload,Leave & time off,Policy,3,2,2.73,2.78,0.0
+S0109,T058,M058,Data & Analytics,Pune,2026-06,Historical exits >= 10% (last 3 months),10,1.7,Held,20.0,6,Manager behaviour,Work location,Policy,3,3,2.91,2.76,0.0
+S0110,T058,M058,Data & Analytics,Pune,2026-09,Complaint score spike,0,4.7,Held,4.0,7,Manager behaviour,Workload,Person,4,3,2.54,2.49,
+S0111,T062,M062,QA,Gurugram,2025-01,Historical exits >= 10% (last 3 months),11,1.5,Not held,,0,Pay,Workload,Policy,0,0,2.92,3.36,3.0
+S0112,T062,M062,QA,Gurugram,2025-04,Historical exits >= 10% (last 3 months),18,1.4,Held,18.0,14,Pay,Manager behaviour,Policy,4,2,3.34,3.3,0.0
+S0113,T062,M062,QA,Gurugram,2026-06,Historical exits >= 10% (last 3 months),24,3.0,Held,15.0,11,Pay,Workload,Policy,3,1,3.07,3.12,1.0
+S0114,T063,M063,Data & Analytics,Hyderabad,2026-09,Historical exits >= 10% (last 3 months),12,2.0,Held,17.0,16,Work location,Manager behaviour,Policy,1,1,3.23,3.32,
+S0115,T065,M065,Engineering,Coimbatore,2025-02,Historical exits >= 10% (last 3 months),12,0.4,Held,9.0,10,Workload,,Policy,4,1,3.23,2.89,2.0
+S0116,T065,M065,Engineering,Coimbatore,2025-05,Historical exits >= 10% (last 3 months),12,1.2,Held,4.0,13,Leave & time off,Pay,Policy,2,0,3.06,3.27,1.0
+S0117,T065,M065,Engineering,Coimbatore,2025-09,Complaint score spike,6,4.5,Held,8.0,13,Pay,Workload,Policy,1,0,3.16,3.24,2.0
+S0118,T065,M065,Engineering,Coimbatore,2025-12,Historical exits >= 10% (last 3 months),12,1.4,Held,21.0,12,Pay,Facilities,Policy,4,3,3.6,3.1,1.0
+S0119,T065,M065,Engineering,Coimbatore,2026-04,Historical exits >= 10% (last 3 months),12,0.0,Held,18.0,14,Manager behaviour,,Policy,1,1,3.14,3.09,3.0
+S0120,T065,M065,Engineering,Coimbatore,2026-07,Historical exits >= 10% (last 3 months),18,1.4,Held,13.0,9,Leave & time off,Facilities,Policy,1,0,2.99,3.2,0.0
+S0121,T066,M066,Finance,Gurugram,2025-07,Historical exits >= 10% (last 3 months),12,2.5,Held,3.0,6,Pay,,Policy,4,2,3.3,3.43,0.0
+S0122,T067,M067,Engineering,Pune,2024-11,Historical exits >= 10% (last 3 months),18,0.0,Held,16.0,9,Workload,,Policy,1,1,2.82,2.94,2.0
+S0123,T067,M067,Engineering,Pune,2025-02,Historical exits >= 10% (last 3 months),18,2.8,Held,13.0,10,Workload,Career growth,Both,4,2,2.75,2.84,0.0
+S0124,T067,M067,Engineering,Pune,2026-04,Historical exits >= 10% (last 3 months),36,0.6,Held,11.0,8,Manager behaviour,,Person,4,2,2.59,3.02,4.0
+S0125,T067,M067,Engineering,Pune,2026-07,Historical exits >= 10% (last 3 months),44,3.1,Held,14.0,5,Pay,Ethics,Policy,4,3,3.22,2.75,0.0
+S0126,T068,M068,Customer Support,Coimbatore,2025-09,Historical exits >= 10% (last 3 months),12,0.8,Held,6.0,13,Pay,Leave & time off,Policy,3,2,3.23,3.23,1.0
+S0127,T068,M068,Customer Support,Coimbatore,2026-07,Historical exits >= 10% (last 3 months),12,1.0,Held,13.0,11,Workload,Pay,Both,1,0,3.2,3.14,2.0
+S0128,T068,M068,Customer Support,Coimbatore,2026-10,Historical exits >= 10% (last 3 months),12,1.3,Held,18.0,13,Workload,Work location,Policy,1,1,3.49,,
+S0129,T069,M069,Customer Support,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),13,3.3,Held,13.0,13,Work location,Workload,Policy,1,1,3.19,3.26,
+S0130,T071,M071,Sales,Coimbatore,2025-09,Complaint score spike,0,4.1,Held,11.0,9,Workload,Manager behaviour,Policy,2,1,2.84,2.86,1.0
+S0131,T071,M071,Sales,Coimbatore,2026-01,Historical exits >= 10% (last 3 months),17,1.8,Held,18.0,11,Pay,Manager behaviour,Person,1,0,2.66,2.32,3.0
+S0132,T071,M071,Sales,Coimbatore,2026-04,Historical exits >= 10% (last 3 months),25,2.8,Held,11.0,6,Workload,Facilities,Both,4,2,2.45,2.56,0.0
+S0133,T071,M071,Sales,Coimbatore,2026-09,Historical exits >= 10% (last 3 months),25,2.6,Held,19.0,9,Pay,Workload,Policy,4,2,2.66,2.77,
+S0134,T072,M072,Operations,Chennai,2025-08,Historical exits >= 10% (last 3 months),12,1.4,Held,15.0,12,Pay,Manager behaviour,Policy,4,2,2.62,2.71,4.0
+S0135,T072,M072,Operations,Chennai,2025-11,Historical exits >= 10% (last 3 months),25,0.0,Held,8.0,11,Pay,,Policy,2,1,2.9,2.63,0.0
+S0136,T072,M072,Operations,Chennai,2026-05,Historical exits >= 10% (last 3 months),19,0.6,Not held,,0,Pay,,Policy,0,0,2.55,2.63,2.0
+S0137,T072,M072,Operations,Chennai,2026-08,Historical exits >= 10% (last 3 months),12,0.8,Held,11.0,13,Pay,Workload,Policy,2,1,2.86,2.94,
+S0138,T073,M073,Finance,Bengaluru,2025-04,Historical exits >= 10% (last 3 months),11,1.8,Not held,,0,Pay,Career growth,Policy,0,0,3.34,3.31,0.0
+S0139,T074,M074,Engineering,Hyderabad,2026-07,Complaint score spike,8,4.4,Not held,,0,Work location,Manager behaviour,Policy,0,0,2.95,3.16,0.0
+S0140,T076,M076,Product,Chennai,2024-11,Historical exits >= 10% (last 3 months),12,0.0,Held,8.0,6,Workload,,Policy,2,0,3.19,3.03,1.0
+S0141,T076,M076,Product,Chennai,2025-02,Historical exits >= 10% (last 3 months),14,0.5,Held,4.0,4,Pay,,Policy,1,0,2.94,3.16,0.0
+S0142,T076,M076,Product,Chennai,2026-07,Historical exits >= 10% (last 3 months),12,1.7,Held,6.0,7,Work location,Workload,Policy,1,1,2.99,3.25,1.0
+S0143,T076,M076,Product,Chennai,2026-10,Historical exits >= 10% (last 3 months),12,2.5,Held,11.0,6,Team culture,Workload,Policy,1,0,3.37,,
+S0144,T077,M077,Customer Support,Gurugram,2025-05,Historical exits >= 10% (last 3 months),14,1.4,Held,13.0,4,Workload,Pay,Policy,3,3,2.66,2.92,2.0
+S0145,T077,M077,Customer Support,Gurugram,2025-08,Historical exits >= 10% (last 3 months),33,1.9,Held,17.0,5,Pay,Team culture,Policy,4,4,2.95,2.89,0.0
+S0146,T078,M078,Finance,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),20,3.1,Held,11.0,12,Pay,Workload,Policy,2,2,3.02,3.32,
+S0147,T080,M080,Sales,Pune,2025-08,Historical exits >= 10% (last 3 months),11,0.7,Held,15.0,7,Team culture,,Person,2,2,3.71,3.51,0.0
+S0148,T081,M081,Sales,Gurugram,2025-05,Historical exits >= 10% (last 3 months),14,2.0,Held,12.0,11,Pay,Ethics,Policy,2,2,3.05,3.53,0.0
+S0149,T082,M082,Operations,Bengaluru,2025-12,Historical exits >= 10% (last 3 months),17,0.8,Held,21.0,8,Career growth,,Policy,1,1,3.37,3.26,1.0
+S0150,T083,M083,Engineering,Bengaluru,2025-04,Complaint score spike,0,4.7,Held,4.0,4,Pay,Workload,Policy,2,1,2.96,3.21,0.0
+S0151,T083,M083,Engineering,Bengaluru,2025-08,Historical exits >= 10% (last 3 months),20,2.0,Held,6.0,3,Manager behaviour,,Person,4,3,3.08,3.0,0.0
+S0152,T083,M083,Engineering,Bengaluru,2026-06,Historical exits >= 10% (last 3 months),20,2.0,Held,12.0,4,Work location,Facilities,Policy,2,0,2.53,2.87,1.0
+S0153,T083,M083,Engineering,Bengaluru,2026-09,Historical exits >= 10% and complaint spike,20,5.3,Held,17.0,3,Manager behaviour,Career growth,Person,4,1,2.8,3.06,
+S0154,T084,M084,Engineering,Hyderabad,2025-01,Historical exits >= 10% (last 3 months),11,3.3,Held,11.0,11,Workload,Pay,Policy,4,2,2.63,2.84,3.0
+S0155,T084,M084,Engineering,Hyderabad,2025-04,Historical exits >= 10% (last 3 months),19,2.1,Held,15.0,9,Workload,Facilities,Policy,1,0,2.7,2.9,1.0
+S0156,T084,M084,Engineering,Hyderabad,2025-08,Historical exits >= 10% (last 3 months),12,1.9,Held,8.0,9,Pay,Manager behaviour,Policy,4,4,3.02,2.67,2.0
+S0157,T084,M084,Engineering,Hyderabad,2025-11,Historical exits >= 10% (last 3 months),12,2.3,Held,6.0,9,Ethics,Workload,Person,2,1,2.74,2.78,0.0
+S0158,T084,M084,Engineering,Hyderabad,2026-04,Historical exits >= 10% and complaint spike,11,4.1,Held,6.0,15,Pay,Manager behaviour,Policy,1,0,2.68,2.68,6.0
+S0159,T084,M084,Engineering,Hyderabad,2026-07,Historical exits >= 10% and complaint spike,35,4.3,Held,14.0,12,Work location,Manager behaviour,Policy,2,1,2.69,2.43,5.0
+S0160,T084,M084,Engineering,Hyderabad,2026-10,Historical exits >= 10% (last 3 months),28,1.5,Held,6.0,16,Work location,Team culture,Person,3,3,2.55,,
+S0161,T085,M085,Engineering,Coimbatore,2026-06,Historical exits >= 10% (last 3 months),10,1.3,Held,3.0,8,Career growth,Manager behaviour,Both,2,1,3.6,3.4,0.0
+S0162,T087,M087,Operations,Bengaluru,2024-12,Historical exits >= 10% (last 3 months),10,3.0,Held,7.0,9,Workload,Pay,Policy,4,2,3.13,3.13,0.0
+S0163,T087,M087,Operations,Bengaluru,2025-10,Historical exits >= 10% (last 3 months),10,0.7,Held,8.0,9,Pay,,Policy,2,2,3.16,3.08,0.0
+S0164,T087,M087,Operations,Bengaluru,2026-04,Historical exits >= 10% and complaint spike,10,4.0,Not held,,0,Workload,Pay,Policy,0,0,2.96,2.82,2.0
+S0165,T087,M087,Operations,Bengaluru,2026-07,Historical exits >= 10% (last 3 months),22,0.0,Not held,,0,Pay,,Policy,0,0,2.89,2.86,1.0
+S0166,T087,M087,Operations,Bengaluru,2026-10,Historical exits >= 10% (last 3 months),10,2.7,Held,15.0,8,Work location,Workload,Policy,4,3,2.76,,
+S0167,T089,M089,Product,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),18,2.6,Not held,,0,Workload,Team culture,Person,0,0,3.28,3.16,
+S0168,T090,M090,Finance,Hyderabad,2025-06,Historical exits >= 10% (last 3 months),27,0.0,Held,9.0,8,Workload,,Policy,4,3,3.04,3.5,1.0
+S0169,T091,M091,Marketing,Hyderabad,2025-11,Historical exits >= 10% (last 3 months),12,0.4,Held,16.0,7,Pay,,Policy,2,2,4.01,3.74,0.0
+S0170,T092,M092,Data & Analytics,Coimbatore,2025-10,Complaint score spike,0,4.2,Held,9.0,4,Workload,Work location,Policy,1,1,3.5,3.34,0.0
+S0171,T093,M093,Sales,Bengaluru,2025-03,Historical exits >= 10% (last 3 months),17,2.5,Held,8.0,11,Workload,Facilities,Person,2,1,3.26,3.45,0.0
+S0172,T095,M095,Engineering,Coimbatore,2025-05,Historical exits >= 10% (last 3 months),29,1.0,Held,20.0,6,Career growth,,Both,2,2,3.79,3.73,1.0
+S0173,T095,M095,Engineering,Coimbatore,2025-08,Historical exits >= 10% (last 3 months),17,1.7,Held,3.0,4,Facilities,Pay,Policy,2,1,3.94,3.87,0.0
+S0174,T095,M095,Engineering,Coimbatore,2026-05,Historical exits >= 10% (last 3 months),14,0.0,Held,18.0,4,Pay,,Policy,1,1,3.75,3.84,0.0
+S0175,T096,M096,Engineering,Bengaluru,2026-05,Historical exits >= 10% (last 3 months),15,2.8,Held,20.0,16,Work location,Workload,Policy,4,3,2.41,2.65,0.0
+S0176,T097,M097,Engineering,Pune,2025-06,Historical exits >= 10% (last 3 months),12,0.8,Held,18.0,12,Workload,,Person,2,2,3.66,3.25,0.0
+S0177,T097,M097,Engineering,Pune,2026-06,Complaint score spike,0,4.0,Held,13.0,9,Work location,Workload,Policy,3,2,3.3,3.33,2.0
+S0178,T097,M097,Engineering,Pune,2026-09,Historical exits >= 10% (last 3 months),13,1.5,Held,17.0,10,Pay,Workload,Person,3,3,3.45,3.06,
+S0179,T099,M099,Sales,Hyderabad,2026-05,Historical exits >= 10% (last 3 months),13,2.9,Held,11.0,9,Workload,Facilities,Policy,2,1,3.13,3.02,0.0
+S0180,T099,M099,Sales,Hyderabad,2026-10,Historical exits >= 10% (last 3 months),13,2.0,Held,15.0,10,Facilities,Workload,Policy,4,2,3.04,,
+S0181,T101,M101,Customer Support,Pune,2024-12,Historical exits >= 10% (last 3 months),14,3.6,Held,16.0,4,Pay,Career growth,Policy,1,1,3.19,2.87,1.0
+S0182,T101,M101,Customer Support,Pune,2025-03,Historical exits >= 10% (last 3 months),17,2.8,Not held,,0,Workload,Pay,Both,0,0,2.76,3.17,0.0
+S0183,T101,M101,Customer Support,Pune,2025-09,Complaint score spike,0,4.3,Held,6.0,4,Workload,Pay,Policy,1,1,2.76,2.91,0.0
+S0184,T101,M101,Customer Support,Pune,2026-05,Historical exits >= 10% (last 3 months),29,0.0,Held,19.0,4,Pay,,Policy,1,1,2.65,2.89,0.0
+S0185,T102,M102,Engineering,Coimbatore,2024-11,Historical exits >= 10% (last 3 months),12,2.5,Held,4.0,5,Team culture,,Person,3,3,3.07,3.36,0.0
+S0186,T103,M103,Operations,Chennai,2026-02,Complaint score spike,0,4.8,Held,4.0,4,Harassment,Pay,Person,3,1,3.44,3.36,0.0
+S0187,T105,M105,Engineering,Chennai,2025-05,Historical exits >= 10% (last 3 months),23,1.3,Held,20.0,10,Workload,Team culture,Person,4,3,3.52,3.05,2.0
+S0188,T105,M105,Engineering,Chennai,2025-08,Historical exits >= 10% (last 3 months),18,2.4,Held,4.0,10,Workload,Ethics,Policy,3,3,2.98,2.98,0.0
+S0189,T105,M105,Engineering,Chennai,2026-03,Historical exits >= 10% (last 3 months),15,2.6,Held,18.0,10,Manager behaviour,Workload,Policy,4,4,2.87,2.59,2.0
+S0190,T105,M105,Engineering,Chennai,2026-06,Historical exits >= 10% and complaint spike,17,3.8,Held,19.0,9,Manager behaviour,Workload,Policy,4,4,2.59,2.9,0.0
+S0191,T106,M106,Customer Support,Pune,2025-02,Complaint score spike,0,4.5,Held,17.0,7,Workload,Career growth,Policy,3,3,2.59,2.76,0.0
+S0192,T106,M106,Customer Support,Pune,2025-06,Complaint score spike,0,4.2,Held,11.0,10,Workload,Career growth,Policy,2,1,3.16,2.74,2.0
+S0193,T106,M106,Customer Support,Pune,2025-09,Historical exits >= 10% (last 3 months),18,3.0,Held,3.0,6,Manager behaviour,Workload,Policy,2,2,2.54,2.88,4.0
+S0194,T106,M106,Customer Support,Pune,2025-12,Historical exits >= 10% (last 3 months),44,1.3,Held,13.0,7,Pay,Workload,Policy,1,0,3.07,3.0,0.0
+S0195,T106,M106,Customer Support,Pune,2026-03,Complaint score spike,0,4.8,Held,9.0,8,Workload,Career growth,Policy,4,3,3.06,3.06,1.0
+S0196,T106,M106,Customer Support,Pune,2026-07,Historical exits >= 10% (last 3 months),30,2.2,Held,18.0,6,Workload,Pay,Policy,1,1,2.52,2.79,1.0
+S0197,T106,M106,Customer Support,Pune,2026-10,Historical exits >= 10% (last 3 months),10,2.7,Held,12.0,8,Career growth,Pay,Policy,4,4,2.67,,
+S0198,T107,M107,Engineering,Chennai,2026-09,Historical exits >= 10% (last 3 months),17,2.8,Held,5.0,10,Work location,Pay,Policy,3,2,3.26,3.41,
+S0199,T109,M109,Engineering,Bengaluru,2026-10,Historical exits >= 10% (last 3 months),15,2.2,Held,8.0,10,Work location,Facilities,Policy,2,2,3.77,,
+S0200,T110,M110,Engineering,Hyderabad,2026-04,Historical exits >= 10% (last 3 months),15,2.3,Held,13.0,11,Workload,Pay,Policy,1,1,3.07,3.06,0.0
+S0201,T110,M110,Engineering,Hyderabad,2026-09,Historical exits >= 10% (last 3 months),15,0.5,Not held,,0,Work location,,Policy,0,0,3.43,3.52,
+S0202,T111,M111,Product,Pune,2025-12,Historical exits >= 10% (last 3 months),10,0.7,Held,7.0,9,Leave & time off,,Policy,2,0,2.91,3.39,0.0
+S0203,T111,M111,Product,Pune,2026-04,Complaint score spike,0,3.9,Not held,,0,Workload,Pay,Policy,0,0,2.87,3.16,0.0
+S0204,T111,M111,Product,Pune,2026-08,Historical exits >= 10% (last 3 months),10,2.0,Held,9.0,7,Work location,Workload,Policy,3,0,3.22,3.35,
+S0205,T112,M112,Engineering,Hyderabad,2025-07,Historical exits >= 10% (last 3 months),15,2.3,Not held,,0,Workload,Manager behaviour,Policy,0,0,3.71,3.39,0.0
+S0206,T115,M115,Customer Support,Bengaluru,2025-02,Complaint score spike,0,3.8,Held,6.0,5,Career growth,Facilities,Policy,4,3,3.2,3.26,0.0
+S0207,T115,M115,Customer Support,Bengaluru,2025-12,Historical exits >= 10% (last 3 months),14,2.4,Held,11.0,5,Career growth,Leave & time off,Policy,2,2,3.4,3.34,0.0
+S0208,T115,M115,Customer Support,Bengaluru,2026-04,Historical exits >= 10% (last 3 months),14,1.0,Not held,,0,Workload,,Policy,0,0,3.38,3.18,2.0
+S0209,T115,M115,Customer Support,Bengaluru,2026-07,Historical exits >= 10% (last 3 months),33,1.0,Held,5.0,4,Workload,,Person,4,2,3.15,2.94,0.0
+S0210,T117,M117,Engineering,Chennai,2025-05,Historical exits >= 10% (last 3 months),17,2.0,Held,3.0,7,Workload,Pay,Policy,2,1,2.29,2.61,2.0
+S0211,T117,M117,Engineering,Chennai,2025-08,Historical exits >= 10% and complaint spike,18,6.8,Held,15.0,6,Workload,Pay,Policy,3,2,2.62,2.89,1.0
+S0212,T117,M117,Engineering,Chennai,2025-12,Historical exits >= 10% (last 3 months),17,3.2,Held,8.0,7,Workload,Pay,Person,1,1,2.85,2.63,0.0
+S0213,T117,M117,Engineering,Chennai,2026-05,Historical exits >= 10% (last 3 months),27,1.5,Held,11.0,8,Pay,Career growth,Policy,3,2,2.13,2.54,1.0
+S0214,T117,M117,Engineering,Chennai,2026-08,Historical exits >= 10% (last 3 months),10,3.4,Held,3.0,8,Pay,Workload,Policy,2,2,2.8,2.48,
+S0215,T118,M118,Product,Hyderabad,2025-09,Historical exits >= 10% (last 3 months),10,0.7,Held,10.0,7,Leave & time off,,Policy,1,1,4.12,3.55,0.0
+S0216,T119,M119,Customer Support,Coimbatore,2025-02,Historical exits >= 10% (last 3 months),18,2.1,Not held,,0,Workload,Pay,Policy,0,0,3.0,3.11,0.0
+S0217,T119,M119,Customer Support,Coimbatore,2025-06,Historical exits >= 10% (last 3 months),10,1.7,Not held,,0,Pay,Career growth,Policy,0,0,3.1,3.29,0.0
+S0218,T120,M120,QA,Chennai,2025-06,Historical exits >= 10% (last 3 months),12,1.4,Held,16.0,10,Career growth,Pay,Policy,1,1,3.49,3.14,0.0
+S0219,T121,M121,Sales,Bengaluru,2025-06,Historical exits >= 10% (last 3 months),14,0.0,Held,14.0,4,Pay,,Policy,2,0,3.63,3.6,0.0
+S0220,T121,M121,Sales,Bengaluru,2026-09,Historical exits >= 10% (last 3 months),14,0.5,Held,12.0,7,Pay,,Policy,4,4,3.08,3.36,
+S0221,T122,M122,Operations,Bengaluru,2025-06,Historical exits >= 10% (last 3 months),11,0.7,Held,5.0,5,Team culture,,Person,1,0,3.32,3.56,0.0
+S0222,T122,M122,Operations,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),11,2.6,Held,9.0,5,Workload,Work location,Policy,4,2,3.41,3.6,
+S0223,T123,M123,Operations,Chennai,2026-07,Historical exits >= 10% (last 3 months),13,0.9,Not held,,0,Pay,Workload,Policy,0,0,3.18,3.18,1.0
+S0224,T124,M124,Customer Support,Gurugram,2024-12,Historical exits >= 10% (last 3 months),10,1.0,Held,4.0,7,Workload,,Policy,4,2,2.9,3.05,0.0
+S0225,T124,M124,Customer Support,Gurugram,2025-05,Historical exits >= 10% (last 3 months),10,1.7,Held,17.0,9,Workload,Career growth,Policy,2,1,3.14,2.93,1.0
+S0226,T124,M124,Customer Support,Gurugram,2025-08,Historical exits >= 10% and complaint spike,11,7.0,Held,18.0,8,Workload,,Both,4,3,2.78,2.89,1.0
+S0227,T124,M124,Customer Support,Gurugram,2025-11,Historical exits >= 10% (last 3 months),10,0.7,Not held,,0,Workload,,Policy,0,0,2.63,2.95,2.0
+S0228,T124,M124,Customer Support,Gurugram,2026-02,Historical exits >= 10% (last 3 months),20,0.0,Not held,,0,Pay,,Policy,0,0,2.67,2.85,0.0
+S0229,T124,M124,Customer Support,Gurugram,2026-05,Complaint score spike,0,5.4,Held,11.0,7,Work location,Pay,Policy,1,0,3.0,2.56,2.0
+S0230,T124,M124,Customer Support,Gurugram,2026-08,Historical exits >= 10% (last 3 months),25,3.5,Held,20.0,5,Workload,Manager behaviour,Person,2,2,2.61,2.66,
+S0231,T125,M125,Customer Support,Gurugram,2025-07,Historical exits >= 10% (last 3 months),13,0.4,Held,11.0,10,Leave & time off,,Policy,1,1,3.62,3.35,0.0
+S0232,T125,M125,Customer Support,Gurugram,2026-08,Historical exits >= 10% (last 3 months),13,2.5,Held,5.0,13,Pay,Facilities,Policy,3,3,3.01,2.92,
+S0233,T127,M127,Sales,Pune,2024-12,Historical exits >= 10% (last 3 months),10,1.0,Held,15.0,6,Pay,,Policy,2,1,3.04,2.9,0.0
+S0234,T127,M127,Sales,Pune,2025-07,Historical exits >= 10% and complaint spike,10,4.0,Held,8.0,8,Workload,Career growth,Both,3,2,2.87,3.34,0.0
+S0235,T127,M127,Sales,Pune,2026-04,Complaint score spike,0,4.0,Held,9.0,6,Workload,Ethics,Both,2,1,3.0,3.09,0.0
+S0236,T128,M128,Operations,Gurugram,2026-08,Historical exits >= 10% (last 3 months),17,1.8,Held,16.0,8,Workload,Pay,Policy,4,2,3.36,3.34,
+S0237,T129,M129,Marketing,Bengaluru,2025-01,Historical exits >= 10% (last 3 months),12,2.0,Held,3.0,13,Workload,Pay,Person,3,1,2.8,2.65,1.0
+S0238,T129,M129,Marketing,Bengaluru,2025-04,Complaint score spike,6,4.3,Held,9.0,13,Workload,Pay,Policy,3,2,2.63,2.71,5.0
+S0239,T129,M129,Marketing,Bengaluru,2025-07,Historical exits >= 10% (last 3 months),31,3.1,Held,16.0,15,Pay,Workload,Policy,1,0,2.52,2.68,2.0
+S0240,T129,M129,Marketing,Bengaluru,2025-10,Historical exits >= 10% (last 3 months),13,2.7,Held,7.0,14,Manager behaviour,Workload,Person,3,1,2.22,2.49,7.0
+S0241,T129,M129,Marketing,Bengaluru,2026-01,Historical exits >= 10% (last 3 months),44,1.3,Held,14.0,15,Pay,Career growth,Policy,2,2,2.56,2.57,2.0
+S0242,T129,M129,Marketing,Bengaluru,2026-04,Historical exits >= 10% (last 3 months),12,1.0,Held,12.0,13,Facilities,Pay,Policy,4,2,2.27,2.32,10.0
+S0243,T129,M129,Marketing,Bengaluru,2026-07,Historical exits >= 10% (last 3 months),71,3.2,Held,9.0,7,Pay,Workload,Policy,3,0,2.21,2.12,4.0
+S0244,T129,M129,Marketing,Bengaluru,2026-10,Historical exits >= 10% and complaint spike,25,4.5,Held,4.0,10,Work location,Pay,Policy,1,0,2.15,,
+S0245,T130,M130,Sales,Gurugram,2026-06,Historical exits >= 10% (last 3 months),17,0.0,Held,3.0,8,Pay,,Policy,3,2,3.07,3.18,1.0
+S0246,T131,M131,Customer Support,Chennai,2025-03,Historical exits >= 10% (last 3 months),14,1.4,Held,16.0,9,Work location,Career growth,Policy,3,3,2.96,2.83,2.0
+S0247,T131,M131,Customer Support,Chennai,2025-06,Historical exits >= 10% (last 3 months),14,2.2,Not held,,0,Pay,Facilities,Policy,0,0,2.88,2.89,1.0
+S0248,T131,M131,Customer Support,Chennai,2026-04,Historical exits >= 10% (last 3 months),23,1.3,Not held,,0,Pay,Workload,Policy,0,0,2.95,2.66,1.0
+S0249,T131,M131,Customer Support,Chennai,2026-09,Historical exits >= 10% (last 3 months),21,2.6,Held,4.0,7,Pay,Team culture,Policy,4,3,2.56,2.29,
+S0250,T133,M133,Engineering,Hyderabad,2024-12,Historical exits >= 10% (last 3 months),17,0.0,Held,3.0,9,Workload,,Policy,4,4,3.57,3.56,0.0
+S0251,T134,M134,Customer Support,Chennai,2025-05,Historical exits >= 10% (last 3 months),20,1.3,Held,5.0,7,Team culture,Pay,Person,2,0,2.65,2.42,1.0
+S0252,T134,M134,Customer Support,Chennai,2026-01,Historical exits >= 10% (last 3 months),18,0.6,Held,4.0,9,Workload,,Policy,1,0,2.95,2.93,0.0
+S0253,T134,M134,Customer Support,Chennai,2026-05,Historical exits >= 10% (last 3 months),18,3.4,Held,14.0,7,Pay,Career growth,Policy,3,3,2.9,2.82,2.0
+S0254,T134,M134,Customer Support,Chennai,2026-08,Historical exits >= 10% (last 3 months),22,2.0,Held,21.0,7,Pay,,Policy,3,1,3.05,2.88,
+S0255,T135,M135,Operations,Pune,2025-12,Historical exits >= 10% (last 3 months),11,1.1,Held,3.0,10,Manager behaviour,Workload,Person,1,0,3.55,3.22,3.0
+S0256,T135,M135,Operations,Pune,2026-03,Historical exits >= 10% (last 3 months),18,1.2,Held,16.0,15,Workload,,Person,2,1,3.27,3.31,0.0
+S0257,T138,M138,Engineering,Coimbatore,2026-03,Complaint score spike,0,5.3,Held,6.0,4,Pay,Manager behaviour,Policy,3,3,3.37,3.24,0.0
+S0258,T139,M139,Finance,Hyderabad,2025-01,Historical exits >= 10% (last 3 months),10,3.0,Not held,,0,Workload,Career growth,Both,0,0,3.48,3.33,0.0
+S0259,T139,M139,Finance,Hyderabad,2025-05,Complaint score spike,0,4.0,Held,19.0,6,Workload,Leave & time off,Both,4,3,3.68,3.54,0.0
+S0260,T140,M140,Operations,Gurugram,2026-01,Historical exits >= 10% (last 3 months),11,0.7,Held,3.0,11,Work location,Workload,Policy,2,2,3.0,3.53,1.0
+S0261,T141,M141,Customer Support,Bengaluru,2025-12,Complaint score spike,7,3.8,Held,12.0,14,Career growth,Pay,Policy,3,1,2.86,3.17,1.0
+S0262,T141,M141,Customer Support,Bengaluru,2026-07,Historical exits >= 10% (last 3 months),14,3.3,Held,8.0,10,Pay,Workload,Policy,4,1,3.05,2.96,0.0
+S0263,T144,M144,Sales,Coimbatore,2025-02,Historical exits >= 10% (last 3 months),10,0.6,Held,3.0,8,Career growth,,Both,1,0,3.09,3.52,1.0
+S0264,T144,M144,Sales,Coimbatore,2025-09,Historical exits >= 10% (last 3 months),10,2.6,Held,12.0,7,Pay,Leave & time off,Policy,3,3,3.14,2.99,0.0
+S0265,T144,M144,Sales,Coimbatore,2026-03,Historical exits >= 10% (last 3 months),10,2.5,Not held,,0,Workload,,Policy,0,0,3.53,3.36,0.0
+S0266,T144,M144,Sales,Coimbatore,2026-06,Complaint score spike,0,5.7,Not held,,0,Discrimination,Workload,Policy,0,0,3.25,3.22,0.0
+S0267,T147,M147,Operations,Gurugram,2025-07,Historical exits >= 10% (last 3 months),17,1.3,Held,5.0,16,Career growth,Workload,Both,3,2,3.01,3.13,0.0
+S0268,T147,M147,Operations,Gurugram,2026-03,Historical exits >= 10% (last 3 months),11,2.4,Held,16.0,11,Career growth,Discrimination,Both,4,2,3.46,3.18,1.0
+S0269,T147,M147,Operations,Gurugram,2026-08,Historical exits >= 10% (last 3 months),11,1.0,Held,3.0,11,Work location,Workload,Policy,2,1,3.15,2.86,
+S0270,T148,M148,Customer Support,Bengaluru,2026-08,Historical exits >= 10% (last 3 months),19,2.0,Held,21.0,8,Team culture,Workload,Person,2,2,3.43,3.22,
+S0271,T149,M149,Data & Analytics,Bengaluru,2025-05,Historical exits >= 10% (last 3 months),10,1.7,Held,15.0,6,Career growth,Facilities,Both,1,0,3.31,2.91,1.0
+S0272,T149,M149,Data & Analytics,Bengaluru,2025-08,Historical exits >= 10% (last 3 months),10,0.0,Held,13.0,7,Manager behaviour,,Policy,4,2,2.94,2.95,0.0
+S0273,T149,M149,Data & Analytics,Bengaluru,2026-03,Historical exits >= 10% (last 3 months),10,3.0,Held,15.0,9,Workload,Facilities,Policy,4,1,2.73,2.57,2.0
+S0274,T149,M149,Data & Analytics,Bengaluru,2026-06,Historical exits >= 10% and complaint spike,20,6.3,Not held,,0,Work location,Workload,Policy,0,0,2.88,3.0,2.0
+S0275,T149,M149,Data & Analytics,Bengaluru,2026-09,Historical exits >= 10% and complaint spike,22,3.9,Held,11.0,6,Work location,Manager behaviour,Policy,3,2,3.0,2.63,
+S0276,T150,M150,Engineering,Pune,2025-02,Historical exits >= 10% (last 3 months),20,3.3,Held,8.0,3,Workload,Pay,Both,3,2,3.6,3.28,0.0
+S0277,T150,M150,Engineering,Pune,2025-07,Historical exits >= 10% (last 3 months),20,1.3,Held,20.0,4,Pay,,Policy,1,1,3.58,3.5,0.0
+S0278,T150,M150,Engineering,Pune,2026-06,Historical exits >= 10% (last 3 months),20,1.3,Held,10.0,3,Workload,,Policy,2,2,3.41,3.18,0.0
+S0279,T150,M150,Engineering,Pune,2026-10,Complaint score spike,0,4.0,Held,14.0,4,Workload,Work location,Policy,2,2,3.26,,
+S0280,T153,M153,Engineering,Bengaluru,2025-02,Historical exits >= 10% (last 3 months),10,0.7,Not held,,0,Workload,,Policy,0,0,3.34,3.17,1.0
+S0281,T153,M153,Engineering,Bengaluru,2025-05,Historical exits >= 10% (last 3 months),11,1.8,Not held,,0,Pay,Workload,Policy,0,0,3.19,3.51,1.0
+S0282,T153,M153,Engineering,Bengaluru,2025-08,Historical exits >= 10% (last 3 months),11,2.8,Not held,,0,Career growth,Pay,Both,0,0,3.77,3.43,1.0
+S0283,T153,M153,Engineering,Bengaluru,2025-11,Historical exits >= 10% (last 3 months),11,0.0,Held,6.0,5,Workload,,Policy,4,2,3.73,3.37,0.0
+S0284,T153,M153,Engineering,Bengaluru,2026-04,Historical exits >= 10% (last 3 months),10,3.3,Held,19.0,7,Workload,Work location,Policy,2,2,3.14,2.82,1.0
+S0285,T153,M153,Engineering,Bengaluru,2026-07,Historical exits >= 10% (last 3 months),10,1.3,Held,12.0,6,Work location,Workload,Policy,1,1,2.8,2.96,2.0
+S0286,T153,M153,Engineering,Bengaluru,2026-10,Historical exits >= 10% (last 3 months),22,2.4,Held,18.0,5,Workload,,Policy,1,0,2.79,,
+S0287,T154,M154,Engineering,Chennai,2026-05,Historical exits >= 10% (last 3 months),12,1.3,Held,8.0,9,Pay,Ethics,Policy,2,2,3.26,3.25,2.0
+S0288,T154,M154,Engineering,Chennai,2026-08,Historical exits >= 10% (last 3 months),13,1.9,Held,11.0,9,Team culture,Workload,Person,2,2,3.34,3.48,
+S0289,T156,M156,HR,Coimbatore,2025-07,Historical exits >= 10% (last 3 months),12,1.2,Held,8.0,6,Team culture,Pay,Person,2,2,4.11,3.98,0.0
+S0290,T156,M156,HR,Coimbatore,2026-01,Complaint score spike,0,4.2,Not held,,0,Leave & time off,Career growth,Person,0,0,4.16,3.84,1.0
+S0291,T156,M156,HR,Coimbatore,2026-04,Historical exits >= 10% (last 3 months),12,0.8,Held,16.0,7,Leave & time off,,Policy,2,2,3.9,3.77,0.0
+S0292,T157,M157,Engineering,Pune,2024-11,Complaint score spike,0,4.0,Held,12.0,12,Workload,Pay,Person,4,2,3.32,3.27,1.0
+S0293,T157,M157,Engineering,Pune,2025-12,Complaint score spike,7,4.1,Held,5.0,8,Workload,Leave & time off,Policy,4,1,3.11,3.23,0.0
+S0294,T157,M157,Engineering,Pune,2026-06,Complaint score spike,7,3.8,Held,21.0,8,Career growth,Pay,Policy,2,2,3.52,3.21,2.0
+S0295,T157,M157,Engineering,Pune,2026-09,Historical exits >= 10% (last 3 months),14,1.4,Held,4.0,11,Workload,Work location,Policy,4,3,3.45,3.56,
+S0296,T158,M158,Operations,Coimbatore,2025-02,Historical exits >= 10% (last 3 months),11,2.2,Held,5.0,8,Workload,Pay,Policy,3,1,3.05,2.89,0.0
+S0297,T158,M158,Operations,Coimbatore,2025-11,Historical exits >= 10% (last 3 months),11,3.3,Held,5.0,7,Pay,Leave & time off,Policy,2,1,3.14,3.03,1.0
+S0298,T158,M158,Operations,Coimbatore,2026-02,Historical exits >= 10% (last 3 months),11,1.2,Held,19.0,7,Team culture,Career growth,Person,4,3,2.96,2.99,1.0
+S0299,T158,M158,Operations,Coimbatore,2026-05,Historical exits >= 10% (last 3 months),11,0.0,Held,13.0,7,Pay,,Policy,3,1,2.97,2.85,0.0
+S0300,T159,M159,QA,Bengaluru,2025-09,Complaint score spike,0,3.9,Held,21.0,9,Workload,Ethics,Policy,4,3,3.57,3.13,0.0
+S0301,T160,M160,Product,Gurugram,2026-07,Historical exits >= 10% (last 3 months),12,1.7,Held,17.0,13,Leave & time off,Workload,Policy,4,4,3.29,3.63,2.0
+S0302,T160,M160,Product,Gurugram,2026-10,Historical exits >= 10% (last 3 months),12,1.9,Held,12.0,11,Work location,Pay,Policy,4,3,3.59,,
+S0303,T161,M161,Customer Support,Pune,2025-02,Historical exits >= 10% (last 3 months),18,3.1,Held,8.0,7,Facilities,Workload,Policy,4,1,3.12,3.02,1.0
+S0304,T161,M161,Customer Support,Pune,2025-11,Historical exits >= 10% (last 3 months),17,3.6,Held,10.0,11,Pay,Leave & time off,Policy,4,1,3.18,3.2,0.0
+S0305,T161,M161,Customer Support,Pune,2026-10,Historical exits >= 10% (last 3 months),18,1.7,Held,21.0,6,Workload,Leave & time off,Policy,1,1,2.86,,
+S0306,T162,M162,Finance,Pune,2025-01,Historical exits >= 10% (last 3 months),11,1.1,Held,3.0,5,Workload,,Both,2,1,3.32,2.87,3.0
+S0307,T162,M162,Finance,Pune,2025-04,Historical exits >= 10% (last 3 months),38,2.9,Held,8.0,7,Workload,Career growth,Both,3,2,2.66,2.78,1.0
+S0308,T162,M162,Finance,Pune,2025-07,Historical exits >= 10% (last 3 months),11,3.3,Not held,,0,Pay,Workload,Policy,0,0,3.01,2.69,1.0
+S0309,T162,M162,Finance,Pune,2025-10,Historical exits >= 10% (last 3 months),11,2.0,Held,13.0,6,Manager behaviour,Workload,Person,3,3,2.96,2.86,0.0
+S0310,T162,M162,Finance,Pune,2026-02,Historical exits >= 10% (last 3 months),11,3.7,Not held,,0,Workload,Career growth,Policy,0,0,2.61,2.58,1.0
+S0311,T162,M162,Finance,Pune,2026-05,Historical exits >= 10% (last 3 months),14,1.9,Held,19.0,4,Work location,Manager behaviour,Policy,2,1,2.76,2.68,1.0
+S0312,T162,M162,Finance,Pune,2026-08,Historical exits >= 10% and complaint spike,12,3.8,Held,8.0,4,Pay,Manager behaviour,Person,4,1,2.76,2.76,
+S0313,T164,M164,Marketing,Gurugram,2025-05,Historical exits >= 10% (last 3 months),14,1.9,Held,17.0,4,Pay,Workload,Policy,2,1,3.14,3.34,0.0
+S0314,T164,M164,Marketing,Gurugram,2025-12,Historical exits >= 10% (last 3 months),14,1.9,Held,8.0,6,Team culture,,Person,1,0,2.84,3.12,0.0
+S0315,T164,M164,Marketing,Gurugram,2026-04,Historical exits >= 10% (last 3 months),14,0.0,Held,4.0,7,Pay,,Policy,3,1,3.19,3.23,0.0
+S0316,T167,M167,QA,Bengaluru,2025-05,Historical exits >= 10% (last 3 months),10,1.3,Held,17.0,9,Career growth,Workload,Policy,1,1,3.95,3.69,0.0
+S0317,T167,M167,QA,Bengaluru,2026-04,Historical exits >= 10% (last 3 months),10,2.7,Held,19.0,9,Career growth,Workload,Policy,3,2,3.17,2.94,1.0
+S0318,T167,M167,QA,Bengaluru,2026-07,Historical exits >= 10% (last 3 months),10,2.0,Held,16.0,6,Work location,Pay,Policy,1,1,2.93,3.14,2.0
+S0319,T167,M167,QA,Bengaluru,2026-10,Historical exits >= 10% (last 3 months),20,2.7,Held,14.0,9,Work location,Career growth,Policy,3,3,3.37,,
+S0320,T168,M168,QA,Gurugram,2025-02,Historical exits >= 10% (last 3 months),12,1.5,Held,6.0,15,Pay,Career growth,Policy,2,1,3.16,2.95,0.0
+S0321,T168,M168,QA,Gurugram,2025-07,Historical exits >= 10% (last 3 months),11,0.4,Held,12.0,14,Facilities,Pay,Policy,2,1,3.27,2.99,0.0
+S0322,T168,M168,QA,Gurugram,2025-12,Historical exits >= 10% (last 3 months),11,1.5,Held,4.0,16,Pay,,Policy,3,2,2.76,2.98,2.0
+S0323,T168,M168,QA,Gurugram,2026-03,Historical exits >= 10% (last 3 months),11,0.0,Held,4.0,12,Pay,,Policy,3,2,3.22,2.89,1.0
+S0324,T168,M168,QA,Gurugram,2026-08,Historical exits >= 10% (last 3 months),24,1.8,Held,14.0,11,Work location,Team culture,Policy,2,0,2.86,2.71,
+S0325,T173,M173,Engineering,Bengaluru,2026-09,Complaint score spike,7,3.8,Held,14.0,11,Work location,Manager behaviour,Policy,2,1,3.44,3.75,
+S0326,T174,M174,Engineering,Hyderabad,2024-12,Historical exits >= 10% (last 3 months),10,1.5,Held,18.0,9,Workload,,Both,3,2,3.43,3.07,0.0
+S0327,T174,M174,Engineering,Hyderabad,2025-08,Historical exits >= 10% (last 3 months),10,0.0,Held,5.0,6,Workload,,Policy,1,0,3.24,3.28,0.0
+S0328,T174,M174,Engineering,Hyderabad,2025-12,Historical exits >= 10% (last 3 months),10,3.7,Held,14.0,5,Career growth,Workload,Policy,1,1,2.76,2.91,0.0
+S0329,T174,M174,Engineering,Hyderabad,2026-07,Complaint score spike,0,4.0,Held,4.0,9,Workload,Work location,Policy,2,0,3.05,2.94,0.0
+S0330,T174,M174,Engineering,Hyderabad,2026-10,Complaint score spike,0,4.7,Held,5.0,7,Work location,Workload,Policy,1,0,2.83,,

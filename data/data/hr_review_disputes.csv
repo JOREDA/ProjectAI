@@ -1,0 +1,129 @@
+dispute_id,comment_id,raised_via,review_window,dispute_reason,outcome,resolved_within_days
+D0001,C03706,Identity token,2026-10 monthly review,Severity too high,Reclassified,14
+D0002,C00892,Receipt code,2025-05 monthly review,Severity too low,Upheld (no change),19
+D0003,C01286,Identity token,2025-08 monthly review,"Should be policy, not person",Upheld (no change),16
+D0004,C00913,Identity token,2025-05 monthly review,Was not escalated but should be,Upheld (no change),8
+D0005,C03075,Identity token,2026-07 monthly review,Severity too high,Reclassified,8
+D0006,C00316,Identity token,2025-02 monthly review,Severity too low,Escalated to HR Ethics,18
+D0007,C03316,Receipt code,2026-08 monthly review,Severity too high,Upheld (no change),15
+D0008,C04033,Identity token,2026-11 monthly review,Theme is wrong,Upheld (no change),12
+D0009,C03473,Identity token,2026-08 monthly review,"Should be person, not policy",Escalated to HR Ethics,17
+D0010,C00423,Receipt code,2025-02 monthly review,"Should be person, not policy",Reclassified,13
+D0011,C00299,Identity token,2025-02 monthly review,Rewrite changed my meaning,Upheld (no change),7
+D0012,C03683,Identity token,2026-10 monthly review,Theme is wrong,Upheld (no change),13
+D0013,C02462,Receipt code,2026-03 monthly review,Severity too high,Upheld (no change),17
+D0014,C01732,Receipt code,2025-11 monthly review,Was not escalated but should be,Reclassified,11
+D0015,C02664,Identity token,2026-05 monthly review,Theme is wrong,Upheld (no change),7
+D0016,C00260,Identity token,2025-02 monthly review,Rewrite changed my meaning,Reclassified,7
+D0017,C03728,Identity token,2026-10 monthly review,"Should be policy, not person",Reclassified,6
+D0018,C04075,Identity token,2026-11 monthly review,Severity too low,Upheld (no change),16
+D0019,C02411,Identity token,2026-03 monthly review,Severity too low,Reclassified,4
+D0020,C00440,Receipt code,2025-02 monthly review,Theme is wrong,Upheld (no change),2
+D0021,C00944,Identity token,2025-05 monthly review,Was not escalated but should be,Reclassified,14
+D0022,C02351,Identity token,2026-02 monthly review,Theme is wrong,Reclassified,11
+D0023,C03149,Receipt code,2026-07 monthly review,Was not escalated but should be,Upheld (no change),14
+D0024,C01924,Identity token,2025-11 monthly review,Theme is wrong,Upheld (no change),12
+D0025,C02420,Identity token,2026-03 monthly review,"Should be person, not policy",Upheld (no change),12
+D0026,C03162,Identity token,2026-07 monthly review,Severity too low,Upheld (no change),2
+D0027,C00213,Identity token,2025-01 monthly review,Theme is wrong,Upheld (no change),4
+D0028,C00079,Identity token,2024-12 monthly review,Rewrite changed my meaning,Reclassified,14
+D0029,C01335,Identity token,2025-08 monthly review,Theme is wrong,Upheld (no change),4
+D0030,C00075,Identity token,2024-12 monthly review,"Should be policy, not person",Escalated to HR Ethics,11
+D0031,C03635,Identity token,2026-09 monthly review,Severity too low,Reclassified,18
+D0032,C03165,Identity token,2026-07 monthly review,Theme is wrong,Reclassified,15
+D0033,C02867,Identity token,2026-05 monthly review,Was not escalated but should be,Upheld (no change),4
+D0034,C00684,Identity token,2025-04 monthly review,Theme is wrong,Upheld (no change),19
+D0035,C02107,Identity token,2026-01 monthly review,"Should be person, not policy",Upheld (no change),2
+D0036,C02932,Receipt code,2026-06 monthly review,Severity too low,Reclassified,6
+D0037,C02131,Identity token,2026-01 monthly review,Theme is wrong,Escalated to HR Ethics,7
+D0038,C00924,Identity token,2025-05 monthly review,Severity too high,Upheld (no change),3
+D0039,C01780,Identity token,2025-11 monthly review,Severity too high,Upheld (no change),7
+D0040,C03038,Identity token,2026-06 monthly review,Severity too high,Upheld (no change),3
+D0041,C03824,Identity token,2026-11 monthly review,"Should be policy, not person",Upheld (no change),19
+D0042,C00287,Identity token,2025-02 monthly review,Was not escalated but should be,Upheld (no change),5
+D0043,C02738,Identity token,2026-05 monthly review,"Should be policy, not person",Escalated to HR Ethics,11
+D0044,C02187,Identity token,2026-02 monthly review,Rewrite changed my meaning,Upheld (no change),19
+D0045,C01946,Receipt code,2025-11 monthly review,Severity too high,Reclassified,5
+D0046,C02418,Identity token,2026-03 monthly review,Theme is wrong,Escalated to HR Ethics,2
+D0047,C02221,Identity token,2026-02 monthly review,Theme is wrong,Upheld (no change),11
+D0048,C02223,Identity token,2026-02 monthly review,Severity too high,Upheld (no change),11
+D0049,C02495,Identity token,2026-03 monthly review,Severity too low,Upheld (no change),16
+D0050,C03274,Receipt code,2026-08 monthly review,"Should be person, not policy",Upheld (no change),10
+D0051,C00462,Receipt code,2025-02 monthly review,Rewrite changed my meaning,Upheld (no change),2
+D0052,C00825,Receipt code,2025-05 monthly review,Severity too high,Reclassified,13
+D0053,C02227,Identity token,2026-02 monthly review,Theme is wrong,Upheld (no change),10
+D0054,C03523,Identity token,2026-08 monthly review,Theme is wrong,Upheld (no change),11
+D0055,C02409,Identity token,2026-03 monthly review,Severity too low,Escalated to HR Ethics,6
+D0056,C02040,Identity token,2025-12 monthly review,Rewrite changed my meaning,Reclassified,15
+D0057,C03047,Receipt code,2026-06 monthly review,Was not escalated but should be,Upheld (no change),19
+D0058,C04082,Identity token,2026-11 monthly review,"Should be policy, not person",Upheld (no change),3
+D0059,C00301,Identity token,2025-02 monthly review,Severity too low,Reclassified,13
+D0060,C03008,Identity token,2026-06 monthly review,"Should be person, not policy",Reclassified,10
+D0061,C02484,Identity token,2026-03 monthly review,Rewrite changed my meaning,Upheld (no change),15
+D0062,C03520,Receipt code,2026-08 monthly review,Severity too low,Reclassified,6
+D0063,C02430,Identity token,2026-03 monthly review,"Should be policy, not person",Upheld (no change),15
+D0064,C01170,Identity token,2025-07 monthly review,Rewrite changed my meaning,Reclassified,2
+D0065,C02174,Receipt code,2026-02 monthly review,Severity too low,Upheld (no change),12
+D0066,C00276,Identity token,2025-02 monthly review,Severity too low,Upheld (no change),12
+D0067,C03004,Identity token,2026-06 monthly review,Severity too low,Upheld (no change),7
+D0068,C02390,Identity token,2026-02 monthly review,"Should be policy, not person",Upheld (no change),18
+D0069,C04010,Identity token,2026-11 monthly review,Severity too high,Reclassified,8
+D0070,C02038,Identity token,2025-12 monthly review,"Should be person, not policy",Reclassified,9
+D0071,C01534,Identity token,2025-09 monthly review,Theme is wrong,Reclassified,19
+D0072,C02317,Identity token,2026-02 monthly review,Severity too low,Reclassified,17
+D0073,C04055,Receipt code,2026-11 monthly review,Was not escalated but should be,Reclassified,2
+D0074,C02766,Receipt code,2026-05 monthly review,Was not escalated but should be,Escalated to HR Ethics,7
+D0075,C00348,Receipt code,2025-02 monthly review,Rewrite changed my meaning,Reclassified,19
+D0076,C03865,Identity token,2026-11 monthly review,Rewrite changed my meaning,Upheld (no change),6
+D0077,C03702,Receipt code,2026-10 monthly review,Was not escalated but should be,Reclassified,19
+D0078,C02569,Identity token,2026-04 monthly review,Severity too high,Upheld (no change),7
+D0079,C00314,Identity token,2025-02 monthly review,"Should be policy, not person",Upheld (no change),3
+D0080,C02516,Identity token,2026-04 monthly review,"Should be person, not policy",Reclassified,14
+D0081,C01122,Identity token,2025-07 monthly review,Severity too low,Reclassified,15
+D0082,C01936,Identity token,2025-11 monthly review,Severity too low,Reclassified,11
+D0083,C00042,Identity token,2024-12 monthly review,"Should be person, not policy",Upheld (no change),19
+D0084,C03160,Identity token,2026-07 monthly review,Severity too high,Reclassified,9
+D0085,C01035,Identity token,2025-06 monthly review,Was not escalated but should be,Reclassified,10
+D0086,C03034,Identity token,2026-06 monthly review,Was not escalated but should be,Upheld (no change),17
+D0087,C02198,Identity token,2026-02 monthly review,Theme is wrong,Upheld (no change),17
+D0088,C00560,Identity token,2025-03 monthly review,"Should be person, not policy",Reclassified,11
+D0089,C03948,Identity token,2026-11 monthly review,"Should be policy, not person",Upheld (no change),15
+D0090,C02787,Identity token,2026-05 monthly review,"Should be person, not policy",Reclassified,11
+D0091,C01530,Identity token,2025-09 monthly review,"Should be person, not policy",Upheld (no change),8
+D0092,C01015,Identity token,2025-06 monthly review,Severity too high,Upheld (no change),14
+D0093,C02538,Identity token,2026-04 monthly review,Severity too low,Reclassified,11
+D0094,C03760,Identity token,2026-10 monthly review,Was not escalated but should be,Reclassified,19
+D0095,C04036,Identity token,2026-11 monthly review,Severity too low,Reclassified,5
+D0096,C03617,Identity token,2026-09 monthly review,"Should be policy, not person",Reclassified,6
+D0097,C02689,Identity token,2026-05 monthly review,Severity too low,Upheld (no change),9
+D0098,C02956,Receipt code,2026-06 monthly review,Was not escalated but should be,Upheld (no change),16
+D0099,C00322,Identity token,2025-02 monthly review,"Should be policy, not person",Escalated to HR Ethics,11
+D0100,C00792,Receipt code,2025-05 monthly review,Rewrite changed my meaning,Reclassified,8
+D0101,C03401,Identity token,2026-08 monthly review,"Should be policy, not person",Reclassified,13
+D0102,C02408,Identity token,2026-03 monthly review,Theme is wrong,Upheld (no change),8
+D0103,C00514,Identity token,2025-03 monthly review,"Should be policy, not person",Reclassified,17
+D0104,C03896,Identity token,2026-11 monthly review,Severity too low,Reclassified,14
+D0105,C03674,Identity token,2026-10 monthly review,Theme is wrong,Reclassified,18
+D0106,C03647,Receipt code,2026-09 monthly review,"Should be policy, not person",Upheld (no change),4
+D0107,C02216,Identity token,2026-02 monthly review,Severity too high,Upheld (no change),16
+D0108,C02522,Identity token,2026-04 monthly review,"Should be person, not policy",Reclassified,7
+D0109,C03696,Identity token,2026-10 monthly review,"Should be person, not policy",Upheld (no change),18
+D0110,C03132,Identity token,2026-07 monthly review,Severity too low,Upheld (no change),2
+D0111,C03156,Identity token,2026-07 monthly review,Theme is wrong,Upheld (no change),10
+D0112,C00195,Identity token,2025-01 monthly review,Rewrite changed my meaning,Reclassified,14
+D0113,C01567,Identity token,2025-09 monthly review,"Should be policy, not person",Reclassified,17
+D0114,C03506,Identity token,2026-08 monthly review,"Should be policy, not person",Upheld (no change),5
+D0115,C01646,Identity token,2025-10 monthly review,Theme is wrong,Reclassified,4
+D0116,C02920,Identity token,2026-06 monthly review,"Should be policy, not person",Reclassified,18
+D0117,C01117,Identity token,2025-07 monthly review,"Should be policy, not person",Reclassified,11
+D0118,C03233,Identity token,2026-08 monthly review,Rewrite changed my meaning,Upheld (no change),6
+D0119,C03046,Identity token,2026-06 monthly review,Theme is wrong,Upheld (no change),3
+D0120,C01344,Identity token,2025-08 monthly review,Severity too low,Escalated to HR Ethics,10
+D0121,C02185,Receipt code,2026-02 monthly review,"Should be person, not policy",Upheld (no change),10
+D0122,C03606,Identity token,2026-09 monthly review,"Should be policy, not person",Upheld (no change),16
+D0123,C02083,Identity token,2026-01 monthly review,Rewrite changed my meaning,Upheld (no change),17
+D0124,C02373,Identity token,2026-02 monthly review,Theme is wrong,Reclassified,2
+D0125,C03264,Identity token,2026-08 monthly review,"Should be policy, not person",Upheld (no change),12
+D0126,C00480,Identity token,2025-03 monthly review,Was not escalated but should be,Reclassified,6
+D0127,C01524,Receipt code,2025-09 monthly review,Severity too high,Reclassified,6
+D0128,C01190,Identity token,2025-07 monthly review,"Should be policy, not person",Reclassified,3

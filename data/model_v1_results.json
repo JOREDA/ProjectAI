@@ -1,0 +1,120 @@
+{
+  "baseline_history_rule": {
+    "precision": 0.43,
+    "recall": 0.3006993006993007,
+    "f1": 0.35390946502057613,
+    "flagged": 200,
+    "positives": 286,
+    "n": 1107
+  },
+  "logistic_regression": {
+    "precision": 0.42424242424242425,
+    "recall": 0.5874125874125874,
+    "f1": 0.49266862170087977,
+    "flagged": 396,
+    "positives": 286,
+    "n": 1107,
+    "auc": 0.7271066327095559
+  },
+  "gradient_boosting": {
+    "precision": 0.4046692607003891,
+    "recall": 0.36363636363636365,
+    "f1": 0.3830570902394107,
+    "flagged": 257,
+    "positives": 286,
+    "n": 1107,
+    "auc": 0.6735177124945699
+  },
+  "split": {
+    "train_rows": 2219,
+    "test_rows": 1107,
+    "train_pos_rate": 0.1608832807570978,
+    "test_pos_rate": 0.25835591689250226
+  },
+  "drift_lr_pre_rto": {
+    "precision": 0.3916083916083916,
+    "recall": 0.56,
+    "f1": 0.4609053497942387,
+    "flagged": 143,
+    "positives": 100,
+    "n": 474,
+    "auc": 0.7107486631016043
+  },
+  "drift_lr_post_rto": {
+    "precision": 0.4426877470355731,
+    "recall": 0.6021505376344086,
+    "f1": 0.510250569476082,
+    "flagged": 253,
+    "positives": 186,
+    "n": 633,
+    "auc": 0.7266002742296311
+  },
+  "retrain_old_model_may_jul": {
+    "precision": 0.4381443298969072,
+    "recall": 0.5944055944055944,
+    "f1": 0.5044510385756676,
+    "flagged": 194,
+    "positives": 143,
+    "n": 475,
+    "auc": 0.7240711096132783
+  },
+  "retrain_new_model_may_jul": {
+    "precision": 0.391156462585034,
+    "recall": 0.8041958041958042,
+    "f1": 0.5263157894736842,
+    "flagged": 294,
+    "positives": 143,
+    "n": 475,
+    "auc": 0.7241132361614289
+  },
+  "top_drivers": {
+    "Manager rating": -0.415,
+    "Team pulse score": -0.286,
+    "Pay vs market": -0.272,
+    "Overtime hours / week": 0.201,
+    "Workload complaints share": -0.171,
+    "Manager changed (6m)": 0.133,
+    "Promotion rate (12m)": -0.131,
+    "Office days required": 0.116,
+    "Transfer requests": 0.088,
+    "Last hike %": -0.078
+  },
+  "example_flags_jul26": [
+    {
+      "team": "T129",
+      "dept": "Marketing",
+      "location": "Bengaluru",
+      "risk": 0.97,
+      "actual_next_3m_attrition_pct": 28.6,
+      "reasons": [
+        "Team pulse score",
+        "Manager rating",
+        "Exits last 3 months"
+      ]
+    },
+    {
+      "team": "T134",
+      "dept": "Customer Support",
+      "location": "Chennai",
+      "risk": 0.93,
+      "actual_next_3m_attrition_pct": 10.0,
+      "reasons": [
+        "Pay vs market",
+        "Team pulse score",
+        "Office days required"
+      ]
+    },
+    {
+      "team": "T162",
+      "dept": "Finance",
+      "location": "Pune",
+      "risk": 0.92,
+      "actual_next_3m_attrition_pct": 25.0,
+      "reasons": [
+        "Manager rating",
+        "Manager changed (6m)",
+        "Team pulse score"
+      ]
+    }
+  ]
+}
