@@ -1255,16 +1255,16 @@ elif view_choice == "Ombudsperson":
         st.caption("Only Severity 4 Critical escalations submitted under 'Sealed Token' mode appear in this vault.")
 
         vault_df = dataset["identity_vault"].copy()
-        critical_vault = vault_df[vault_df["token_status"] == "Active"].copy()
+        critical_vault = vault_df[vault_df["token_status"] == "Eligible"].copy()
 
         st.dataframe(
-            critical_vault[["identity_token", "created_date", "token_status"]],
+            critical_vault[["identity_token", "quarter", "token_status"]],
             use_container_width=True,
             hide_index=True,
             column_config={
                 "identity_token": st.column_config.TextColumn("Sealed Token (Rotated Quarterly)", width="medium"),
-                "created_date": st.column_config.TextColumn("Creation Date", width="small"),
-                "token_status": st.column_config.TextColumn("Vault Status", width="small"),
+                "quarter": st.column_config.TextColumn("Quarter", width="small"),
+                "token_status": st.column_config.TextColumn("Unsealing Eligibility", width="small"),
             },
         )
 

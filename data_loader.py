@@ -251,6 +251,31 @@ def load_dataset() -> Dict[str, Any]:
     policy_events = _read_csv("data/data/policy_events.csv")
     identity_vault = _read_csv("data/data/identity_vault_SEALED.csv")
 
+    receipt_codes = feedback_comments.set_index("comment_id")["receipt_code"]
+    hr_review_disputes["receipt_code"] = (
+        hr_review_disputes["comment_id"].map(receipt_codes).fillna("")
+    )
+    hr_review_disputes["dispute_month"] = hr_review_disputes["review_window"].str.extract(
+        r"(\d{4}-\d{2})", expand=False
+    ).fillna("")
+    hr_review_disputes["reason"] = hr_review_disputes["dispute_reason"]
+    hr_review_disputes["employee_note"] = "Not recorded"
+    hr_review_disputes["days_to_resolve"] = pd.to_numeric(
+        hr_review_disputes["resolved_within_days"], errors="coerce"
+    )
+
+    sealed_critical = (
+        feedback_comments["anonymity_mode"]
+        .astype(str)
+        .str.contains("sealed", case=False, na=False)
+        & pd.to_numeric(feedback_comments["gold_severity"], errors="coerce").eq(4)
+        & feedback_comments["gold_escalate"].astype(str).str.lower().isin(["true", "1"])
+    )
+    eligible_tokens = feedback_comments.loc[sealed_critical, "identity_token"].unique()
+    identity_vault["token_status"] = identity_vault["identity_token"].isin(
+        eligible_tokens
+    ).map({True: "Eligible", False: "Restricted"})
+
     with open(os.path.join(BASE_DIR, "data/llm/llm_output_schema.json"), "r", encoding="utf-8") as f:
         schema = json.load(f)
 
