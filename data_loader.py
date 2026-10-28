@@ -16,6 +16,7 @@ except ImportError:
 
 # Base directory for the project
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATASET_SCHEMA_VERSION = 2
 
 REQUIRED_FILES = [
     "data/data/feedback_comments.csv",

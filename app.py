@@ -138,15 +138,15 @@ data_loader.ensure_app_directories()
 # DATA & MODEL INITIALIZATION
 # -----------------------------------------------------------------------------
 @st.cache_resource(show_spinner=False)
-def initialize_system_data():
-    """Loads all dataset files and trains initial risk model."""
+def initialize_system_data(schema_version: int):
+    """Loads normalized datasets and trains the initial risk model."""
     ds = data_loader.load_dataset()
     pnl_prep = risk_model.prepare_features(ds["team_monthly_panel"])
     model = risk_model.train_or_load_model(pnl_prep)
     return ds, pnl_prep, model
 
 
-dataset, pnl_prepared, global_model = initialize_system_data()
+dataset, pnl_prepared, global_model = initialize_system_data(data_loader.DATASET_SCHEMA_VERSION)
 
 # Initialize session state collections
 if "new_feedback" not in st.session_state:
